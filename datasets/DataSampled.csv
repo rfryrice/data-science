@@ -1,0 +1,1304 @@
+﻿MMSE,Age,Weight,Height,Waist,Hip,Smoking,Smoking (packet/year),Alcohol,DM,DM duration,Insulin,DM drug,Hyperlipidemia,Dyslipidemia duration,Dyslipidemia drugs,KAH,KAH duration,Hypothyroidism,ASTIM,KOAH,OP,Other(s),HT,Anti-HT drug type,HT duration,Education,Occupation,Working Status,Exercise,LowCST,CST,Gait speed,Low grip strength,Grip strength,SARCOPENIA,STAR,BMI,Gender
+,64,66,155,89,104,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High School,Officer,retired,0,0,8.1,1.28,0,28,0,1,27.4,F
+,53,55,150,77,97,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,aritmi,0,,0,,,,,0,8,1.47,1,16,0,1.84,24.4,F
+24,56,56,150,112,125,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,1,Illiterate,house wife,retired,0,0,11.7,0.8,0,23,0,1.48,36,F
+,58,75,160,113,,0,0,0,1,2,0,Glicazide,0,0,,0,0,0,0,0,,,1,CCB,2,illiterate,housewife,unemployed,0,1,18,1.34,0,23,0,1.12,29.3,F
+30,55,72,157,98,104,1,4,0,0,0,0,,0,0,,0,0,0,,0,1,,0,,0,primary school,ev hanımı,retired,1-2/week,,10.9,1.09,,21,0,1.45,29.21,F
+,57,98,179,110,100,1,30,social,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER,5,High School,police officer,retired,1-2/week,0,8,0.83,0,42,0,1.47,30.6,M
+,60,65,164,98,86,1,11.5,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Secondary School,Domestic,Full-time/part-time work,0,0,9.2,1.13,0,22,0,1.44,24.2,F
+27,75,74,170,90,115,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,ACE+B BLOCKER+CCB+DIURETIC,20,illiterate,housewife,Not working,1-2/week,,10.1,1.36,0,22,0,1.05,25.6,F 
+,60,80,150,120,115,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,2,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,26.3,2.06,0,19,0,1.03,35.6,f
+30,76,70,168,99,109,0,0,0,1,20,0,Metformin,0,0,,1,20,0,,,0,,1,,20,University,lecturer,Retired,3-4/week,,10,1.2,,25,1,0.97,24.8,M
+,53,62,155,76,97,1,15,social,0,0,0,,0,0,,0,0,1,0,0,1,,0,,0,high school,graphic artist,retired,0,0,10.2,1.3,0,27,0,1.2,25.8,F
+,68,70,160,93,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+CCB+DIURETIC,7,primary school,worker,retired,3-4/week,0,9.5,1.46,0,26,0,1.1,27.3,F
+28,71,108,164,126,121,1,25,0,1,16,1,metformin+sitagliptin+empagliflozin+insulin aspart+insüülin degludec,1,6,rosuvastatin,1,6,0,0,0,,,1,B BLOCKER,6,primary school,farmer,working,0,1,12.9,0.83,0,38,1,1.2,40.2,M
+29,61,92,155,109,121,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,B BLOCKER+CCB,1.5,illiterate,housewife,retired,1-2/week,0,9.2,1.05,0,31,0,0.85,38.3,F
+29,55,71,1.59,95,105,0,0,0,0,0,0,,0,0,,0,0,1,,,0,,1,ACE,20,primary school,ev hanımı,retired,0,,7.5,1.49,,25,0,0.97,28.1,F 
+23,60,78,159,103,109,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,LDH,0,,0,primary school,Housewife,retired,0,1,12.2,1.1,1,14,1,0.78,31.3,F
+27,51,82,178,97,103,1,35,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,none,none,0,0,7,1.07,0,38,0,1.74,25.9,M
+28,68,90,160,111,124,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,ARB+DIURETIC,15,primary school,housewife,unemployed,3-4/week,1,11.9,1.01,0,26,0,0.92,35.2,F
+,55,84,163,88,113,1,30,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,high school,house wife,retired,0,1,11.9,1.08,0,34,0,1.33,31.6,F
+,70,90,154,121,131,0,0,0,1,6,0,metformin,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,20,primary school,worker,retired,0,1,18,0.7,0,24,1,0.5,38,F
+,74,54,166,72,84,1,100,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+CCB,1,primary School,border control,Retired,3-4/week,0,8.4,0.95,1,25,0,1.46,19.6,M
+,69,66,163,89,105,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+B BLOCKER+DIURETIC,,Primary school,,,0,0,9.5,1.36,0,28,0,0.97,24.8,F
+,67,85,170,104,108,1,70,0,0,0,0,,1,,Atorvastatin,0,0,0,0,0,,,1,ARB+B BLOCKER,4,Secondary School,serviceman,Full-time/part-time work,3-4/week,0,10.6,0.98,0,48,0,1.43,29.4,M
+27,72,64,163,91,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,driver,retired,0,0,10.3,0.92,1,24,0,1.82,24.1,M
+,57,72,163,88,95,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,primary school,ev hanımı,retired,0,1,17.3,0.92,0,25,0,1.01,27.1,F
+,65,70,168,92,104,0,0,0,0,0,0,,0,0,,0,0,0,1,0,0,,0,,0,university,öğretmen,retired,1-2/week,0,11.5,1.3,0,30,0,1.4,24.8,F
+28,50,52,162,68,92,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,None,Working,3-4/week,0,7.7,1.52,0,26,0,1.84,19.8,F
+,67,74,181,98,102,1,15,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,,,0,1,11.9,1.42,0,48,0,1.33,22.6,M
+27,67,103,152,126,138,0,0,0,0,0,0,,1,0.5,atorvastatin,1,0.5,0,0,0,,"gut,epilepsi",1,ARB,20,primary school,housewife,retired,0,0,8.5,1.02,0,25,0,0.65,44.6,F
+,48,65,150,72,69,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,2,University,maid,full-time/part-time work,0,0,5.1,0.94,0,34,0,0.99,28.9,F
+26,53,70,150,95,110,0,0,0,0,0,0,,0,0,,0,0,0,,0,1,,0,,0,primary school,retired,housewife,0,,9.1,0.93,0,22,0,1.06,31.1,F
+,46,81,161,91,113,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,tromboflebit,0,,0,primary school,house wife,not working,3-4/week,,16.2,1.35,0,25,0,1.2,31.3,F 
+24,66,75,158,95,103,0,0,0,1,1,0,metformin,0,0,,0,0,0,0,0,0,,1,,3,illiterate,housewife,Not working,0,,10.9,0.91,0,24,0,0.76,30,F
+29,71,74,160,110,105,0,0,0,0,0,0,,0,0,,1,10,0,0,0,1,,1,CCB+ALDOSTERON,10,primary school,house wife,retired,0,0,9.9,0.72,0,23,0,1.47,28.9,F
+29,65,80,165,99,107,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,0.2,Secondary School,repairman,retired,0,0,7.7,0.94,0,33,0,1.63,29.4,M
+29,60,88,160,110,125,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+DIURETIC,7,high school,Teacher,retired,3-4/week,0,10.2,1.24,1,16,1,0.97,34.4,F
+27,70,67,151,67,151,1,5,0,1,15,1,"insulin aspart,insulin glarjin,metformin",1,10,atorvastatin,1,6,0,0,0,,,1,ARB+B BLOCKER,10,primary school,house wife,retired,3-4/week,1,12.1,0.57,1,17,1,0.83,29.4,F
+21,76,50.5,158,79,96,0,0,0,0,0,0,,1,0.5,Atorvastatin,0,0,,1,,0,,1,DIURETIC,2,illiterate,house wife,Retired,1-2/week,,21,2.41,,13,0,1.38,20.2,F
+28,81,60,153,85,93,0,0,0,1,10,0,saksagliptin,1,5,atorvastatin,1,3,0,0,0,,,1,B BLOCKER,,primary school,house wife,retired,0,1,14.1,0.83,0,21,1,0.85,25.6,F
+26,47,84,168,107,108,1,45,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High school,Official,Working,0,0,10.2,1.34,0,55,0,1.58,29.8,M
+,75,80,163,102,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high School,house wife,,0,1,14.9,0.96,1,15,1,0.88,30.1,F
+30,54,82,182,97,106,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,project manager in transportation,,0,0,4.8,1.64,0,50,0,1.96,24.8,M
+,45,92,158,111,117,1,12,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High School,Hospital Staff,full-time work,0,0,11,1.14,0,28,0,1.3,36.9,F
+30,78,83,170,102,104,0,0,0,0,0,0,,0,0,,0,0,,,0,0,,1,ARB,6,secondary school,elektrikçi,retired,3-4/week,,12.5,1.15,,41,1,0.96,28.7,M
+28,62,59,146,85,102,0,0,0,1,3,0,"metformin,gliclazide",1,3,atorvastatin,0,0,0,0,0,1,meme ca,1,CCB,3,Secondary School,house wife,retired,3-4/week,0,10.1,0.73,1,13,0,1.21,27.7,F
+28,77,76,162,106,109,1,15,0,1,25,1,"metformin, insulin glargin",1,12,atorvastatin,1,12,0,0,0,,,1,ARB+B BLOCKER+CCB,12,Secondary School,officer,retired,0,1,20.2,0.57,1,28,0,1.54,29,M
+28,63,72,154,94,110,1,10,0,0,0,0,,1,10,,,,1,0,0,0,,1,CCB,,primary school,retired,housewife,0,0,11.9,1.12,1,18,0,1.39,30.4,F
+24,57,72,158,80,102,0,0,0,1,6,0,,0,0,,0,0,1,0,0,0,,0,,0,illiterate,housewife,Not working,1-2/week,,8.7,1.28,0,22,0,1.4,28.8,F 
+,55,69,162,100,90,0,0,0,1,8,0,METFORMIN+GLIMEPIRIDE,1,7,,0,0,0,0,0,,,1,ARB,7,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,15.8,1.18,0,20,0,1.38,26.3,F
+29,66,71,142,109,118,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,17,primary school,house wife,retired,0,0,7.4,1.05,1,17,0,1.22,35.2,F
+27,67,62,150,94,104,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,ACE,1,primary school,housewife,Retired,1-2/week,0,7.9,1.22,1,16,0,1.27,27.6,F
+,54,97,155,109,120,1,150,Regular,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+CCB,27,Primary School,Housewife,retired,3-4/week,0,8.9,1.12,0,25,0,0.75,40.4,F
+,67,66,157,84,104,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE+CCB+DIURETIC,10,illiterate,housewife,unemployed,0,1,12.3,0.78,0,28,0,1.19,26.8,F
+29,68,76,156,96,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,aritmi,1,ACE,4,primary school,house wife,retired,0,0,7.5,0.68,0,30,0,1,31.2,F
+,68,73,155,96,114,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary School,Housewife,Unemployed,0,0,9.6,1.18,0,24,0,0.77,30.4,F
+,46,110,163,133,125,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,Mild controlled depression,0,,0,University,Nurse,Full-time/part-time work,0,0,6.3,0.89,0,39,0,1.12,41.4,F
+,67,74,162,99,96,1,40,0,1,10,0,"Gliclazide, Linagliptin",1,5,Atorvastatin,0,0,0,0,0,,,1,ACE+CCB,7,High School,guard,none,0,0,11,0.83,0,32,0,1.21,28.2,M
+,47,79,167,99,106,0,0,0,1,10,0,Metformin,0,0,,0,0,0,0,0,,,1,ACE,1,secondary School,Electrician,Full-time/part-time work,0,0,9.9,0.67,1,29,1,0.97,28.3,M
+28,61,80,175,95,100,1,14,0,0,0,0,,0,0,,0,0,0,0,0,,colon ca,0,,0,high school,driver,retired,3-4/week,0,7.6,0.85,0,46,0,1.7,26.1,M
+29,51,72,170,86.5,99,0,0,0,0,0,0,,0,0,,0,0,0,,,0,,0,,0,university,technician,working,0,,11,1.17,,42,0,2.24,24.91,M
+,51,80,165,83,118,1,30,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+B BLOCKER+CCB,3,High School,Officer,full-time work,0,0,8.3,1.17,0,22,0,1.16,29.4,F
+,55,68,154,102,102,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,0,,0,,,,,0,9,0.96,0,22,0,1.37,28.7,F
+24,65,109,161,129,120,1,40,0,1,20,1,"insulin glarjin,insulin aspart,metformin",1,10,atorvastatin,1,11,0,0,0,,,1,ARB+CCB,10,primary school,worker,retired,0,0,9.2,0.8,1,30,1,1.03,42.1,M
+,68,88,174,105,120,1,1,Regular,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+B BLOCKER,20,Secondary School,saleswoman,Retired,1-2/week,1,13.3,0.65,0,24,0,1.07,29.1,F
+30,65,70,156,95,105,1,25,0,0,0,0,,0,0,,0,0,1,0,0,1,,0,,0,primary school,housewife,Retired,1-2/week,0,6.7,1.22,0,26,0,1.12,28.8,F
+27,63,114,159,126,136,0,0,0,1,16,0,"linagliptin, metformin",0,0,,0,0,1,0,0,,,1,ARB+DIURETIC,16,primary school,house wife,retired,0,0,7.7,0.44,0,25,0,0.89,45.1,F
+,45,102,158,117,126,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+B BLOCKER+CCB,2,primary School,maid,full-time/part-time work,0,0,8.8,0.77,0,40,0,1.03,40.9,F
+,58,75,160,98,117,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,5,Secondary School,Housewife,Unemployed,0,0,11.5,0.72,0,25,0,1.48,29.3,F
+25,64,98,176,110.5,120,1,15,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,secondary school,worker,retired,0,,12.5,1.08,0,42,0,1.4,31.6,M
+30,65,96,179,106,108,0,0,0,1,11,0,metformin,1,15,atorvastatin,1,15,,,,0,kby,1,ACE+B BLOCKER,15,primary school,basın,retired,3-4/week,,17,0.83,,33,1,0.67,30,M
+28,63,85,170,101,107,1,0.1,0,1,8,0,metformin,0,0,,0,0,0,0,0,,svo,1,ARB+DIURETIC,8,Secondary School,delivery man,retired,1-2/week,0,8.2,1.07,0,48,0,1.61,29.4,M
+,46,55,163,70,90,1,20,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High school,salesman,Unemployed,0,0,7.4,1.4,0,21,0,1.59,20.7,F
+,69,67,160,85,112,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,,1,,,High school,,,0,0,9.1,1.42,0,20,0,1.43,26.2,F
+,60,80,155,107,118,1,1,0,0,0,0,,0,0,,0,0,1,0,0,,,1,CCB,21,Secondary School,chef,retired,0,1,14.9,1.01,0,19,1,0.86,33.3,F
+28,50,50,155,80,100,0,0,0,0,0,0,,1,3,atorvastatin,0,0,0,0,0,,,0,,0,illiterate,housewife,,1-2/week,,15.6,1.25,0,22,0,1.38,20.8,F
+29,48,70,152,91,106,0,0,0,1,6,0,metformin,0,0,,0,0,1,0,0,,,1,ACE+B BLOCKER+DIURETIC,6,primary school,housewife,retired,0,0,8.5,1.3,0,29,0,1.65,30.3,F
+28,60,72,159,104,107,0,0,0,0,0,0,,0,0,,1,2,0,0,0,,"görh,duloksetin",0,,0,primary school,housewife,retired,0,0,9.6,1.16,0,23,0,1.34,28.5,F
+,55,70,160,87,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary school,Housewife,unemployed,0,1,13.2,1.2,0,32,0,1.32,27.3,F
+30,55,95,181,114,113,1,7,0,0,0,0,,0,0,,0,0,0,,0,,Hepatit B,0,,0,high school,officer,Retired,3-4/week,,10.6,0.89,,45,0,1.83,29,M
+28,60,68,148,100,110,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,RA,0,,0,primary school,house wife,retired,0,0,10.8,0.68,1,16,1,0.83,31,F
+,68,59,147,110,100,0,0,0,1,10,0,METFORMIN+ MINIDIAB,0,0,,0,0,0,1,0,,,1,ARB,50,Secondary School,HOUSE WIFE,UNEMPLOYED,0,1,15.6,1.34,1,16,0,1.12,27.3,F
+26,62,72,153,95,110,0,0,0,1,15,0,"pioglitazon, metformin, sitagliptin",1,2,pitavastatin,0,0,0,0,0,,venöz yetmezlik,0,,0,primary school,house wife,retired,0,,11.3,0.86,,22,0,0.95,30.8,F
+,56,65,160,81,108,1,20,social,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,high school,emekli ofis çalışanı,retired,1-2/week,1,12.5,1.37,0,29,0,1.55,25.4,F
+,55,83,175,99,114,1,72,0,1,1,0,"METFORMIN, GLICLAZIDE, SITAGLIPTIN",0,0,,0,0,0,0,0,,,1,ARB,1,Illiterate,LABOURER,UNEMPLOYED,0,0,7.2,0.81,0,40,0,1.54,27.1,M
+29,60,92,175,115,106,1,35,social,0,0,0,,0,0,,0,0,0,0,0,,bph,0,,0,primary school,carrier,retired,0,0,11.4,1.04,0,41,0,1.13,30,M
+26,65,91,156,115,110,1,30,0,1,,0,metformin,1,3,,0,0,0,1,0,0,,0,,0,primary school,greengrocer,full-time/part-time work,0,1,13.3,1.1,0,24,0,1.07,37.4,F
+,48,64,147,90,93,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+CCB,3,Secondary school,Housewife,unemployed,0,0,6.7,0.68,0,28,0,0.62,29.6,F
+,59,110,167,118,120,1,21,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High school,Housewife,Unemployed,0,0,9.5,1.28,0,29,0,0.89,39.4,F
+,45,84,155,111,112,0,0,0,1,15,0,Metformin,1,3,Fenofibrate,0,0,0,0,0,,,1,ARB+DIURETIC,3,High school,housewife,unemployed,0,0,5.6,0.91,0,28,0,0.75,35,F
+,70,57,148,87,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER,1,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,17,1.17,0,19,0,1.21,26,F
+26,61,76,150,105,116,0,0,0,1,15,0,"vildagliptin+metformin, Gliclazide",1,15,,0,0,0,0,0,,,1,ACE+CCB,10,primary school,house wife,retired,0,,10.1,0.72,,24,0,1.25,33.8,F 
+28,71,86,166.5,95,108,1,49,0,1,15,0,"sitagliptin, metformin",0,0,,0,0,0,,,0,,0,,0,primary school,car mechanic,retired,1-2/week,,9.6,0.75,,44,0,1.42,31.02,M
+27,63,81,166,104,107,0,0,0,1,8,0,metformin,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,8,primary school,worker,retired,0,0,8.6,1,0,40,0,1.79,29.4,M
+30,59,77,164,105,115,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,housewife,unemployed,1-2/week,1,17,0.92,0,20,0,1.18,28.6,F
+29,60,91,158,101,122,1,40,0,0,0,0,,0,0,,0,0,0,0,0,,vertigo,0,,0,high school,civil servant,retired,0,0,8.7,0.95,0,29,0,1.2,36.5,F
+,79,70,159,83,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+B BLOCKER,,High school,,,0,1,20,0.25,1,7,1,0.99,27.7,F
+19,55,90,155,108,127,1,20,0,1,20,1,"metformin, insulin",0,0,,,,0,0,0,0,,1,,20,illiterate,retired,housewife,0,1,14.9,0.84,0,19,1,0.8,37.5,F
+29,50,98,178,108,112,1,30,Social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+CCB,0.15,Secondary School,driver,working,3-4/week,0,9.2,1.02,0,35,0,1.66,30.9,M
+29,47,82,160,97,115,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+CCB,,secondary school,Worker,Working,3-4/week,0,6.2,1.18,0,30,0,1.4,32,F
+,52,90,160,118,134,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,B BLOCKER,4,primary school,housewife,unemployed,0,1,14.9,0.88,0,38,0,1.08,35.2,F
+30,60,87,163,103,117,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,,1,,10,primary school,housewife,unemployed,0,,15,0.5,0,28,0,1.259,32.8,F
+28,45,58,167,90,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,teacher,,1-2/week,0,8.8,0.98,0,32,0,1.92,20.8,F
+,67,58,158,78,102,0,0,0,1,,0,without drug,0,0,,0,0,1,0,0,,PKOS,0,,0,university,,,0,0,11.9,1.27,1,15,0,1.31,23.2,F
+29,48,60,166,,,1,30,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,primary school,housewife,Retired,0,0,11.3,0.95,0,33,0,1.59,21.8,F
+,62,82,147,125,119,0,0,0,1,5,0,Metformin,0,0,,0,0,0,0,0,,,1,ACE+B BLOCKER,1,Illiterate,Housewife,Unemployed,0,0,11,0.64,1,18,1,0.95,38,F
+30,61,71,152,94,108,1,10,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,2,primary school,housewife,retired,3-4/week,0,10.6,0.92,0,27,0,1.39,30.7,F
+,46,83,165,96,120,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,5,primary school,house wife,unemployed,0,1,14,0.87,0,22,0,1.18,30.5,F
+26,76,73,165,102,119,0,0,0,0,0,0,,0,0,,0,0,0,0,1,,,1,ARB,20,primary school,house wife,retired,0,1,12.5,0.72,0,19,1,0.8,26.8,F
+28,71,76,149,103,124,1,20,0,0,0,0,,1,1,Atorvastatin,1,1,0,0,0,1,,1,B BLOCKER,7,high school,Officer,retired,0,0,10.8,0.98,1,18,1,0.75,34.2,F
+23,69,,,,,1,40,regular,0,0,0,,0,0,,0,0,,,,0,,1,ARB+B BLOCKER,3,secondary school,??,Retired,0,,16.4,1.37,,29,,,,M
+,53,81,163,94,113,1,10,0,0,0,0,,0,1,,0,0,0,0,0,,,1,ACE+DIURETIC,10,high school,house wife,retired,3-4/week,0,8.1,0.52,0,32,0,1.03,35.4,F
+,49,79,149,106,117,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+B BLOCKER+DIURETIC,3,illiterate,maid,full-time/part-time work,0,0,5.9,0.85,0,27,0,0.84,35.6,F
+30,55,72,154,98,103,1,30,0,1,3,0,"vildagliptin+metformin, Gliclazide",1,20,atorvastatin,0,0,0,0,0,1,,1,ACE+CCB,6,secondary School,housewife,retired,0,0,10.6,0.98,0,25,0,1.32,30.4,F
+29,74,57,156,91,102,0,0,0,0,0,0,,1,0.25,atorvastatin,0,0,0,0,0,1,"RA, panik atak",1,B BLOCKER,10,primary school,housewife,retired,0,1,22.6,0.77,1,14,0,1.1,23.4,F
+,68,86,164,115,116,1,10,0,1,6,0,"Metformin, Gliclazide",1,2,Fenofibrate,1,7,0,0,0,,,1,B BLOCKER+CCB,11,illiterate,driver,full-time/part-time work,0,0,10.7,0.77,1,22,1,0.84,32,M
+28,76,78,172,103,105,1,17,0,0,0,0,,0,0,,1,4,0,0,0,,depresyon,1,ARB+DIURETIC,10,University,soldier,retired,3-4/week,,15.4,0.61,,36,1,1.15,26.4,M
+,50,69,155,93,98,0,0,0,0,0,0,,0,0,,0,,0,0,0,0,,1,ARB+DIURETIC,,secondary School,ev hanımı,retired,0,0,8.8,0.95,0,33,0,1.43,28.7,F 
+27,54,63,147,93,97,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+DIURETIC,10,primary school,house wife,retired,3-4/week,0,6.9,1.12,0,21,0,1.08,29.2,F
+,75,85,165,117,113,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,4,Primary School,Guard,Retired,0,0,11,0.64,0,40,0,1.14,31.2,M
+28,61,68,157,88,103,1,5,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,house wife,retired,1-2/week,0,7.2,1,0,31,0,1.38,27.6,F
+,68,84,168,108,113,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+B BLOCKER,4,secondary school,worker,full-time/part-time work,3-4/week,1,11.9,1.13,0,44,0,0.95,29.8,M
+,51,115,169,116,131,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER+CCB,16,High school,bank clerk,full-time work,0,0,11,0.83,0,19,0,0.97,40.3,F
+28,66,93,175,116,110,1,50,0,1,12,0,"Metformin,detemir,aspart",0,0,,0,0,0,1,0,,,1,ARB+B BLOCKER+DIURETIC,15,University,officer,retired,3-4/week,0,10.8,0.98,0,40,0,1.27,30.4,M
+22,73,67,157,96,112,0,0,0,1,15,0,metformin,1,5,,0,0,0,0,0,1,"meme ca,dvt,vertigo",0,,0,Illiterate,house wife,retired,0,1,13.5,0.58,1,18,0,1.4,27.2,F
+29,53,60,158,70,100,0,0,0,0,0,0,,0,0,,,,1,0,0,0,,0,,0,high school,retired,housewife,3-4/week,0,10.5,1.41,0,20,0,1.39,24,F
+,48,80,178,93,102,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary School,worker,Full-time/part-time work,0,0,11.3,0.93,0,52,0,1.81,25.3,M
+25,82,71,145,106,119,0,0,0,1,25,0,metformin,1,1,rosuvastatin,0,0,0,0,0,1,,1,ARB+CCB,25,Illiterate,house wife,retired,0,1,13.9,0.43,1,14,1,0.97,33.8,F
+,50,90,161,115,108,0,0,0,0,0,0,,1,4,Simvastatin,0,0,0,0,0,,,1,ARB+B BLOCKER+CCB+DIURETIC,4,High school,Housewife,Unemployed,3-4/week,0,7.7,0.78,0,20,0,1.18,34.7,F
+30,63,65,160,86,94,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,University,teacher,Retired,1-2/week,1,13,0.98,1,18,0,1.47,25.4,F
+29,61,71,156,100,107,1,50,0,1,4,0,Metformin,0,0,,0,0,1,0,0,,,1,ACE+CCB,20,primary school,housewife,retired,0,0,10.7,0.85,1,15,0,1.57,29.2,F
+27,68,72,150,102,109,0,0,0,1,20,,,0,0,,0,0,0,,0,1,,1,,10,illiterate,retired,housewife,3-4/week,,10.5,0.72,0,19,0,0.95,32,F
+28,76,65,150,105,117,0,0,0,0,0,0,,0,0,,,,0,0,0,0,,1,B BLOCKER,14,Primary school,retired,housewife,1-2/week,0,11,,0,22,0,1.15,28.9,F
+,48,70,151,100,111,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,4,primary School,housewife,unemployed,1-2/week,0,11.9,0.97,0,25,0,1.02,30.7,F
+,54,78,159,110,111,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,tremor,0,,0,,,,,0,9,1.1,0,21,0,1.19,30.9,F
+28,54,59,167,75,95,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,Housewife,retired,0,0,9.7,1.25,0,29,0,1.01,21.2,F
+30,48,60,150,88,105,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Psychologist,Working,0,0,8.6,1.14,0,26,0,1.43,26.7,F
+,65,75,159,95,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,19,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,16.1,1,0,20,0,1.65,29.7,F
+,53,56,160,70,93,1,10,0,0,0,0,,0,0,,0,0,0,0,0,1,celiacı,0,,0,high school,house wife,retired,0,0,7.7,1.13,0,28,0,1.44,21.9,F
+23,67,66,156,100,106,0,0,0,1,1,0,"vildagliptin,empagliflozin,metformin",0,0,,0,0,0,0,0,,,0,,0,primary school,house wife,retired,0,1,13.3,0.78,1,15,0,1.28,27.1,F
+25,72,83,152,109,120,0,0,0,1,20,0,metformin,1,11,pitavastatin,1,7,1,0,0,,inkontinance,1,ARB+DIURETIC+A BLOCKER,20,primary school,housewife,retired,0,0,10.2,0.97,0,19,0,0.97,35.9,F
+25,60,73,153,94,111,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+DIURETIC,15,primary school,house wife,retired,3-4/week,0,9,0.7,0,22,0,1.27,31.2,F 
+,49,96,144,117,134,0,0,0,0,0,0,,1,1,Rosuvastatin,0,0,0,0,0,,,1,ARB+CCB+DIURETIC,1,Secondary School,Housewife,Unemployed,0,0,7.5,0.67,0,20,0,0.63,46.3,F
+,57,92,175,116,108,1,30,0,0,0,0,,0,0,,0,0,0,0,0,,BPH,0,,0,University,emekli ofis çalışanı,retired,0,1,12.5,0.9,1,30,0,,30,M
+,63,80,174,115,120,0,0,0,1,6,0,GLIMEPIRIDE+ METFORMIN/SITAGLIPTIN,1,5,,1,3,0,0,0,,,1,ARB+CCB,6,university,CONTRACTOR,full-time work,0,1,15.1,0.78,1,26,1,1.32,26.4,M
+30,57,81.5,147,103,122,0,0,0,0,0,0,,0,0,,0,0,1,0,0,, İTP,1,CCB,5,Secondary School,house wife,retired,0,,8.4,0.69,,22,0,0.93,37.7,F 
+30,62,89,185,102,104,1,15,0,0,0,0,,0,0,,0,0,0,0,0,,BPH,1,CCB,30,university,Teacher,part-time work,0,0,9.6,1.12,0,49,0,1.31,26,M
+30,76,67,170,90,102,0,0,0,0,0,0,,1,3,atorvastatin,0,0,,,0,0,,1,ACE,3,University,mühendis,retired,3-4/week,,11.2,0.84,,34,0,1.46,23.2,M
+26,78,70,142,85,98,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,"over ca,guatr",1,ARB+DIURETIC,5,primary school,house wife,retired,0,0,8,1.18,1,17,0,1.19,34.7,F
+,65,77,165,117,120,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,25,Illiterate,HOUSE WIFE,UNEMPLOYED,1-2/week,1,16.2,1.13,0,19,0,1.21,28.3,F
+29,68,79,157,98,116,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,Illiterate,house wife,retired,0,1,17.3,0.85,0,22,0,1.24,32.1,F
+30,72,102,174,116,118,1,40,0,0,0,0,,0,0,,0,0,0,0,0,,bph,0,,0,primary school,driver,retired,1-2/week,1,12.6,0.78,0,42,1,1.24,33.7,M
+,52,85,170,93,102,1,5,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,4,high school,worker,full-time/part-time work,3-4/week,0,9.3,1.48,0,38,0,1.42,29.4,M
+29,76,81,160,108,113,1,2,social,1,40,1,"metformin,insulin ",1,5,atorvastatin,1,11,0,0,0,,,1,ARB+B BLOCKER,10,Secondary School,tailor,retired,0,0,10.1,0.97,0,20,0,1.52,31.6,F
+,55,84,163,112,115,1,20,0,1,4,0,"Metformin, Gliclazide",0,0,,0,0,0,0,0,,Depression,1,B BLOCKER+CCB,10,Primary School,maid,Full-time/part-time work,0,0,7,0.64,0,32,0,0.94,31.6,M
+30,73,73,158,98,104,1,10,0,0,0,0,,0,0,,1,15,0,0,0,,,1,B BLOCKER,20,university,civil servant,retired,0,0,9.3,0.91,0,35,0,1.22,29.2,M
+26,64,60,165,82,93,1,30,0,1,6,0,Gliclazide,0,0,,0,0,0,,,0,,1,,1,secondary school,officer,retired,3-4/week,,9.1,1.06,,33,0,1.25,22.04,M
+,66,80,153,114,112,1,70,0,1,10,1,metformin+insulin,0,0,,0,0,1,0,0,0,,1,ARB+CCB+DIURETIC,27,high school,officer,retired,0,1,12.8,0.98,0,21,0,1.1,34.2,F
+27,53,88,164,116,108,1,5,0,0,0,0,,0,0,,1,20,0,0,0,,,1,ARB+B BLOCKER+DIURETIC,20,Secondary School,worker,working,0,0,11.8,0.55,0,41,0,1.46,32.7,M
+30,65,75,159,96,111,1,20/ex-smoker,0,0,0,0,,0,0,,0,0,1,0,0,0,,1,ARB,10,primary school,housewife,unemployed,1-2/week,1,15.2,1.1,0,30,0,1.29,29.7,F
+,67,97,155,113,129,0,0,0,0,0,0,,1,10,atorvastatin,1,10,0,0,0,,SVO,1,ARB+DIURETIC,10,illiterate,house wife,unemployed,0,1,21,0.86,1,18,1,0.68,40.4,F
+25,73,107,180,127,115,0,0,0,1,10,1,"insuin glarjin,insulin aspart",0,0,,1,9,0,0,0,,üveit,1,ACE+DIURETIC,10,Illiterate,farmer,retired,0,1,15.2,0.57,0,36,1,1.11,33,M
+,49,72,159,120,125,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary school,Housewife,unemployed,0,1,13,0.9,1,14,0,1.07,28.5,F
+,65,75,168,110,105,0,0,0,1,2,0,Metformin,1,2,,0,0,0,0,0,,,1,ARB+DIURETIC,4,high school,SOLDIER,retired,0,1,13.8,0.96,1,25,0,1.66,26.6,M
+,61,74,158,103,104,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,University,secretary,retired,0,0,11.3,1.5,0,28,0,1.06,29.6,F
+,64,70,160,104,102,1,104,0,0,0,0,,0,0,,0,0,1,0,0,,RA,1,B BLOCKER,10,Primary School,,Retired,0,1,16.5,0.73,1,12,0,1.28,27.3,F
+30,45,68,156,92,109,0,0,0,0,0,0,,0,0,,0,0,1,,0,0,,1,,0.65,housewife,unemployed,Abstinence,0,,12.6,0.9,,18,0,1.46,27.94,F
+,68,87,154,122,107,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,"LHNP, CHNP, gastrit",0,,0,,,,,0,11,0.87,0,21,0,1.07,36.7,F
+21,70,73,170,95,103,1,7.5,0,1,8,1,"empagliflozin,insulin glarjin",0,0,,0,0,0,0,0,,gastrıt,0,,0,illiterate,construction worker,retired,3-4/week,0,11.4,0.59,1,31,0,1.53,25.3,M
+28,77,72,150,102,110,1,1,0,1,22,0,"sitagliptin, metformin, Gliclazide",0,0,,0,0,0,0,0,,,1,CCB,22,illiterate,house wife,retired,0,0,8.9,1.13,0,22,0,0.9,32,F 
+,61,76,153,93,105,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,Housewife,Unemployed,3-4/week,0,11,1.31,0,41,0,1.45,32.5,F
+,61,86,165,96,104,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,10,Primary school,Housewife,Unemployed,0,1,17,1.5,0,27,0,1.01,31.6,F
+,62,81,172,102,101,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,,,,,0,10,1.06,0,38,0,1.91,27.4,M
+20,67,91,155,118,124,0,0,0,0,0,0,,1,20,Rosuvastatin,0,0,0,1,0,1,"MVR, Astım",1,,20,Illiterate,housewife,Retired,3-4/week,,14.8,0.97,,19,1,0.81,37.88,F
+28,66,64,150,95,96,0,0,0,0,0,0,,0,0,,,,0,0,0,1,,0,,0,Primary school,retired,housewife,0,0,9.7,1.25,1,17,0,1.15,28.4,F
+29,65,78,160,115,95,0,0,0,0,0,0,,1,4,atorvastatin,0,0,0,0,0,0,,1,CCB+A BLOCKER,4,illiterate,housewife,unemployed,0,1,15.3,0.71,1,14,0,1.54,30.5,F
+30,67,75,158,94,116,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,RA,1,ACE,0.15,primary school,housewife,retired,3-4/week,0,8.2,0.95,0,19,0,1.14,30,F
+23,63,89,144,109,129,1,8,0,0,0,0,,1,3,atorvastatin,1,1,1,0,0,,,1,ACE,3,Illiterate,house wife,retired,3-4/week,1,13.2,0.37,0,25,0,1.11,42.9,F
+,50,60,160,80,100,1,1,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,University,nurse,working,0,0,9.8,1.27,0,33,0,1.65,23.4,F
+,48,67,156,95,100,0,0,0,1,14,1,"Metformin, Gliclazide, Insulin, Vildagliptin",0,0,,0,0,0,0,0,,,1,ACE+B BLOCKER+DIURETIC,0.5,Secondary School,maid,full-time/part-time work,3-4/week,0,5.1,0.96,1,29,1,1.29,27.5,M
+,60,70,169,83,100,0,0,Social,0,0,0,,1,8,Atorvastatin,0,0,0,0,0,,,1,B BLOCKER,20,High School,Master of laboratories,Full-time/part-time work,3-4/week,0,8,1.4,0,24,0,1.35,24.5,F
+,48,79,155,98,116,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,"migren, kts",0,,0,high school,housewife,unemployed,0,0,11,1.22,0,27,0,1.36,32.9,F
+29,65,70,163,88,110,0,0,0,0,0,0,,0,0,,0,0,1,,0,0,,1,B BLOCKER,1,secondary school,ev hanımı,retired,3-4/week,,8.2,1.16,,29,0,1.2,26.4,F 
+,50,67,175,90,93,1,32,Social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High School,Hospital operational assistant,Full-time/part-time work,0,0,8.9,1.06,0,38,0,1.71,21.9,M
+,57,80,160,90,100,0,0,0,1,5,0,Metformin,0,0,,0,0,0,0,0,,,1,ACE+CCB,1,Primary School,Housewife,unemployed,0,1,12.7,0.78,0,20,0,1.57,31.3,F
+26,70,65,161,101,103,0,0,0,0,0,0,,1,15,atorvastatin,0,0,0,0,0,1,,1,DIURETIC,18,primary School,officer,retired,0,1,17.8,0.9,1,13,1,0.69,25.1,F
+,68,56,165,68,100,1,8,social,0,0,0,,0,0,,0,0,0,1,0,0,,0,,0,University,teacher,retired,3-4/week,0,10.3,1.25,0,23,0,0.96,20.6,F
+30,55,85,156,108,120,1,12,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,8,Secondary School,housewife,unemployed,1-2/week,0,8.7,1.17,0,39,0,1.21,34.9,F
+,50,78,166,100,106,1,shisha for 20 years,0,0,0,0,,1,5,Simvastatin,1,4,0,0,0,,,1,ARB+CCB+DIURETIC,7,High school,Entrepreneur,retired,0,0,6.7,0.94,0,32,0,1.04,28.3,M
+30,57,83,173,109,100,1,20,0,1,10,1,"metformin,Gliclazide,insulin detemir",0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,5,high school,worker,retired,0,0,11.3,0.98,0,32,0,1.16,27.7,M
+30,73,73,170,99,101,0,0,0,1,3,0,Metformin,1,,rosuvastatin,1,20,0,0,0,,"Metoprolol, Asetilsalisilik asit",0,,0,Secondary School,boilermaking,Retired,0,0,9.7,1.058,1,31,1,1.12,25.3,M
+29,50,90,175,110,102,1,60,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High school,Official,Working,0,0,7.2,1.43,0,48,0,1.32,29.4,M
+30,49,62,168,74,94,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Manager,Working,3-4/week,0,6,1.32,0,22,0,1.57,22,F
+,45,74,154,103,115,0,0,0,1,13,1,Insulin,1,2,Fenofibrate,0,0,0,0,0,,,1,ACE+DIURETIC,5,Primary School,maid,Full-time/part-time work,0,0,6.9,0.68,0,20,0,1.13,31.2,F
+28,66,95,176,111,107,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,engineer,retired,0,0,9.1,1.03,0,46,0,1.36,30.7,M
+,46,89,170,115,112,0,0,0,1,11,1,"Gliclazide, Insulin",0,0,,0,0,0,0,0,,,1,CCB,15,Secondary School,Driver,Full-time/part-time work,0,0,11.8,0.79,0,44,0,1.45,30.8,M
+29,81,60,170,82,91,1,30,0,0,0,0,,1,30,atorvastatin,1,25,0,0,0,,,0,,0,University,executive,retired,1-2/week,1,13,1.09,0,35,0,1.52,20.8,M
+30,57,93,170,108,112,1,18,Social,0,0,0,,0,0,,0,0,0,0,0,,diyabetes insipitus,1,,3,primary school,driver,working,0,0,11.9,0.91,1,30,0,1.57,32.2,M
+28,61,95,166,114,118,0,0,0,1,10,0,metformin,0,0,,0,0,1,1,0,,,1,B BLOCKER+CCB+DIURETIC,16,primary school,housewife,retired,0,0,10.2,1.23,0,25,0,1.21,34.5,F
+28,63,78,154,103,125,1,5,0,0,0,0,,0,0,,0,0,0,0,0,,Esansiyel tremor,0,,0,primary school,housewife,retired,0,0,10.1,1.08,0,21,0,0.97,32.9,F
+,76,75,174,103,106,0,0,Regular,0,0,0,,1,10,rosuvastatin,0,0,0,0,0,,,1,ACE+B BLOCKER+CCB+DIURETIC,10,Secondary School,locksmith,Retired,0,1,19.8,1,0,32,1,1.17,24.8,M
+29,66,83,155,96,118,0,0,0,0,0,0,,0,0,,0,0,,,0,1,varis,0,,0,secondary school,ev hanımı,retired,3-4/week,,8.5,0.87,,20,0,0.97,34.6,F
+29,48,72,158,98,97,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Nurse,Working,0,0,10.9,1.45,0,26,0,1.4,28.8,F
+,60,80,155,105,110,1,5,0,0,0,0,,1,7,Atorvastatin,0,0,0,0,0,,,1,ARB+CCB,10,University,teacher,retired,1-2/week,0,10,0.83,0,27,0,0.99,33.3,F
+27,51,108,164,115,126,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,nodular guatr,1,ACE,4,primary school,housewife,,0,,13.3,1.33,0,20,1,0.93,40.2,F
+,53,71,159,80,103,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,University,hemşire,working,0,0,7.8,1.27,0,28,0,1.57,28.1,F
+29,47,61,158,78,100,0,0,0,0,0,0,,0,0,,,,0,,0,1,,0,,0,primary school,housewife,retired,0,,6.3,1.41,0,20,0,0.95,24.4,F 
+,70,56,159,86,104,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,,,0,1,13,1.36,0,23,0,1.12,22.2,F
+29,62,71,174,86,101,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,4,high school,civil servant,retired,0,0,10.4,0.72,0,41,0,1.4,23.5,M
+,83,77,165,106,98,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,,,,,,0,11,0.72,0,33,0,1.4,28.3,M
+28,72,80,173,92,104,0,0,0,1,10,0,Linagliptin,0,0,,0,0,,,,0,KBH,1,CCB,6,primary school,Memur,retired,1-2/week,,5.9,1.11,,32,0,1.52,26.7,F 
+28,63,73,152,114,109,1,35,0,0,0,0,,0,0,,0,0,0,0,0,1,periferik arter hastalığı,1,ACE+B BLOCKER+DIURETIC,6,primary school,housewife,retired,3-4/week,1,12.5,0.98,1,18,0,1.11,31.6,F
+,73,55,168,110,95,1,EX SMOKER 300/YEAR 9 YRS BACK,0,0,0,0,,0,0,,0,0,0,0,0,,svo,1,ARB+CCB,9,Secondary School,VETERAN,RETIRED,0,1,12.6,1.16,1,25,0,2.14,19.5,M
+,51,73,157,91,92,0,0,0,1,10,0,Metformin,1,5,"Simvastatin, fenofibrate",0,0,0,0,0,,Allergic rhinitis,1,ACE,7,Primary School,maid,Full-time/part-time work,0,0,5.7,1.02,0,26,0,1.11,29.6,F
+30,68,71,174,90,97,1,70,0,0,0,0,,0,0,,0,0,0,0,0,,,1,DIURETIC,5,primary school,worker,retired,0,0,9.2,0.77,0,33,0,1.75,23.5,M
+20,62,74,156,90,117,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,CCB,2,primary school,housewife,Retired,1-2/week,1,13.6,0.9,0,20,0,1.08,30.4,F
+,50,80,166,99,108,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,,0,,0,primary school,işçi,part-time work,0,1,12,1.32,0,27,0,1.31,29,F
+28,73,50,155,85,90,1,40,0,0,0,0,,0,0,,1,20,,,,0,,1,ACE+CCB,20,secondary school,ev hanımı,retired,0,,9.8,1.26,,13,0,1.08,20.8,F 
+30,63,78,154,100,117,0,0,0,1,10,0,metformin,0,0,,0,0,0,0,0,,aritmi,1,ARB+B BLOCKER+DIURETIC,10,high school,officer,retired,0,0,9.4,0.75,0,25,0,1.05,32.9,F
+,46,57,157,76,94,1,32,social,0,0,0,,0,0,,0,0,0,0,0,,Mild controlled depression,0,,0,High School,Administrative Assistent,Full-time/part-time work,3-4/week,0,5,1.35,0,27,0,1.45,23.1,F
+30,63,83,150,104,120,0,0,0,1,13,1,"linagiltin,metformin,insulin glarjin",0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,13,primary school,house wife,retired,0,1,11.9,0.71,0,22,0,0.89,36.9,F
+,73,88,150,123,115,0,0,0,0,0,0,,0,0,,0,0,0,0,1,1,,0,,0,,,,,1,11,0.81,0,19,0,1.29,39.1,F
+,73,89,158,110,115,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,20,primary school,HOUSE WIFE,UNEMPLOYED,0,1,16.6,1.07,1,18,1,0.97,35.9,F
+29,50,76,167,100,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary school,Official,Working,3-4/week,0,8.6,0.94,0,38,0,1.83,27.3,M
+18,66,73,149,112,121,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,6,Illiterate,house wife,retired,0,0,10.1,0.84,0,19,0,0.68,32.9,F
+29,55,86,177,104,103,1,10,Social,1,4,1,"pioglitazon, insulin glarjin",0,0,,0,0,0,0,0,,,1,ARB+CCB,4,Secondary School,worker,retired,0,0,9.4,0.92,0,47,0,1.45,27.5,M
+29,54,82,163,94,113,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE,10,primary school,house wife,retired,3-4/week,0,7.2,0.8,0,31,0,1.29,30.9,F
+29,67,62,147,96,108,0,0,0,1,10,0,metformin,0,0,,0,0,0,0,0,,vertigo,1,B BLOCKER+DIURETIC,10,Illiterate,house wife,retired,0,0,9.8,0.74,0,23,0,1.39,28.7,F
+29,72,60,147,85,95,0,0,0,0,0,0,,0,0,,0,0,1,0,0,1,,1,,3,primary school,housewife,Retired,0,0,11.6,0.86,1,15,0,1.29,27.8,F
+26,67,86,159,111,120,1,1,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,6,primary school,house wife,retired,1-2/week,1,12,0.59,0,20,0,1.17,34,F
+,67,81,168,93,103,1,25,0,1,2,0,metformin,0,0,,0,0,0,0,0,,,1,ACE,3,primary school,chef,retired,0,1,17.1,0.89,0,36,1,1.06,28.7,M
+30,61,65,162,85,109,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,Vertigo,1,ARB+CCB+DIURETIC,15,primary school,Housewife,retired,0,1,16.2,0.69,1,12,0,1.15,24.7,F
+,49,61,163,84,103,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,3,University,government official,full-time work,0,0,10,1,0,26,0,2.13,23,F
+29,52,92,178,115,118,1,30,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Secondary School,Cleaning worker,Working,0,1,13.8,1.09,0,42,1,1.16,29,M
+,45,72,155,96,117,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,1,University,Nursing staff,Full-time/part-time work,0,0,9.9,0.96,0,30,0,1.05,30,F
+23,59,98,150,104,135,0,0,0,0,0,0,,0,0,,1,15,0,0,0,,,1,ARB+DIURETIC,15,illiterate,house wife,retired,0,0,8.4,0.75,0,24,0,0.73,43.6,F
+,49,68,172,78,102,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER,5,high school,housewife,unemployed,3-4/week,1,16,1.05,1,18,1,1,23,F
+30,56,74,155,101,105,1,10,0,1,0.25,0,"sitagliptin,metformin,Gliclazide",0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,3,high school,house wife,retired,0,0,10.3,0.73,0,26,0,1.32,30.8,F
+27,52,79,160,94,117,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+DIURETIC,8,primary school,house wife,retired,0,0,9.6,0.65,0,23,0,1.1,36.7,F
+,71,85,155,116,123,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,Depresyon,1,ARB+CCB,16,primary school,housewife,unemployed,0,1,11.9,0.94,0,27,0,0.88,35.4,F
+,51,74,167,107,98,1,30,0,1,20,0,pioglitazon,0,0,,0,0,0,0,0,,,1,ACE,1,university,engineer,retired,3-4/week,0,8.5,1.44,0,40,0,0.96,26.5,M
+30,74,101,177,120,115,1,60,social,1,15,0,metformin,1,5,atorvastatin,1,15,0,0,0,,bph,1,ARB+CCB,20,high school,musician,retired,3-4/week,0,8.7,1.17,1,30,1,1.32,32.2,M
+,78,74,167,110,101,0,0,social,0,0,0,,1,30,Simvastatin,0,0,0,0,0,,Venöz yetmezlik,1,ACE+DIURETIC,20,Primary School,Commercial,Retired,0,1,14.1,0.92,1,16,0,1.12,26.5,F
+29,52,81,170,97,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Official,Working,3-4/week,0,7,1.02,1,30,1,1.32,28,M
+,65,75,158,110,112,0,0,0,1,1,0,"Sitagliptin, metformin",1,1,,0,0,0,0,0,,,1,ARB,2,secondary School,HOUSE WIFE,UNEMPLOYED,0,1,14.3,1.03,1,17,0,1.32,30,F
+30,62,70,147,90,101,0,0,0,0,0,0,,0,0,,0,0,0,,,0,"hbv taşıyıcı, varis",0,,0,primary school,house wife,retired,3-4/week,,8.4,0.8,,26,0,1.21,32.39,F
+29,54,66,157,99,107,0,0,0,0,0,0,,0,0,,0,0,0,,0,,,0,,0,university,temizlik personeli,part-time work,3-4/week,,6.3,1.19,,20,0,0.96,26.78,F
+27,76,83,153,118,119,0,0,0,1,2,0,metformin,1,5,atorvastatin,1,5,0,0,0,,,1,B BLOCKER,5,primary school,housewife,retired,0,0,11.4,1.05,0,21,0,0.99,35.5,F
+25,60,75,165,102,121,1,3,0,0,0,0,,1,15,Atorvastatin,0,0,0,,0,1,"Renal transplant, guatr",1,,30,secondary school,housewife,Retired,0,,8.5,1.12,,19,0,1.04,27.55,F
+29,49,76,170,92,104,1,32,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,worker,working,0,0,8.3,1.13,0,45,0,1.92,26.3,M
+28,60,87,151,106,121,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,"disritmi, RA",1,ARB+B BLOCKER,10,primary school,housewife,retired,3-4/week,0,9.1,1.19,0,23,0,0.87,38.2,F
+27,58,58,165,72,99,0,0,0,0,0,0,,0,0,,0,0,,,0,0,Ritm Bozukluğu,0,,0,high school,ev hanımı,retired,0,,8.2,1.39,,19,0,1.18,21.3,F 
+29,61,70,160,96,100,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,civil servant,working,3-4/week,0,11.3,0.74,1,28,0,1.65,27.3,M
+28,62,57,162,92,97,1,50,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,secondary school,waiter,,0,0,11.3,1,0,38,0,1.28,21.7,M
+,52,83,176,115,108,1,5,social,1,1,0,Metformin,0,0,,0,0,0,0,0,,,1,ACE,2,primary school,Repairman,retired,1-2/week,0,10,1.09,0,49,0,1.29,26.8,M
+25,73,91,157,108,128,0,0,0,1,1,0,metformin,1,10,atorvastatin,1,10,0,0,0,,,1,B BLOCKER,20,illiterate,housewife,retired,0,1,12.6,0.72,0,24,1,0.96,36.9,F
+,70,71,156,101,100,1,30,0,0,0,0,,0,0,,0,0,0,0,0,,BPH,1,ARB+CCB+DIURETIC,5,University,Accountant,Retired,0,0,12,0.97,1,28,1,0.92,29.2,M
+28,61,73,150,111,120,0,0,0,1,5,1,"insulin aspart,insulin glarjin,metformin",0,0,,0,0,0,0,0,,meme ca,1,ACE+DIURETIC,5,Illiterate,house wife,retired,0,0,9.5,0.72,1,18,0,1.28,32.4,F
+,56,85,155,103,127,1,50,0,1,9,1,Vildagliptin+ insulin,1,9,fenofibrate,0,0,0,0,0,,,1,ARB+B BLOCKER+DIURETIC,9,high school,worker,retired,0,0,9.5,1.45,0,22,0,1.18,35.4,F
+29,50,70,173,94,99,1,5,0,0,0,0,,0,0,,0,0,,,,0,,1,ACE+DIURETIC,9,secondary school,garson,part-time work,3-4/week,,9.6,1.64,,24,0,1.24,23.4,F
+25,61,76,160,95,116,1,30,Social,0,0,0,,0,0,,0,0,0,,,0,,1,,7,University,nurse,Working,1-2/week,,7.8,1.29,,29,0,1,29.69,F
+30,77,74,162,103,101,1,5,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,civil servant,retired,0,0,10.7,0.77,1,27,0,1.82,28.2,M
+,64,68,178,95,101,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,1,university,chemist,retired,1-2/week,0,10.6,1.29,0,42,0,1.23,21.5,M
+,53,93,170,113,107,1,5,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,0.5,secondary School,Driver,full-time/part-time work,0,0,8.8,0.93,0,46,0,0.9,32.2,M
+29,44,84.2,172,99,106,0,0,0,0,0,0,,0,0,,0,0,0,,,0,,0,,0,high school,nurse,Working,0,,13.5,0.67,,37,0,1.72,28.46,M
+29,68,65,157,96,108,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE+CCB,5,primary school,housewife,retired,0,1,13,0.94,1,17,1,0.86,26.4,F
+,68,70,162,83,108,0,0,0,0,0,0,,0,0,,0,0,0,0,1,,BPH,0,,0,primary school,,,0,0,10.7,1.2,0,20,0,1.09,26.7,F
+28,46,77.5,175,101,117,0,0,0,0,0,0,,0,0,,0,0,0,,,0,,0,,0,University,nurse,Working,0,,11.4,1.13,,27,0,1.44,25.31,F
+,83,67,163,95,98,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,AF,1,ACE+B BLOCKER,1,Primary School,Military,Retired,0,0,12,0.94,1,21,1,1.19,25.2,M
+26,61,82,167,110,110,1,60,0,0,0,0,,1,0.1,pitavastatin,1,0.1,0,0,0,,,1,ACE+B BLOCKER+CCB+DIURETIC,0.1,primary school,constructer,retired,3-4/week,0,8.3,1,0,48,0,1.39,29.4,M
+,58,91,141,115,118,0,0,0,1,26,0,Metformin,1,10,Simvastatin,0,0,0,0,0,,,1,ACE,8,Illiterate,housewife,Unemployed,0,1,13.3,0.62,0,22,1,0.78,45.8,F
+28,57,64,154,84,101,1,5,Social,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,5,high school,employee,retired,0,0,6.3,0.96,1,18,0,1.78,27,F
+30,48,48,163,92,108,1,10,0,1,10,0,"merformin,sitagliptin",0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,20,Secondary School,house wife,retired,0,0,10.4,0.82,0,28,0,1.59,29,F
+28,56,85,150,92,132,0,0,0,0,0,0,,0,0,,,,0,0,0,0,,0,,0,Primary school,retired,housewife,1-2/week,1,12.2,1.16,0,24,1,0.74,37.8,F
+28,71,68,157,96,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,Guatr,0,,0,high school,teacher,Retired,0,1,15.4,0.75,0,19,1,0.85,27.2,F
+,55,69,151,109,104,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,,,,,0,10,1.16,0,20,0,1.49,30.3,F
+,51,90,155,110,120,1,2,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,Housewife,Unemployed,0,1,13,1.24,0,20,1,0.78,37.5,F
+,60,95,164,120,126,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,12,Primary school,Housewife,Unemployed,0,1,15.9,1,1,18,0,1.03,35.3,F
+,57,100,192,101,100,0,0,social,0,0,0,,0,0,,0,0,0,1,0,,,1,B BLOCKER+CCB,5,University,University teacher,full-time work,1-2/week,1,14,0.8,0,77,0,1.62,27.1,M
+30,50,73,172,97,104,1,3,social,1,8,1,"metformin, insulin 16 ü (akşam) (4 yıl)",1,20,atorvastatin,0,0,0,0,0,,,1,B BLOCKER,20,University,Official,Working,0,0,6.6,1.41,0,50,0,2.12,24.7,M
+27,65,71,150,103,113,0,0,0,1,0,1,insulin,0,0,,0,0,0,0,0,0,,1,,1,primary school,housewife,Retired,1-2/week,0,10.6,1.06,1,17,0,1.1,31.6,F
+,45,110,180,110,111,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,1,High school,soldier ,full-time/part-time work,3-4/week,0,8.4,1.01,0,50,0,1.28,34,M
+30,66,66,169,109,105,1,30,0,1,25,1,"insulin aspart,insulin glarjin,linagliptin,metformin",1,4,atorvastatin,1,4,0,0,0,,,1,ACE+DIURETIC,4,Secondary School,worker,retired,3-4/week,0,10.4,0.94,0,33,0,1.69,29.4,M
+29,78,64,160,90,97,0,0,0,0,0,0,,0,0,,1,2,,,,0,BPH,0,,0,University,lawyer,Retired,1-2/week,,11,0.74,,30,1,1.34,25,M
+24,55,83,165,102,116,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,5,primary school,house wife,retired,0,0,8.6,0.64,0,30,0,1.35,30.5,F
+30,45,126,167,118,144,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,AS,1,ACE+CCB,20,high school,house wife,retired,0,0,9.3,0.9,0,25,0,1.41,45.2,F
+,75,55.8,153,87,103,0,0,0,0,0,0,,0,0,,0,0,,,,0,Depresyon,1,CCB,5,high school,civil servant,Retired,3-4/week,,9.2,0.86,,20,0,1.34,23.8,F
+,78,72,164,100,112,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,breast ca,1,ACE+CCB,15,University,PUBLIC PROSECUTOR,retired,0,0,11,0.75,0,22,0,1.16,26.8,F
+30,71,78,151,116,124,0,0,0,1,15,1,"metformin,insulin aspart",1,1,atorvastatin,0,0,1,1,0,,aktif mesane,1,ACE+CCB,6,primary school,worker,retired,1-2/week,1,12.8,0.87,1,18,1,0.93,34.2,F
+27,68,91,159,111,117,0,0,0,1,30,1,"Metformin,ınsulın lıspro",1,5,pitavastatin,0,0,0,0,0,,,1,ARB+DIURETIC,10,primary school,housewife,retired,1-2/week,0,10.1,1,0,24,0,1.13,36,F
+,73,85,177,108,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,,,Primary school,,,0,0,9.7,1.62,0,45,0,1.49,27.1,M
+30,57,75,160,98,116,1,2,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+CCB,0.15,university,house wife,retired,0,0,9.5,0.71,0,21,0,0.84,29.3,F
+30,85,88,178,106,112,0,0,0,0,0,0,,1,10,rosuvastatin,1,10,0,0,0,,"uyku apnesi (7 yıl), kalp pili (7 yıl), ritim bozukluğu (7 yıl), karotis darlığı (10 yıl), spinal stenoz  ",1,ARB+DIURETIC,10,University,müteahit,retired,1-2/week,0,12,0.88,1,28,1,0.98,27.8,M
+,58,83,151,108,107,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,10,High school,Housewife,unemployed,3-4/week,0,6.4,0.82,0,30,0,0.91,36.4,F
+30,50,71,160,76,104,0,0,0,0,0,0,,0,0,,,,1,0,0,0,,0,,0,High school,retired,housewife,1-2/week,0,8.2,1.26,0,21,0,1.42,27.7,F
+30,70,69,148,105,116,0,0,0,1,2,0,metformin,0,0,,1,7,0,0,0,,"vertigo, lenfoma(remisyon),",1,ARB+B BLOCKER+DIURETIC,13,illiterate,house wife,retired,0,1,12.3,0.72,0,21,0,1.23,31.3,F
+,67,75,164,96,103,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,9,Primary School,Domestic,Full-time/part-time work,0,0,9.4,1.16,0,20,0,1.16,27.9,F
+29,57,52,148,85,96,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Illiterate,ev hanımı,retired,3-4/week,0,8,1.54,0,20,0,1.31,23.7,F
+,46,80,155,88,129,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,5,High school,Housewife,Full-time/part-time work,0,0,9.9,1.2,0,20,0,1.02,33.3,F
+30,64,80,167,104,102,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,10,high school,worker,retired,1-2/week,0,9.4,1.18,0,43,0,1.92,28.7,M
+,55,80,160,95,110,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,Housewife,Unemployed,0,0,11.5,1.43,0,20,0,0.96,31.3,F
+30,65,91,175,109,109,1,20,0,1,10,1,insulin ,0,0,,1,4,0,0,0,,,1,ACE,4,high school,worker,retired,0,0,10.4,1.07,1,28,1,1.41,29.7,M
+,67,79,152,110,118,0,0,0,0,0,0,,1,11,Atorvastatin,1,4,0,0,0,,,1,ACE+DIURETIC,11,Primary School,Housewife,Unemployed,0,1,17.4,0.46,1,17,1,0.66,34.2,F
+30,47,85,160,109,130,0,0,0,1,10,0,Metformin,0,0,,0,0,0,0,0,,,1,CCB+B BLOCKER ,12,University,Physiotherapist,Working,3-4/week,0,9.7,1.42,0,36,0,1.59,33.2,F
+,46,85,152,92,94,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High school,teacher,Full-time/part-time work,0,0,10.3,1.4,0,41,0,1.22,36.8,M
+,52,78,159,110,100,0,0,0,1,10,0,"SITAGLIPTIN, METFORMIN",1,5,,0,0,0,0,0,,,1,CCB,7,primary school,HOUSE WIFE,UNEMPLOYED,0,1,19.5,0.94,0,20,0,1.29,30.9,F
+,55,80,177,108,97,1,60,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,5,Primary School,worker,retired,3-4/week,0,8.9,1.33,0,30,0,1.71,25.5,F
+24,67,94,155,112,124,0,0,0,1,15,0,metformin,1,15,,1,3,0,0,0,,,1,ARB+CCB+DIURETIC,15,illiterate,house wife,retired,1-2/week,1,15.7,0.79,0,20,1,0.8,39.1,F
+20,59,133,161,142,152,1,6,social,1,8,0,"metformin, pioglitazon ",0,0,,1,17,0,0,0,,,1,DIURETIC,10,primary school,gardener,retired,0,,11.5,0.74,0,35,0,0.92,51.5,M
+,58,71,157,96,107,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,gut,0,,0,,,,,1,11,1.24,1,16,1,0.96,28.8,F
+,57,76,157,116,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,1,Primary School,Housewife,Unemployed,3-4/week,0,8.4,0.78,0,28,0,1.04,30.8,F
+24,77,57,145.5,91,104,1,13,0,0,0,0,,1,10,pitavastatin,0,0,1,0,0,,,1,ACE+CCB,12,primary school,house wife,retired,3-4/week,,9.3,0.76,1,14,0,1.02,26.9,F 
+30,61,84,163,99,112,1,10,0,0,0,0,,0,0,,0,0,0,,0,0,,1,,10,high school,memur,retired,0,,8.5,0.91,,26,0,1.05,31.62,F
+28,69,69,159,105,109,0,0,0,0,0,0,,0,0,,0,0,0,,,0,,1,,10,primary school,housewife,Retired,0,,11.2,1.1,,18,0,1.15,27.29,F
+,48,78,172,90,108,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,3,university,doctor,full-time work,3-4/week,1,12.5,1.5,0,28,0,1.05,26.4,F
+29,68,92,185,112,100,0,0,0,1,10,0,metformin,1,5,atorvastatin,1,13,0,0,0,,bph,1,B BLOCKER,10,primary school,worker,working,0,1,16.1,0.68,0,33,1,1.34,26.9,M
+30,62,105,172,125,110,1,30,social,0,0,0,,0,0,,0,0,0,0,0,,"BPH, Kr.Gastrit",0,,0,Secondary School,chauffeur,Retired,0,1,12.1,1.42,0,47,1,1.38,35.5,M
+26,56,103,169,107,126,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,skleroderma,1,ARB+DIURETIC,9,Secondary School,house wife,retired,0,1,16,0.74,1,18,0,1.4,36.1,F
+29,64,68,150,97,114,0,0,0,1,5,0,metformin,1,5,rosuvastatin,0,0,0,0,0,,,0,,0,primary school,house wife,retired,0,0,6.7,0.75,0,19,0,1.23,30.2,F
+26,61,95,155,116,121,0,0,0,0,0,0,,1,2,atorvastatin,0,0,0,0,0,,venöz yetmezlik,0,,0,primary school,house wife,retired,0,1,14.1,0.7,1,16,1,0.83,39.5,F
+27,67,68,140,95,117,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+DIURETIC,14,Illiterate,house wife,retired,0,0,11.4,0.64,1,18,1,0.56,48.5,F
+30,71,70,165,97,101,1,45,0,1,15,1,insulin glarjin,1,0.5,pitavastatin,1,20,0,0,0,,bph,0,,0,primary school,driver,retired,3-4/week,0,6.6,1.07,0,41,0,1.32,25.7,M
+,53,87,178,107,108,1,80,Social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary School,Social worker,full-time work,0,0,6.8,1.86,0,45,0,1.44,27.5,M
+,73,80,149,108,111,0,0,0,0,0,0,,1,7,Simvastatin,0,0,0,0,0,,,1,ACE,7,illiterate,housewife,unemployed,1-2/week,1,14.4,0.84,1,16,1,0.71,36,F
+30,61,93,164,103,115,0,0,0,0,0,0,,1,5,rosuvastatin,0,0,0,0,0,,venöz yetmezlik,1,CCB,10,primary school,house wife,retired,0,0,10.9,1.13,0,24,0,1.16,34.6,F
+27,57,74,163,91,104,1,46,0,0,0,0,,0,0,,0,0,1,,0,0,,1,CCB,5,secondary school,ev hanımı,retired,3-4/week,,9.5,1.2,,27,0,0.96,27.9,F 
+21,85,61,143,87,99,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,15,primary school,housewife,Not working,0,,26.6,0.6,1,8,0,1.1,29.8,F
+,51,74,160,97,106,1,20,0,0,0,0,,0,0,,0,0,0,0,0,1,skleroderma,0,,0,high school,house wife,retired,0,1,20,1.18,1,13,0,1.28,28.9,F
+30,63,75,160,101,109,0,0,0,1,1,0,metformin,0,0,,0,0,0,0,0,1,hipertiroidi,0,,0,primary school,house wife,retired,0,0,11.6,0.76,0,27,0,1.48,29.3,F
+26,67,73,160,104,110,1,25,0,1,2,0,metformin,0,0,,0,0,0,0,0,,hipertiroidi,1,CCB,2,Illiterate,house wife,retired,0,0,9.1,0.71,0,19,0,1.19,28.6,F 
+,70,74,170,95,97,1,6,social,1,5,0,Metformin/Glimepirid,0,0,,1,3,0,0,0,,,1,CCB,10,Secondary School,Officer,retired,3-4/week,0,9.6,1.06,0,42,0,1.24,25.6,M
+23,59,63,154,97,108,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,af,1,DIURETIC,10,primary school,house wife,retired,0,1,13.6,0.82,1,13,1,0.94,26.6,F
+,59,58,156,96,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,1,Primary School,maid,Full-time/part-time work,0,0,5.9,0.91,0,24,0,1.27,23.8,F
+,45,57,168,92,82,1,Former Smoker: 3,Social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Designer,Full-time/part-time work,0,0,7.5,1.29,0,25,0,1.77,20.2,F
+28,82,95,140,122,138,0,0,0,1,33,1,"insulin aspart,metformin",1,10,pitavastatin,0,0,1,0,0,1,,1,CCB,30,Illiterate,house wife,retired,0,1,13,0.8,1,18,1,0.56,48.5,F
+28,60,73,164,97,107,0,0,0,1,3,0,metformin,0,0,,0,0,0,0,0,,anksiyete,1,ARB+DIURETIC,5,High school,housewife,retired,3-4/week,0,7.9,1.29,0,24,0,1.3,27.1,F
+26,69,72,154,96,101,1,40/ex-smoker,0,1,15,0,metformin+Gliclazide 60+linagliptin,0,0,,0,0,0,0,0,,,1,ARB,5,university,teacher,retired,1-2/week,1,12.8,0.92,1,28,0,1.55,30.4,M
+,79,69,155,89,109,0,0,0,0,0,0,,0,0,,0,,0,1,0,1,,1,CCB,,primary school,ev hanımı,retired,0,1,32.3,0.4,1,17,1,0.88,28.7,F
+27,57,62,150,87,109,0,0,0,1,2,0,Gliclazide,0,0,,0,0,1,0,0,1,,1,,9,primary school,housewife,Retired,0,0,6.4,1.11,0,20,0,0.82,27.6,F
+,78,76,156,115,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER+CCB,1,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,12.6,1.02,0,19,0,1.33,31.2,F
+,45,85,152,107,112,0,0,0,1,15,0,Metformin,0,0,,0,0,0,0,0,,Anemia,1,ACE+B BLOCKER,4,Secondary School,"Ministry of Religion, Head of religion teachers",Full-time/part-time work,0,0,7,0.54,0,24,0,0.75,36.8,F
+28,55,105,157,107,135,0,0,0,1,6,0,Metformin,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,25,primary school,employee,retired,0,1,13.1,0.9,1,17,0,1.02,42.6,F
+,47,92,173,107,111,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,3,University,,part-time work,1-2/week,0,9,1.29,0,65,0,1.5,30.7,M
+,62,90,170,115,120,0,0,0,1,10,0,"Gliclazide, Sitagliptin",0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,10,Primary School,Housewife,unemployed,0,0,9,0.83,0,25,0,0.96,31.1,F
+25,81,88,150,116,130,0,0,0,1,6,0,Gliclazide,0,0,,0,0,1,0,0,,,1,ACE+DIURETIC,6,illiterate,housewife,retired,1-2/week,1,12.2,0.71,0,21,0,1.25,39.1,F
+29,82,62,156,98,102,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,panic attack,0,,0,primary school,housewife,unemployed,3-4/week,1,14.4,0.7,1,18,0,1.24,25.5,F
+,45,73,160,102,104,0,0,0,1,14,1,"insulin glargine, gliclazide, metformin",1,11,Atorvastatin,0,0,0,0,0,,,1,ARB+B BLOCKER,11,High school,nurse,Full-time/part-time work,0,0,10,1.51,0,28,0,0.65,28.5,F
+29,52,83,172,96,101,1,40,0,1,1,0,"empagliflozin, sitagliptin, metformin",0,0,,1,13,0,0,0,,,1,ACE+B BLOCKER+DIURETIC,13,Secondary School,worker,working,0,0,9.1,0.86,0,33,0,1.77,27.9,M
+30,45,50,160,70,91,1,9,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,high school,housewife,unemployed,0,,17.5,1.3,1,18,0,1.15,19.5,F
+30,50,76,157.5,89,112,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE+DIURETIC,5,primary school,house wife,retired,3-4/week,,7.6,0.95,0,34,0,1.29,30.6,F 
+26,45,82,162,93,113,1,10,0,0,0,0,,0,0,,0,0,1,0,0,0,,0,,0,primary school,housewife,Retired,0,0,9.2,1.21,0,26,0,1.21,31.3,F
+30,58,72,152,93,107,1,30,0,1,0.25,0,metformin,1,10,atorvastatin,1,10,1,0,0,,"meme ca, hipotiroidi",1,ARB+B BLOCKER,10,primary school,house wife,retired,0,,12.9,0.64,,24,0,1.16,31.2,F 
+29,55,70,155,96,113,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,high school,house wife,retired,0,0,6.5,1,0,23,0,1.31,29.1,F
+,45,78,153,115,120,0,0,0,1,3,0,Metformin,0,0,,0,0,0,0,0,,IHD,1,ARB+B BLOCKER,13,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,16.4,1.16,0,22,0,1.22,33.3,F
+,60,110,155,148,154,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,ACE,3,Illiterate,housewife,unemployed,0,1,15.2,1.3,0,27,1,0.77,45.8,F
+29,65,82,155,117,121,0,0,0,0,0,0,,0,0,,1,5,1,0,0,1,,0,,0,primary school,housewife,Retired,0,1,16,0.75,0,21,1,0.86,33.9,F
+29,57,69.8,166,97,108,1,10,0,0,0,0,,0,0,,0,0,0,,,0,,0,,0,primary school,artisan,Retired,1-2/week,,13.7,1.27,,27,0,1.86,25.33,M
+30,49,70,173,89,110,0,0,social,0,0,0,,0,0,,0,0,,,,0,,1,CCB,8,high school,sekreter,part-time work,1-2/week,,8.3,1.55,,25,0,1.43,23.4,F
+26,81,57,157,86,91,0,0,0,1,7,0,"metformin,Gliclazide,akarboz",0,0,,0,0,0,0,0,,,1,ARB,,Secondary School,worker,retired,3-4/week,1,12.8,0.99,1,28,1,0.88,23.1,M
+30,70,68.7,162,96,99,1,40,0,1,10,0,"sitagliptin, metformin, empagliflozin",1,8,Atorvastatin,1,8,0,,,0,"KAH, trigeminal nevralji, BPH",1,,10,high school,electrician,Retired,0,,13.3,1.04,,22,1,1.08,26.18,M
+,53,100,180,103,111,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Illiterate,worker,Full-time/part-time work,0,0,11,1.54,1,28,0,1.56,30.9,M
+28,52,93,175,100,106,1,7.5,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,civil servant,working,3-4/week,0,10.6,1.06,0,54,0,1.58,30.4,M
+,46,122,161,133,134,0,0,0,0,0,0,,1,10,simvastatin,0,0,0,0,0,,,1,ARB+CCB,9,High school,administator in the ministry of electricity,full-time/part-time work,0,1,11.9,0.71,0,22,0,0.71,47.1,F
+,55,86,156,100,102,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,1,High school,maid,full-time/part-time work,0,0,6.9,1,0,35,0,0.99,35.3,F
+25,75,92,155,90,105,0,0,0,0,0,0,,0,0,,,,0,,0,0,,1,,3,illiterate,retired,housewife,0,,8.7,1.08,,19,0,0.94,38.3,F 
+28,56,85,169,107,103,1,40,0,1,5,0,"sitagliptin,metformin,Gliclazide",0,0,,0,0,0,0,0,,,1,ACE,5,Secondary School,worker,working,0,0,7.9,1.25,0,32,0,1.7,29.8,M
+25,72,69,162,98,106,1,30,0,0,0,0,,0,0,,0,0,0,0,0,,hbv-siroz,0,,0,primary school,worker,retired,3-4/week,0,10.1,0.68,1,31,0,1.49,26.3,M
+,60,82,172,92,97,1,15,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High school,teacher,retired,0,1,11,1.1,0,48,0,1.13,27.7,M
+29,79,70,153,109,111,0,0,0,0,0,0,,0,0,,1,1,0,0,0,,,1,,,primary school,,retired,3-4/week,1,19.3,0.67,1,17,1,0.8,29.9,M
+,56,74,163,95,101,0,0,social,0,0,0,,1,2,Pitavastatin,0,0,0,0,0,,,1,DIURETIC,2,Secondary School,Cooker,Full-time/part-time work,0,0,10,1.08,0,22,0,1.34,27.9,F
+24,63,95,157,118,128,1,45,0,1,26,0,"metformine,Gliclazidee",0,0,,0,0,1,0,0,1,,1,ACE+DIURETIC,20,primary school,worker,retired,0,0,9.7,0.92,0,24,0,1.07,38.5,F
+28,56,75,158,100,110,1,20,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,secondary School,Worker,retired,1-2/week,1,12.9,1.05,0,22,1,0.72,30,F
+,51,64,160,83,92,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Physiotherapist,Full-time/part-time work,1-2/week,0,8,1.43,0,26,0,1.32,25,F
+30,68,77,170,94,106,1,30,0,0,0,0,,0,0,,0,0,0,0,0,,gastritis,0,,0,University,Teacher,retired,3-4/week,0,8.9,1,0,32,0,1.51,26.6,M
+29,56,83,159,103,117,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,10,primary school,house wife,retired,0,0,9.1,0.98,0,34,0,1.26,32.8,F
+29,71,90,153,118,134,1,40,0,1,0.25,0,metformin,0,0,,0,0,1,0,0,0,BPPV,1,ACE+DIURETIC,10,primary school,house wife,retired,0,,18.7,0.82,1,17,1,0.68,38.5,F 
+27,66,92,163,117,121,1,25,0,1,10,0,"vildagliptin,metformin,",0,0,,0,0,1,0,0,,"pte,venöz yetmezlik",1,CCB,6,illiterate,housewife,retired,0,0,10.7,1.13,0,26,0,1.33,34.6,F
+21,81,80,146,122,130,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Illiterate,house wife,retired,0,0,9.6,0.47,0,19,0,0.64,37.5,F
+27,65,69,166,98,110,1,4,0,0,0,0,,0,0,,0,0,1,0,0,,,0,,0,University,Official,Retired,3-4/week,0,11.4,1.13,0,26,0,1.49,25,F
+,55,66,169,83,97,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,project manager in transportation,Full-time/part-time work,1-2/week,0,4.2,1.24,0,30,0,1.62,23.1,F
+24,56,75,142,111,108,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,5,Illiterate,house wife,retired,0,0,11.6,1,1,14,0,1.12,37.2,F
+27,65,59,149,88,103,0,0,0,1,2,0,"metformin,Gliclazide",1,4,atorvastatin,0,0,0,0,0,,,0,,0,primary school,worker,retired,3-4/week,0,9.3,0.68,0,19,0,1.24,26.6,F
+29,67,85,179,97,103,0,0,0,1,6,0,"sitagliptin,metformin,Gliclazidee",0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,20,university,soldier,retired,3-4/week,0,7.2,1.02,0,39,0,1.98,26.5,M
+26,68,61,168,93,101,1,25,Social,0,0,0,,0,0,,0,0,0,,,0,bph,1,,15,primary school,artisan,Retired,3-4/week,,9,1.12,,31,0,1.57,21.61,M
+28,51,79,157,93,105,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High school,Secretary,Working,1-2/week,0,10.8,1.35,0,30,0,1.55,32,F
+30,69,120,176,116,124,0,0,0,1,10,0,metformin,1,10,,0,0,0,0,0,,,1,ARB,10,primary school,civil servant,retired,0,0,8.3,1.1,0,46,0,1.35,38.7,M
+24,53,90,154,110,136,1,20,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,CCB,1,primary school,housewife,Retired,3-4/week,0,9.2,1.43,0,23,0,1.07,38,F
+28,54,66.3,161,85,101,0,0,0,0,0,0,,0,0,,0,0,0,,,0,,0,,0,University,officer,Working,3-4/week,,10.2,1.6,,27,0,1.6,25.58,F
+,53,94,180,105,105,1,20,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+CCB,2,High School,real estate agent,Retired,0,1,12.6,1.06,0,62,1,1.1,29,M
+,61,85,153,110,120,0,0,0,1,12,0,"SITAGLIPTIN, METFORMIN",1,12,,0,0,0,0,0,,,1,ARB,10,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,15.4,1.17,0,22,0,1.05,36.3,F
+30,58,87,164,108,111,1,88,social,1,1,0,"vildagliptin, metformin",0,0,,0,0,0,1,1,1,"bipolar disorder, parkinson",1,ACE+DIURETIC,3,high school,dry cleaner,retired,0,0,11.1,0.67,1,30,1,1.4,32.4,M
+25,56,80,150,100,120,0,0,0,1,3,0,Metformin,0,0,,0,0,0,0,0,,,0,,0,Primary school,Worker,Working,0,0,9.2,1.07,0,28,0,1.58,35.6,F
+30,63,75,159,96,109,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,depresyon ,1,ARB,0.17,high school,ev hanımı,retired,1-2/week,1,12.1,0.62,0,25,1,0.86,29.7,F
+27,45,59,160,87,97,1,15,0,0,0,0,,0,0,,,,0,0,0,0,,1,ACE+DIURETIC,1,Primary school,tam veya kısmı zamanlı part-time work,part-time work,1-2/week,0,10.3,1.22,0,19,0,1.02,23.1,F
+29,67,75,157,103,116,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,"goiter, RA",1,ARB,14,high school,employee,retired,3-4/week,0,10.2,0.8,0,22,0,0.79,30.4,F
+25,72,74,169,96,108,1,100,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+B BLOCKER+CCB+DIURETIC,4,high school,constructor,retired,0,0,8.9,0.98,1,29,0,1.73,25.9,M
+30,51,82,165,100,110,0,0,0,1,1,0,metformin,0,0,,,,0,0,0,0,,0,,0,Primary school,retired,housewife,0,0,11.1,1.21,0,30,0,0.93,30.1,F
+,45,73,150,118,120,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER,5,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,14.2,0.84,1,15,0,1.35,32.4,F
+25,83,66,150,87,103,0,0,0,1,30,1,"Metformin,gliklazıd,insulin",1,8,atorvastatin,1,8,0,0,0,,,1,ACE+B BLOCKER+CCB,40,illiterate,housewife,retired,0,0,11.4,0.97,0,20,0,1.44,29.3,F
+28,48,60,155,78,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,worker,,1-2/week,0,7.3,1.5,0,32,0,2,25,F
+29,62,77.5,159,101,106,1,15,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,7,primary school,worker,retired,3-4/week,,7.1,0.78,0,38,0,1.44,30.7,M
+,45,120,165,125,120,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,1.5,High school,HOUSE WIFE,UNEMPLOYED,0,1,15.1,0.98,0,24,0,1.21,44.1,F
+29,65,64,179,92,101,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,,1,,,primary school,worker,retired,1-2/week,0,7.8,1.08,1,31,0,1.83,20,M
+,50,100,158,134,146,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,5,Illiterate,HOUSE WIFE,UNEMPLOYED,3-4/week,1,13,1.12,0,26,1,0.84,40.1,F
+,59,79,172,96,102,0,0,social,0,0,0,,1,3,rosuvastatin,0,0,0,0,0,,,1,CCB,5,Secondary School,worker,Full-time/part-time work,1-2/week,0,11.3,1.02,0,52,0,1.58,26.7,M
+,64,83,155,104,122,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+B BLOCKER,5,High school,Teacher,Full-time/part-time work,0,0,6.7,0.54,0,24,0,0.54,34.6,F
+27,67,70,148,104,106,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,0,,0,illiterate,housewife,retired,0,0,9.5,0.96,0,20,0,1.49,32,F
+29,48,87,170,100,103,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Official,Working,0,0,7.1,1.17,0,50,0,2.08,30.1,M
+,61,84,150,120,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,6,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,20.8,1.13,0,20,0,1.04,37.3,F
+,63,75,160,116,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,4,Primary School,Housewife,unemployed,0,0,8.7,0.75,0,20,0,1.16,29.3,F
+29,66,68,154,87,114,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,high school,Officer,retired,3-4/week,0,6,1.4,0,20,0,1.51,28.7,F
+28,65,63,150,85,91,0,0,0,0,0,0,,0,0,,0,0,1,1,,0,,0,,0,high school,public servent,Retired,1-2/week,,6,0.92,,12,0,1.19,28,F
+,52,60,160,77,107,0,0,0,0,0,0,,0,0,,0,,0,1,0,0,,0,,,primary school,ev hanımı,retired,0,0,8,1.28,0,20,0,1.48,23.4,F
+,46,90,160,99,105,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,"antifosfolipid sendromu, depresyon",0,,0,University,ofis çalışanı,part-time work,0,0,7.6,1.13,0,26,0,1.31,35.2,F
+,54,95,174,107,115,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER,10,University,Doctor,Full-time/part-time work,1-2/week,0,5,0.89,0,55,0,1.11,31.4,M
+,54,75,155,114,111,0,0,0,0,0,0,,1,8,atorvastatin,1,5,0,0,0,,,1,ACE+DIURETIC,10,illiterate,Housewife,Unemployed,0,1,13.4,0.88,1,14,1,1,31.2,F
+,60,60,155,91,102,0,0,0,1,15,0,"Gliclazide 60, akarboz 150, stagliptin 100, Pioglitazon 30",0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,15,Illiterate,Housewife,Unemployed,1-2/week,0,11.1,0.64,0,27,0,1.24,25,F
+28,73,84,184,104,105,1,5,0,0,0,0,,0,0,,0,0,,,,0,BPH,0,,0,university,inspector,Retired,1-2/week,,13.1,0.92,,38,0,1.52,24.8,M
+,45,71,156,93,98,0,0,0,1,8,0,Metformin,0,0,,0,0,0,0,0,,,1,ACE,1,Primary School,maid,Full-time/part-time work,0,0,8.2,0.69,0,26,0,1.07,29.2,F
+27,73,83,167,105,112,1,65,0,1,5,0,"empagliflozin,metformin",1,10,atorvastatin,1,0.5,0,0,0,,,1,B BLOCKER,,primary school,imam,retired,3-4/week,0,11.3,0.39,0,36,0,1.06,37.6,M
+,57,71,164,97,93,0,0,0,1,5,0,vildagliptin/Metformin/Gliktazide,1,5,Atorvastatin,0,0,0,0,0,,,0,,0,High School,employee,retired,0,0,9.5,1.25,1,30,1,1.36,26.4,M
+30,61,76,156,98,113,0,0,0,1,10,0,metformin,0,0,,,,1,0,0,1,,1,ACE,15,Primary school,retired,housewife,0,0,9.5,1.26,1,17,1,0.91,31.2,F
+,48,92,164,96,118,0,0,0,0,0,0,,1,3,rosuvastatin,0,0,0,0,0,,,1,ARB+DIURETIC,3,Secondary school,insurance company secertary,full-time/part-time work,0,0,5,1.02,0,24,0,1,34.2,F
+30,56,80,160,90,108,0,0,0,1,6,0,metformin,1,1,,,,1,0,0,0,,0,,0,Primary school,retired,housewife,0,0,9.8,1.14,0,27,0,1.32,31.3,F
+,48,79,150,92,107,1,12.5,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary School,Housewife,Unemployed,0,1,12.1,0.89,0,32,0,1.44,35.1,F
+24,52,87,170,114,126,0,0,0,0,0,0,,0,0,,0,0,0,,0,,Gastrit,0,,0,primary school,house wife,retired,0,,11.3,0.99,,27,0,1.42,30.1,F
+,61,68,148,116,124,0,0,0,1,15,0,"Metformin, Sitagliptin",0,0,,0,0,0,0,0,,,1,CCB,2,Illiterate,Housewife,Unemployed,0,0,9.6,0.62,1,11,0,1.05,31,F
+,83,49,153,83,91,0,0,social,0,0,0,,0,0,,1,1,0,0,0,,,1,B BLOCKER+DIURETIC,12,Primary School,Seamstress,Retired,3-4/week,0,6.2,0.77,1,18,0,1.3,20.9,F
+29,51,90,178,107,102,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,banka emekli,retired,3-4/week,,8.8,0.98,0,38,0,1.72,28.4,M
+30,59,96,166,82,88,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,university,retired,housewife,1-2/week,,6.2,1.18,0,24,0,1.1,34.8,F
+30,56,82,188,97,105,1,20,social,1,15,0,metformin,1,10,rosuvastatin,1,3,0,0,0,,,1,ACE,5,university,doctor,working,3-4/week,0,9.4,1,0,48,0,1.54,23.2,M
+28,64,70,170,92,99,1,20,0,1,15,0,"metformin,vildagliptin,Gliclazide",1,15,atorvastatin,1,20,0,0,0,,,1,ACE,20,University,Teacher,retired,3-4/week,0,9.4,0.97,0,37,0,1.35,24.2,M
+,60,70,160,102,112,0,0,0,1,5,0,Glicazide,0,0,,0,0,0,0,0,0,,1,ARB+DIURETIC,5,high school,housewife,unemployed,0,1,11.8,1.05,0,29,0,0.81,27.3,F
+26,58,77,156,103,105,0,0,0,1,10,0,"metformin,Gliclazide",0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,5,primary school,housewife,retired,0,1,12.1,1.09,0,30,0,1.42,31.6,F
+29,78,64,160,90,97,0,0,0,0,0,0,,0,0,,1,2,0,0,0,,BPH,0,,0,University,lawyer,Retired,1-2/week,0,11,1.35,1,30,1,1.34,25,M
+,50,66,167,94,96,0,0,0,0,0,0,,1,7,Simvastatin,0,0,0,0,0,,,1,ACE,7,Primary School,Painter,Full-time/part-time work,0,0,7.7,0.79,0,32,0,1.35,23.7,M
+29,57,75,160,89,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,FMS,0,,0,Secondary School,housewife,,0,,19,1.21,0,21,0,1.11,29.3,F
+28,45,87,159,95,126,0,0,0,1,4,0,Metformin/piogliktazon,1,0.2,Atorvastatin,0,0,0,0,0,,,0,,0,primary school,Tailor,part-time work,1-2/week,0,7.4,1.32,0,34,0,1.68,30.4,F
+29,63,85,175,102,108,0,0,0,0,0,0,,0,0,,0,0,,,,0,OA,0,,0,university,polis,retired,3-4/week,,10,0.79,,25,1,1.14,27.8,M
+28,66,84,161,107,110,0,0,0,1,10,1,"metfromin,insulin glarjin,vildagliptin",1,5,atorvastatin,0,0,0,0,0,,,1,ACE,15,primary school,house wife,retired,0,1,19,0.94,0,29,0,1.05,32.4,F
+30,72,67,164,89,97,1,45,0,1,30,0,metformin,1,15,atorvastatin,1,15,0,0,0,,,1,ARB,15,primary school,pressman,retired,0,0,9.2,1,0,35,0,1.33,24.9,M
+,69,60,155,87,96,1,6,social,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+CCB+DIURETIC,30,University,Economist,Retired,0,0,9.5,1.19,0,28,0,1.23,25,F
+29,76,76,168,100,98,1,40,0,1,20,0,"metformin,Gliclazide",0,0,,1,2,0,0,0,,,1,CCB,,University,civil servant,retired,3-4/week,0,9.7,0.57,1,26,1,1.43,24.5,M
+25,73,67,172,95,94,1,20,0,1,15,0,Gliclazide,0,0,,1,15,0,0,0,,,1,ACE+CCB+DIURETIC,15,Secondary School,worker,retired,0,0,12,0.63,1,26,1,1.04,22.7,M
+26,50,82,165,99,122,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,University,Academician,working,1-2/week,,9.2,1.46,0,31,0,1.38,30.1,F
+28,65,95.7,160,114,109,0,0,0,1,10,0,Metformin ,0,0,,0,0,0,,,0,"reflü, osteoartrit, varis",1,,30,primary school,house wife,Retired,0,,15.2,1.06,,28,1,0.92,37.38,F
+,45,90,173,98,115,1,2.5,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,2,Secondary School,worker,full-time/part-time work,1-2/week,1,11.9,1.15,0,26,0,0.94,30.1,F
+30,53,91,152,107,118,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE+DIURETIC,0.1,University,civil servant,retired,1-2/week,0,11.2,,0,24,0,0.96,39.4,F
+28,68,73,156,100,113,0,0,0,1,10,1,"vildagliptin,metformin,insulin lispro",0,0,,0,0,0,0,0,,,1,CCB,5,Illiterate,house wife,retired,1-2/week,1,13,0.73,1,16,1,1,30,F
+14,86,66,144,99,108,0,0,0,0,0,0,,1,2,atorvastatin,0,0,1,0,1,1,,1,CCB,10,primary school,house wife,retired,0,,18.8,0.58,,16,0,1.04,31.8,F 
+28,71,70,169,94,99,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,police,retired,0,0,8.2,1,0,37,0,,24.5,M
+30,74,51,155,82,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,CCB,1,primary school,housewife,retired,3-4/week,0,8.3,0.94,0,22,0,1.5,21.2,F
+,65,73,149,111,110,0,0,0,1,1,0,Metformin,1,1,rosuvastatin,1,2,0,0,0,,,1,ACE,2,illiterate,housewife,unemployed,0,1,12.3,0.81,1,17,1,0.89,32.9,F
+25,61,93,162,105,115,1,4,0,0,0,0,,0,0,,1,8,1,0,0,,,1,ARB+B BLOCKER,23,high school,officer,retired,0,0,10.4,1.19,0,23,0,1.22,35.4,F
+30,54,62.4,142,92,111,0,0,0,0,0,0,,0,0,,0,0,0,,,0,Ürtiker,0,,0,primary school,house wife,Retired,3-4/week,,10.7,0.78,,21,0,1.42,30.95,F
+,60,73,155,120,115,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC+A AGONIST,5,Secondary School,HOUSE WIFE,UNEMPLOYED,0,1,13.3,0.91,0,19,0,1.24,30.4,F
+27,54,85,155,115,118,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,worker,,1-2/week,0,9.7,1.17,0,31,0,1.35,35.4,F
+29,57,63,170,80,100,0,0,0,0,0,0,,0,0,,0,0,0,,0,1,,0,,0,primary school,retired,housewife,3-4/week,,9.4,1.12,0,29,0,1.23,21.8,F
+,68,71,150,93,113,0,0,0,1,6,0,Metformin,0,0,,0,0,0,0,0,,aritmi,1,ARB+DIURETIC,10,primary school,Housewife,Unemployed,0,0,10.2,1.08,0,23,0,1.15,31.6,F
+27,48,108,168,113,135,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Secondary School,house wife,retired,0,0,11.2,1.14,0,26,0,0.89,38.3,F
+30,61,93,170,108,15,1,20,0,1,15,1,"linagliptin,insulin aspart,insulin glarjin",1,15,,1,15,0,0,0,,,1,ACE+DIURETIC,15,primary school,farmer,retired,1-2/week,1,13.9,0.56,0,33,1,1.37,32.2,M
+,74,60,158,87,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,,,High school,,,0,0,11.8,1.09,1,12,0,1.05,24,F
+,61,55,165,77,107,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,chron's disease and sarcoidosis,1,DIURETIC,3,Secondary School,house wife,unemployed,0,1,15.1,0.86,0,26,1,1,20.2,F
+28,73,72,142,101,116,0,0,0,1,2,0,metformin,0,0,,0,0,1,0,0,,,0,,0,Secondary School,security guard,retired,1-2/week,0,8,0.77,0,25,0,0.93,35.7,F
+30,65,87,159,111,121,0,0,0,1,6,0,metformin,1,5,atorvastatin,0,0,0,0,0,,,1,ACE+B BLOCKER+DIURETIC,15,primary school,housewife,retired,0,1,14.7,1.02,0,22,0,1.12,34.4,F
+28,62,76,165,103,106,1,40,0,1,20,0,"linagliptin,empagliflozin,metformin,Gliclazide",1,0.1,atorvastatin,1,20,0,0,0,,,0,,0,primary school,worker,retired,0,0,9.9,1,1,28,0,1.57,27.9,M
+,60,76,171,98,103,1,40,0,0,0,0,,0,0,,1,1,0,0,0,,,0,,0,Primary School,Tradesman,Retired,0,0,11,0.71,0,44,0,1.13,26,M
+28,76,76,167,103,98,1,45,0,0,0,0,,1,8,atorvastatin,1,25,0,0,0,,"chd,gut",1,ARB+DIURETIC,15,high school,police,retired,0,0,9.3,0.86,1,29,0,1.62,27.3,M
+,55,54,167,81,90,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,,,,,0,9,1.64,1,31,0,1.81,19.4,M
+,70,100,175,112,116,1,20,social,1,10,0,Metformin,0,0,,0,0,0,0,0,,,1,ARB+CCB+A BLOKER,15,Primary School,worker,retired,0,1,12.4,1.03,0,45,1,0.98,32.7,M
+,79,89,150,112,115,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+CCB+DIURETIC,10,Illiterate,Housewife,Unemployed,0,1,15.7,0.9,0,19,1,0.76,39.6,F
+29,53,75,155,95,109,1,25,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,secondary School,worker,,0,1,12.1,0.95,0,27,0,1.13,31.2,F
+29,52,75,162,94,107,0,0,0,1,1,0,metformin,0,0,,0,0,0,,,0,,0,,0,university,nurse,working,0,,9.3,1.13,,28,0,1.63,28.58,F
+26,79,83,171,105,98,0,0,0,0,0,0,,1,15,atorvastatin,1,15,0,0,0,,,1,ACE,15,illiterate,employee,retired,0,1,16,0.7,0,33,1,1.31,28.4,M
+,49,85,167,107,111,1,ex Smoker: 30,regular,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Secondary School,Carpenter,Full-time/part-time work,0,0,5.1,1.4,0,45,0,1.72,30.5,M
+,55,80,158,105,112,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+B BLOCKER,6,secondary School,HOUSE WIFE,UNEMPLOYED,0,1,18.3,1.04,0,20,0,1.16,32.1,F
+,63,111,164,120,125,0,0,social,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE+CCB+DIURETIC,6,University,Teacher,part-time work,3-4/week,1,15,1.3,0,22,1,0.87,41.3,F
+22,73,72,152,101,114,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,svo,1,B BLOCKER+CCB,0.1,Illiterate,house wife,retired,3-4/week,1,15.4,0.46,0,23,0,1.31,31.2,F
+,66,80,163,95,113,0,0,0,0,0,0,,1,0.1,Sine terapia,0,0,0,0,0,,,1,ACE+CCB,10,secondary School,"Cook, cleaning lady",Full-time/part-time work,0,0,11.7,1.52,0,30,0,1.46,30.1,F
+29,61,81,158,104,105,0,0,0,1,3,0,metformin,0,0,,0,0,0,0,0,,,0,,0,university,employee,working,0,0,8.4,0.96,0,34,0,1.51,32.5,M
+,52,84,170,104,109,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary school,Civil servant,full-time work,3-4/week,0,8,1,0,48,0,1.08,29.1,M
+29,61,69,155,100,113,0,0,0,1,20,0,"vildagliptin,metformin,Gliclazide",0,0,,1,20,0,0,0,,,1,ACE+DIURETIC,20,primary school,house wife,retired,0,1,15.2,0.67,0,19,0,1.1,28.7,F
+27,69,100,166,110,118,1,30,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,10,Illiterate,worker,retired,0,0,10.4,0.83,0,37,0,1.5,36.1,M
+30,48,74,154,97,112,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,10,primary school,house wife,retired,0,0,9.9,0.85,0,22,0,1.63,31.2,F
+,61,71,160,96,107,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,"PKOS, venöz yetmezlik",0,,0,,,,,0,10.3,1.07,0,25,0,1.58,27.7,F
+28,60,76,156,90,114,0,0,0,1,1,0,metformin,0,0,,0,0,0,0,0,1,svo,1,ARB+B BLOCKER,6,high school,house wife,retired,0,1,14.7,0.57,0,19,1,0.75,37,F
+26,45,86,155,106,115,1,25,0,0,0,0,,0,0,,0,0,0,,,0,,0,,0,high school,housewife,Retired,0,,7.6,1.38,,24,0,1.15,35.8,F
+,45,62,143,89,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER+CCB,1,primary school,HOUSE WIFE,UNEMPLOYED,0,1,11.9,1.16,0,22,0,0.98,30.3,F
+28,62,100,155,120,140,0,0,0,0,0,0,,0,0,,,,0,0,0,1,,0,,0,illiterate,,housewife,0,0,9.9,0.71,0,20,0,0.88,41.6,F
+28,60,75,155,102,110,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE+CCB,2,high school,housewife,retired,0,0,8.7,1.08,0,29,0,1.33,31.2,F
+30,47,78,166,94,110,1,15,0,1,5,0,Metformin,0,0,,0,0,1,,,0,,0,,0,University,nurse,Working,1-2/week,,8.7,1.14,,26,0,1.24,28.31,F
+,50,67,150,99,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,Secondary School,emekli işçi,retired,0,1,12.6,1.19,0,24,0,1.15,29.8,F
+26,65,67,165,97,104,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High school,Official,Retired,0,0,9.7,1.19,0,38,0,1.57,24.6,M
+28,63,72,149,115,111,1,10,0,1,7,0,Metformin,0,0,,0,0,0,0,0,,depression,1,ACE,10,primary school,housewife,retired,3-4/week,1,13.5,0.8,0,19,0,1.27,32.4,F
+28,62,90,153,117,130,0,0,0,1,15,1,"vildagliptin,metformin,insulin lispro",0,0,,0,0,1,0,0,,kbh,1,ARB+B BLOCKER,10,primary school,house wife,retired,0,0,11.1,0.78,0,22,0,0.97,50,F
+30,51,94,154,122,134,1,5,0,0,0,0,,0,0,,0,0,0,0,0,,"fmf,kbh",1,B BLOCKER,20,primary school,house wife,retired,0,0,9.1,0.69,0,19,0,1.14,39.6,F
+26,65,97,177,106,115,1,51,Regular,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,shoemaker,retired,0,0,9.8,0.71,0,39,0,1.26,31,M
+28,69,79,157,113,122,0,0,0,1,16,1,insulin ,0,0,,1,2,1,1,0,,"svo, opere kolon ca,küratif,epilepsi",1,ARB+B BLOCKER+CCB,30,primary school,housewife,retired,0,0,11.7,0.83,1,16,0,1.05,32.1,F
+,77,77,159,103,106,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,55,Secondary School,Administrative Assistent,Retired,0,0,6.8,1.37,0,19,0,1.03,30.5,F
+,56,85,159,114,113,1,40,social,0,0,0,,0,0,,0,0,0,0,0,,aritmi,1,B BLOCKER+CCB,1.5,Secondary School,Housewife,Unemployed,0,1,14.2,0.92,0,28,0,1,33.6,F
+30,69,78,158,101,121,0,0,0,1,1,0,Metformin,1,5,Atorvastatin,0,0,1,0,0,1,,0,,0,university,Teacher,retired,1-2/week,0,9.5,1.33,0,22,0,0.63,31.2,F
+29,72,86,171,114,116,1,10,0,0,0,0,,0,0,,0,0,0,0,0,,"bph, colon polyp",1,ARB+DIURETIC,13,primary school,driver,retired,3-4/week,1,12.5,0.96,0,42,1,1.24,29.4,M
+,69,80,173,106,108,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,ARB+CCB+DIURETIC,5,university,teacher,retired,3-4/week,1,13.6,1.05,1,20,1,0.98,26.7,M
+29,66,78,153,101,113,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,opere meme ca küratif,1,DIURETIC,2,primary school,housewife,retired,0,0,8.8,0.84,0,24,0,1.23,33.3,F
+,45,67,158,108,109,1,5,0,1,18,1,"glimepiride, Insulin novomix",1,1,Fenofibrate,0,0,0,0,0,,,1,ACE,3,university,driver,full-time/part-time work,3-4/week,0,5.2,1,0,34,0,1.42,26.8,M
+30,65,63,159,90,99,0,0,0,1,5,1,"metformin, sitagliptin, insulin glarjin",0,0,,0,0,0,,,0,,1,,5,primary school,house wife,retired,0,,9.9,0.72,,19,0,1.26,24.92,F
+,60,67,150,97,93,1,ex Smoker: 30,Regular,1,4,0,Metformin ,1,13,Simvastatin,1,1,0,0,0,,,1,ARB+CCB,2,Primary School,Hospital operational assistant,Full-time/part-time work,0,0,5.9,1.4,0,41,0,1.62,29.8,M
+,58,80,150,98,124,0,0,0,1,,,Metformin,0,,,0,,0,0,0,1,,1,ACE+CCB,,primary school,ev hanımı,retired,0,0,10,1.4,0,22,0,1.03,35.6,F 
+,66,84,165,96,116,0,0,0,1,,0,Metformin,0,0,,0,,0,0,0,0,aritmi,1,ACE+B BLOCKER,,primary school,ev hanımı,retired,0,1,15.3,0.95,1,18,0,1.02,30.9,F 
+,54,70,162,89,99,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary school,Housewife,unemployed,0,0,10.2,1.1,0,31,0,1.15,26.7,F
+24,62,83,,104,105,1,30,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,self-employment,retired,0,0,7.5,0.9,1,31,0,,,M
+30,61,67,164,90,97,1,25,0,1,3,0,Metformin,0,0,,0,0,0,0,0,,"menier, depression,aritmi",1,B BLOCKER+CCB,5,high school,officer,retired,0,1,12.6,1,0,20,0,1.45,24.9,F
+29,63,85,143,103,119,0,0,0,1,15,1,"insulin glarjin, sitagliptin, dapagliflozin",0,0,,0,0,0,,,0,,1,,15,primary school,house wife,retired,3-4/week,,10.3,0.79,,22,0,1.06,41.57,F
+30,61,90,180,120,122,0,0,social,0,0,0,,0,0,,0,0,,,,0,,0,,0,primary school,ayakkabıcı,part-time work,0,,7.9,1.33,,39,0,1.3,27.8,M
+,78,80,169,102,107,1,30,0,0,0,0,,0,0,,0,0,0,0,0,,,1,,,University,,,0,1,12.5,1.07,0,40,1,1.3,28,M
+,45,93,165,110,125,0,0,0,1,5,0,Metformin,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,14,secondary school,HOUSE WIFE,UNEMPLOYED,0,1,18.5,1.05,0,23,1,0.78,34.2,F
+27,71,100,153,126,133,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,nefrolityazis,1,CCB,10,primary school,worker,retired,0,0,11.8,0.7,0,23,0,0.96,42.5,F
+23,56,80,165,93,117,0,0,0,0,0,0,,0,0,,,,0,0,0,0,,0,,0,Secondary School,retired,housewife,1-2/week,0,10.8,0.88,1,16,0,1.36,29.4,F
+27,59,80,155,100,110,0,0,0,1,5,0,metformin,0,0,,0,0,0,0,0,1,,1,ACE+CCB,6,primary school,housewife,Retired,1-2/week,1,12.6,0.82,0,24,1,0.9,33.3,F
+30,78,71.1,148,108,117,0,0,0,0,0,0,,0,0,,0,0,0,,,0,,1,,15,secondary school,tailor,Retired,0,,14.5,1.04,,21,1,0.82,32.46,F
+29,71,58,165,68,93,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,BPH,0,,0,university,officer,retired,3-4/week,0,10,1.3,1,30,0,2.24,21.3,M
+30,64,89,158,101,117,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,6,primary school,house wife,retired,0,0,10.9,1.1,0,25,0,0.82,35.7,F
+,46,73,168,83,110,1,29,0,0,0,0,,0,0,,0,0,1,0,0,,,0,,0,High School,Hospital Staff,full-time work,0,0,5.8,1.33,0,46,0,1.43,25.9,F
+,69,93,151,120,138,1,50,0,1,6,0,metformin,0,0,,0,0,0,0,1,,,1,ACE+B BLOCKER+CCB,15,high school,financier,retired,0,1,22,0.83,1,12,1,0.63,40.8,F
+,59,78,160,75,87,0,0,social,0,0,0,,0,0,,0,0,0,0,0,0,,1,ARB+DIURETIC,6,primary school,housewife,unemployed,1-2/week,0,11.8,0.93,0,22,0,0.9,30.5,F
+25,67,73,158,101,112,0,0,0,1,10,0,metformin,1,10,rosuvastatin,0,0,1,0,0,,,1,ARB,20,illiterate,house wife,retired,0,0,10.3,0.85,0,28,0,1.07,29.2,F
+,60,80,162,88,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,ARB+DIURETIC,10,primary School,housewife,unemployed,3-4/week,0,10.9,0.85,0,24,0,1.11,30.5,F
+,71,86,169,110,100,1,ex Smoker: 25,regular,0,0,0,,1,20,Rosuvastatin,0,0,0,0,0,,,1,ARB,10,Primary School,Mechanic,Full-time/part-time work,0,0,9.4,0.99,1,25,1,1.41,30.1,M
+,53,80,174,96,96,1,10,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,2,Secondary School,solider,full-time/part-time work,0,0,7.2,1.05,0,39,0,1.11,26.4,M
+,53,101,171,119,113,1,20,social,1,1,0,metformin,0,0,,0,0,0,0,0,,,1,B BLOCKER+DIURETIC,5,university,doctor,retired,0,0,7.8,1.43,0,59,0,1.48,34.5,M
+26,92,67,150,106,105,1,80,0,1,10,0,metformin,1,10,atorvastatin,0,0,0,,,0,,1,,10,primary school,worker,retired,0,,15.5,0.34,,21,1,1.29,29.78,M
+,45,71,158,98,103,0,0,0,0,0,0,,1,1,Fenofibrate,0,0,0,0,0,,,1,ACE+B BLOCKER,1,illiterate,maid,full-time/part-time work,0,0,5.1,1.03,0,26,0,1.15,28.4,F
+,55,70,150,110,120,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+CCB,2,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,14.3,2.23,0,20,0,1.02,31.1,F
+,75,57,165,93,98,0,0,0,0,0,0,,0,0,,0,0,0,1,1,,,1,ARB,10,primary school,LABOURER,UNEMPLOYED,0,1,14.4,0.96,1,19,1,1.17,20.9,M
+,81,90,170,121,99,1,45,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Teacher,Retired,0,1,14,0.74,0,38,1,1.13,31.1,M
+29,66,82,173,103,106,1,10,social,0,0,0,,0,0,,0,0,0,0,0,,BPH,0,,0,Secondary School,welder,retired,3-4/week,0,7.9,1.3,0,43,0,1.64,27.4,M
+30,71,62,156,84,104,0,0,0,1,15,0,Metformin,1,3,atorvastatin,1,3,0,0,0,,,1,ARB+B BLOCKER+DIURETIC,15,primary school,housewife,retired,0,0,11.9,0.98,0,20,0,1.22,25.5,F
+30,46,72,169,80,100,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,tachycardia,0,,0,university,civil servant,working,0,0,11.6,1.3,0,22,0,1.92,25.2,F
+28,61,45,150,90,120,0,0,0,1,10,0,metformin,0,0,,0,0,0,,0,0,,1,CCB,10,primary school,retired,housewife,0,,19.4,0.92,0,28,1,0.8,42.2,F
+26,54,53,158,76,95,0,0,social,0,0,0,,0,0,,0,0,0,,0,,,0,,0,high school,chef,Working,1-2/week,,7.8,0.88,,37,0,1.82,21.23,F
+30,45,76,164,96,111,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,high school,housewife,unemployed,1-2/week,,10,1.2,0,30,0,0.99,28.3,F
+30,60,75,177,97,102,1,35,0,0,0,0,,0,0,,0,0,0,,,0,,1,,8,high school,electrician,Retired,3-4/week,,13.3,0.78,,40,0,1.4,23.94,M
+29,54,70.1,180,90,97,1,50,0,0,0,0,,0,0,,0,0,0,,,0,,0,,0,secondary school,nurse,Working,0,,7.2,0.46,,36,0,2.22,21.64,M
+25,81,51,146,90,100,0,0,0,1,20,0,"empagliflozin, sitagliptin",1,10,atorvastatin,1,12,0,0,0,,,1,CCB,20,illiterate,house wife,retired,0,,16.2,0.49,,14,0,1.16,23.9,F 
+22,67,60,152,102,107,0,0,0,1,6,0,,1,5,fenofibrate,0,0,0,0,0,1,,1,,5,primary school,housewife,Retired,0,1,13.1,1.1,1,12,0,1.73,26,F
+,71,79,162,120,115,0,0,0,0,0,0,,1,10,Simvastatin,0,0,0,0,0,,,1,ACE,10,Illiterate,Firefighter,retired,0,0,10.9,0.64,1,26,1,1.08,30.1,M
+,81,52,162,86,96,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,,,Primary school,,,0,1,12.1,0.83,1,13,0,1.11,19.8,F
+26,62,60,157,88,94,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,Breast cancer,1,ARB,20,High school,public servant,Working,0,,12.1,1.12,0,26,1,0.77,24.3,F
+27,70,61,160,88,98,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,high school,,,0,0,7.9,1.71,0,20,0,1.29,23.8,F
+30,67,79,152,95,122,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+DIURETIC,3,high school,house wife,retired,1-2/week,1,12.6,0.56,0,20,0,1.2,34.2,F
+,57,94,156,102,115,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+CCB+DIURETIC,20,Primary School,Housewife,Unemployed,0,1,12.7,1.19,0,26,1,0.78,38.6,F
+24,73,68,145,108,112,0,0,0,0,0,0,,1,6,atorvastatin,0,0,0,0,0,1,periferik arter hastalığı,1,ARB+DIURETIC,17,primary school,house wife,retired,0,1,13.9,0.85,1,14,1,0.89,32.3,F
+29,53,78,150,98,126,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,Mediterranean anemia,0,,0,University,Trade Manager,Working,3-4/week,,6.1,0.44,,24,0,1.17,34.7,F
+23,75,65,155,100,120,0,0,0,0,0,0,,0,0,,,,0,0,0,1,,0,,0,illiterate,retired,housewife,0,0,10.6,1,0,26,0,1.27,27.1,F
+26,76,88,156,110,118,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,sol bacak platin,1,ARB+CCB+DIURETIC,20,Illiterate,house wife,retired,0,1,16.5,0.47,0,20,0,1.07,36.2,F
+30,57,58,155,98,108,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,ARB,3,university,cleaner perconel,working,1-2/week,0,7.5,1.13,0,22,0,1.34,24.1,F
+30,62,76,157,109,113,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,"migren,servikal hernı",0,,0,primary school,housewife,retired,1-2/week,1,12.3,1.03,0,19,1,0.85,30.8,F
+28,59,94,157,113,121,0,0,0,1,10,0,"vildagliptin,metformin",0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,10,primary school,house wife,retired,0,1,14.1,0.51,1,11,1,1,38.1,F
+30,48,81,168,103,105,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Secretary,Working,0,0,6.9,1.39,0,34,0,1.31,28.7,M
+,45,66,156,102,100,0,0,0,0,0,0,,1,2,Rosuvastatin,0,0,1,0,0,,,1,ARB,2,university,Administrative employee,Full-time/part-time work,0,0,5.8,0.73,0,26,0,1.09,27.1,F
+22,83,75.4,150,119,113,0,0,0,0,0,0,,0,0,,0,0,0,,,0,"Lomber herni, servikal herni",1,,15,illiterate,house wife,Retired,0,,27,1.91,,16,0,1.1,33.51,F
+,54,80,166,101,103,1,15,0,1,4,0,"Metformin, Gliclazide",0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,1,Primary School,Driver,Full-time/part-time work,0,0,6.5,0.75,0,36,0,1.32,29,M
+30,53,81,163,94,113,1,40,0,1,3,0,Metformin,0,0,,0,0,0,,,0,,1,,10,high school,housewife,Retired,3-4/week,,8.1,1.15,,32,0,1.19,30.49,F
+26,69,69,149,104,115,0,0,0,1,0.2,0,"pioglitazon,metformin,dapagliflozin",1,0.2,atorvastatin,0,0,0,0,0,,,1,ACE+DIURETIC,20,illiterate,housewife,retired,0,0,9.4,1.05,1,18,0,1.12,31.1,F
+25,66,76.1,176,96,104,1,50,0,0,0,0,,0,0,,0,0,,,,0,,0,,0,high school,artisan,Working,1-2/week,,13,0.79,,31,0,1.62,24.6,M
+20,69,90,160,110,125,0,0,0,0,0,0,,0,0,,,,0,0,0,0,,0,,0,illiterate,retired,housewife,0,0,10.5,0.98,0,25,0,0.61,35.2,F
+28,63,96,156,108,131,0,20,0,0,0,0,,0,0,,0,0,0,1,0,,"gastrit,anemi",1,ARB+B BLOCKER+DIURETIC,15,primary school,housewife,retired,0,1,20.4,0.75,0,26,1,0.78,39.5,F
+,82,75,145,120,122,0,0,0,0,0,0,,0,0,,0,0,0,1,0,,,1,ARB+DIURETIC,9,illiterate,housewife,unemployed,0,1,18.2,1.3,0,20,1,0.81,35.7,F
+,45,95,167,105,115,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,,1,CCB,3,Secondary School,cleaning staff,full-time work,0,1,11.9,1.64,0,30,0,0.99,34.1,F
+27,58,76,155,112,118,0,0,0,0,0,0,,0,0,,0,0,0,,0,1,,0,,0,illiterate,ev hanımı,retired,0,,6.5,1.42,,18,0,1.01,31.63,F
+19,61,87,178,102,108,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,Primary school,Housewife,retired,0,0,10.9,1.07,0,28,0,1.73,27.5,F
+,67,73,161,99,95,0,0,0,0,0,0,,0,0,,1,14,0,0,0,,,1,ACE,6,Primary School,Guard,Retired,3-4/week,0,7.4,0.79,0,32,0,1.06,28.2,M
+,59,88,155,110,125,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary school,Housewife,unemployed,0,1,12,0.9,0,28,0,1.07,36.6,F
+28,53,59,154,79,92,1,20,0,0,0,0,,0,0,,,,0,0,0,1,,0,,0,Primary school,,housewife,0,0,9,1.03,0,26,0,1.23,24.9,F
+25,87,75,155,102,101,1,20,0,0,0,0,,0,0,,1,5,0,0,0,,,1,CCB,5,illiterate,transporter,retired,0,1,14.6,0.59,1,24,1,0.81,31.2,M
+29,64,70,159,86,116,1,20,0,1,1,0,metformin,0,0,,0,0,0,0,0,,,1,ACE,1,primary school,house wife,retired,3-4/week,,11,0.89,,28,0,1.35,27.7,F 
+,72,60,157,98,101,0,0,0,1,7,0,metformin,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,10,illiterate,house wife,unemployed,0,1,16.8,0.67,1,14,0,1.23,24.3,F
+28,55,65,156,94,105,0,0,0,0,0,0,,0,0,,0,0,0,,0,0,,0,,0,secondary school,kuaför,retired,0,,6.4,1.59,,27,0,1.41,26.71,F
+,64,82,159,99,115,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,depresyon,0,,0,High school,ev hanımı,retired,0,1,14.6,0.79,1,18,0,1.07,32.4,F
+,58,95,168,113,110,1,90,0,1,0.5,0,metformin,0,0,,0,0,0,0,0,,,1,ARB+CCB,5,primary school,cook,full-time work,0,1,19,1.67,0,22,1,0.95,33.7,F
+30,60,65,168,93,99,1,40,0,0,0,0,,0,0,,0,0,0,0,0,,gastrıt,0,,0,University,officer,retired,3-4/week,0,9.6,0.98,0,35,0,2.03,23,M
+,52,72,178,89,95,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Company manager,Full-time/part-time work,1-2/week,0,6.4,1.37,0,38,0,1.49,22.7,M
+29,60,63,164,86,90,1,40,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,artisan,,1-2/week,0,7.9,1.13,0,37,0,1.65,23.4,M
+,58,52,151,86,100,0,0,0,1,15,0,Metformin,0,0,,0,0,0,0,0,,,1,ACE+CCB,15,Secondary School,maid,Full-time/part-time work,0,0,10.4,1.49,1,18,1,0.71,22.8,F
+26,68,83,156,97,113,0,0,0,1,2,0,metformin,1,2,atorvastatin,1,2,0,0,0,,"chd,ankilozan spondilitis",1,ACE,6,primary school,house wife,retired,0,0,10,0.62,0,21,0,0.93,34.1,F
+,60,72,172,95,102,1,40,social,0,0,0,,0,0,,1,4,0,0,0,,,1,ACE+B BLOCKER,4,primary school,worker,full-time/part-time work,0,0,11.8,1.2,0,38,0,1.44,24.3,M
+,66,60,148,92,99,0,0,0,1,5,0,"Metformin, Gliclazide",1,7,"Atorvastatin, fenofibrate",0,0,0,0,0,,,1,ARB+DIURETIC,10,illiterate,housewife,unemployed,1-2/week,1,11.9,0.85,0,21,0,0.91,27.4,F
+29,48,74,170,82,106,1,1,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,1,high school,house wife,retired,0,0,7.7,0.98,0,29,0,1.64,25.6,F
+25,67,75.5,146,116,122,0,0,0,1,27,0,"Metformin, vildagliptin, Gliclazide, empagliflozin",0,0,,0,0,0,1,,0,"astım, boyun fıtığı",0,,0,illiterate,hose wife,Retired,0,,22.6,0.76,,21,0,1.19,35.42,F
+21,64,104.5,164,120,127,0,0,0,1,0.1,0,,0,0,,0,0,0,0,0,,,1,ARB+CCB,5,primary school,house wife,retired,0,,14.3,0.76,,28,1,0.65,38.9,F
+28,74,76,162,101,111,1,44,0,0,0,0,,0,0,,0,0,0,0,0,,anksiyete,0,,0,Secondary School,farmer,retired,3-4/week,0,10.2,0.94,1,28,0,1.43,29,M
+27,75,70,159,98,104,1,20,0,1,,0,Metformin ,0,0,,0,0,0,0,0,1,,1,ACE,,illiterate,housewife,unemployed,3-4/week,0,11.9,1.06,0,23,0,1.52,27.7,F
+,51,80,154,113,103,0,0,social,1,10,1,insulin / Metformin  ,0,0,,1,10,0,0,0,,Thrombophlebitis,0,,0,Secondary school,Kitchen helper,Unemployed,0,0,8.5,1.18,0,25,0,1.06,33.7,F
+28,65,78,167,106,109,0,0,0,1,22,0,"vildagliptin, Gliclazide, metformin",0,0,,0,0,0,0,0,,,1,A BLOCKER,10,high school,tradesman,retired,3-4/week,0,8.6,0.95,1,28,1,1.25,28,M
+,51,55,152,96,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+CCB+DIURETIC,1,Primary School,maid,Full-time/part-time work,0,0,6.3,0.78,0,22,0,0.97,23.8,F
+27,59,83,179,90,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,officer,,1-2/week,0,7.7,1.45,0,59,0,1.56,25.9,M
+27,66,83,150,120,119,0,0,0,1,0.01,0,"sitagliptin, metformin, Gliclazide",1,0.01,atorvastatin,0,0,0,0,0,,,0,,0,primary school,house wife,retired,0,0,10.7,0.79,0,22,0,1.34,36.9,F
+27,81,93,165,117,109,1,15,0,0,0,0,,1,15,atorvastatin,1,15,0,0,0,,,1,ACE+B BLOCKER,15,Secondary School,worker,retired,0,1,16.5,0.86,0,33,1,0.98,34.2,M
+28,77,67,150,96,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,20,primary school,house wife,retired,3-4/week,,14.2,0.51,,26,1,0.6,29.8,F 
+23,71,95,150,110,129,0,0,0,0,0,0,,0,0,,,,0,0,0,0,,1,ACE+DIURETIC,10,illiterate,retired,housewife,0,0,11.3,0.82,0,19,0,0.84,42.2,F
+,46,64,170,70,100,1,13,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,cleaner,Full-time/part-time work,1-2/week,0,10.2,1.46,0,29,0,2.16,22.2,F
+27,75,70,179,95,116,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,depresyon,0,,0,primary school,house wife,retired,0,1,14.2,0.75,1,12,0,1.7,21.9,F
+29,48,91,175,102,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,ritm bozukluğu,1,ACE+B BLOCKER+DIURETIC,5,primary school,furniture designer,retired,0,,10.9,0.77,,54,0,1.94,29.7,M
+,50,85,160,110,114,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,High school,işçi,part-time work,0,0,9.8,1.31,0,29,0,1.21,33.2,F
+29,63,125,175,138,129,1,40,social,1,2,0,metformin,0,0,,0,0,0,0,1,,,1,CCB,5,high school,police,retired,0,0,11.9,1.02,0,48,0,1.13,40.8,M
+30,64,69,160,98,100,0,0,0,0,0,0,,1,2,,0,0,0,0,0,1,,0,,0,primary school,housewife,Retired,1-2/week,0,5.5,0.47,0,22,0,1.2,27,F
+30,50,67,155,93,105,1,15,0,1,10,0,"metformin,sitagliptin",1,6,atorvastatin,1,6,0,0,0,,,1,ACE+B BLOCKER+CCB,5,high school,worker,working,0,0,10.6,0.88,0,23,0,1.29,27.9,F
+30,48,72,164,100,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,housewife,,1-2/week,0,10.1,1.05,0,29,0,1.7,26.8,F
+25,51,83,156,85,118,0,0,0,0,0,0,,0,0,,0,0,0,,,0,,0,,0,secondary school,housewife,Retired,0,,8.5,1.22,,29,0,0.94,34.11,F
+27,64,72,168,87,111,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,aritmi,0,,0,high school,officer,retired,1-2/week,,9.5,0.93,0,21,0,1.1,25.5,F 
+28,70,84,168,109,109,1,5,0,1,4,0,metformin+insulinaspart,0,0,,0,0,0,0,0,,,1,ARB+CCB,4,University,worker,working,0,0,9,1.22,0,39,0,1.14,29.8,M
+29,65,42,163,60,83,1,20,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,primary school,housewife,Retired,3-4/week,0,10.3,1.04,0,22,0,1.77,15.8,F
+30,66,80,169,92,104,1,45,0,0,0,0,,0,0,,0,0,0,,,0,,1,,2,University,biologist,retired,3-4/week,,8.1,0.96,,26,0,1.65,28.01,M
+16,77,86,153,120,125,0,0,0,1,20,1,"insulin aspart, insulin ",0,0,,1,13,0,0,0,,chd,1,ARB+DIURETIC,10,Illiterate,house wife,retired,0,1,24.8,0.52,1,12,1,0.75,36.7,F
+23,86,70,145,105,117,0,0,0,0,0,0,,0,0,,0,0,0,,0,1,,1,,3,none,house wife,retired,0,,12.6,0.47,,10,0,1.09,33.29,F
+29,67,100,167,119,120,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+A AGONIST,15,University,soldier,Retired,3-4/week,1,14.3,0.66,0,34,1,1.11,35.9,M
+,72,78,178,91,103,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,10,primary school,artisan,retired,0,1,11.9,1.05,0,32,0,1.32,24.6,M
+,53,70,168,75,98,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,secretary,part-time work,0,0,10,1.14,0,29,0,1.08,24.8,F
+29,62,89,163,117,113,1,60,0,1,1,0,metformin,0,0,,0,0,0,0,0,,,0,,0,primary school,self-employment,retired,3-4/week,0,7.2,0.85,0,37,0,1.23,33.5,M
+30,57,90,171,109,107,1,15,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,0.25,primary school,plumber,retired,3-4/week,0,9.3,1.67,0,46,0,1.54,30.8,M
+29,60,74,160,99,97,0,0,0,1,10,0,"sitagliptin+metformin,akarboz,dapagliflozin",1,10,atorvastatin,0,0,0,0,0,,,1,ARB+DIURETIC,10,high school,housewife,retired,1-2/week,0,9.4,1.28,0,29,0,1.18,28.9,F
+29,46,56,152,85,97,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,9,university,nurse,working,0,,12.1,1.58,0,20,0,1.12,24.2,F
+,49,74,155,110,95,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+B BLOCKER+CCB+DIURETIC,6,High School,Domestic,Unemployed,0,0,9.7,1.24,0,23,0,1.48,30.8,F
+29,51,75,165,97,107,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary school,Housewife,retired,1-2/week,0,9.4,1.18,0,28,0,1.35,27.6,F 
+17,66,55,135,90,100,0,0,0,1,10,0,,0,0,,,,0,0,0,1,,1,,10,illiterate,retired,housewife,1-2/week,0,9.9,0.79,0,21,0,0.94,30.2,F
+,78,65,170,95,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,B BLOCKER,10,primary school,house wife,unemployed,1-2/week,1,24.7,0.31,1,14,1,0.8,22.5,F
+30,51,70,156,96,106,0,0,0,0,0,0,,0,0,,0,0,,,,0,,0,,0,Primary School,Housewife,Not Working,3-4/week,,7.8,1.07,,26,0,1.29,28.8,F
+30,48,73,155,91,109,0,0,0,0,0,0,,0,0,,0,0,0,,0,0,,0,,0,housewife,unemployed,Abstinence,0,,16.6,0.84,,22,1,0.95,30.39,F
+,66,88,160,80,125,0,0,0,1,3,0,Glifor,0,0,,0,0,0,0,0,,,1,B BLOCKER,3,primary school,housewife,unemployed,0,1,14.6,1,0,26,0,1,34.4,F
+29,68,68,150,114,108,1,30,0,1,4,0,Gliclazide,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,5,primary school,house wife,retired,3-4/week,0,10.2,0.58,0,19,0,1.14,30.2,F
+,52,74,152,94,100,0,0,0,0,0,0,,1,11,fenofibrate,1,1,0,0,0,,,1,ACE+CCB+DIURETIC,11,university,secretary translator,retired,3-4/week,0,6.5,0.7,0,30,0,1.11,32,F
+27,54,56,150,82,99,0,0,0,1,10,1,"empaglflozin,insulin glarjin",0,0,,0,0,0,0,0,,,1,ARB+CCB,10,primary school,house wife,retired,0,0,9.9,0.71,0,22,0,1.84,24.9,F
+,57,79,159,110,105,1,10,0,1,3,0,Metformin,1,2,"simvastatin, fenofibrate",0,0,0,0,0,,,1,ACE+CCB,2,illiterate,driver,full-time/part-time work,3-4/week,0,6.2,0.99,0,42,0,1.33,31.3,M
+30,74,89,175,100,109,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+CCB,10,University,Teacher,retired,3-4/week,0,8.8,0.91,0,37,0,1.4,29.1,M
+,53,97,176,107,109,1,5,0,1,2,0,"Metformin, Gliclazide",1,15,Fenofibrate,0,0,0,0,0,,diabetic neuropathy,1,ACE,15,illiterate,shop keeper,full-time/part-time work,0,0,9.4,0.71,1,22,1,1.03,31.3,M
+,65,82,160,117,95,1,50,0,0,0,0,,1,15,Atorvastatin,0,0,1,0,0,,,0,,0,High School,Nurse,Retired,0,0,11.8,0.72,0,25,0,1.37,32,F
+30,62,73,171,94,104,1,45,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+CCB+DIURETIC,1,primary school,taxi driver,retired,0,0,8.6,0.89,0,41,0,1.66,25,M
+30,60,72,160,101,105,1,45,0,0,0,0,,0,0,,0,0,1,0,0,,anksiyete,1,ACE,3,high school,housewife,retired,0,0,7.9,1.19,0,26,0,1.67,28.1,F
+,49,80,164,93,119,0,0,social,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+CCB,2,university,nurse,full-time/part-time work,1-2/week,0,10.8,1.18,0,35,0,1,29.7,F
+,60,98,167,106,123,1,10,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+B BLOCKER+DIURETIC,30,primary school,house wife,unemployed,0,0,10.4,1.1,0,29,0,1.16,35.1,F
+29,66,86,170,112,105,1,50,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,worker,working,3-4/week,0,9.9,0.85,0,40,0,1.25,29.8,M
+,59,60,160,78,92,0,0,0,0,0,0,,0,0,,0,0,0,1,0,1,Nöropatik ağrı,0,,0,illiterate,ev hanımı,retired,0,1,20.8,0.77,0,20,0,1.24,23.4,F
+28,62,60,140,96,108,1,50,0,1,9,0,"metformin,glikliazid",0,0,,0,0,1,0,1,,şizofreni,0,,0,high school,civil servant,retired,0,0,11.4,0.61,1,16,0,1.3,30.6,F
+,52,60,173,70,98,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,housewife,unemployed,1-2/week,0,11,1.41,0,28,0,1.75,20.1,F
+30,66,86,176,100,107,1,10,social,0,0,0,,1,15,Atorvastatin,1,15,0,0,0,,,0,,0,high school,public servent,Retired,1-2/week,1,12,0.66,0,47,1,1.07,27.6,M
+,45,62,154,97,100,0,0,0,1,3,0,"Metformin, Sitagliptin",0,0,,0,0,0,0,0,,,1,ACE,1,Primary School,project manager in transportation,Full-time/part-time work,0,0,4.5,0.79,0,34,0,1.56,26.1,F
+,59,70,156,95,108,0,0,Social,0,0,0,,0,0,,0,0,0,0,0,,Depression,1,ACE+CCB+DIURETIC,10,Secondary School,Security guard,Full-time/part-time work,0,0,7.2,1.19,1,16,0,1.39,28.8,F
+,67,75,160,83,115,0,0,0,0,0,0,,1,,,0,0,0,0,0,,,0,,0,High School,,,0,1,18.5,0.8,0,19,1,0.74,29.3,F
+28,72,77,159,111,115,1,50,0,0,0,0,,0,0,,1,3,0,0,0,,"chd, bph",1,CCB,0.5,primary school,driver,retired,0,0,9,1.03,0,40,0,1.19,30.5,M
+30,49,102,175,110,116,1,30,0,0,0,0,,1,5,atorvastatin,1,5,0,0,0,,,1,ACE+B BLOCKER+DIURETIC,5,primary school,welder,retired,0,0,10.1,1.15,0,51,0,2.04,33.3,M
+,50,70,160,100,112,1,10,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,4,Primary School,Housewife,unemployed,0,0,9,1,0,31,0,1.43,27.3,F
+30,65,77,147,102,118,0,0,0,0,0,0,,1,0.1,atorvastatin,1,0.2,0,0,0,,,1,A BLOCKER,30,primary school,housewife,retired,0,0,8.9,1.1,0,22,0,0.99,35.6,F
+30,67,80,157,103,110,0,0,0,1,18,1,"insulin aspart,linagliptin,metformin",1,0,,1,8,0,0,0,,chd,1,ARB+DIURETIC,20,primary school,house wife,retired,1-2/week,0,7.5,0.71,0,20,0,1.19,32.5,F
+,64,90,150,113,126,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,Housewife,Unemployed,0,0,10,1.22,0,21,0,0.93,40,F
+27,69,62,160,84,99,0,0,0,0,0,0,,1,15,Atorvastatin,0,0,0,,0,1,,1,,15,University,officer,Retired,3-4/week,,8,1.33,,30,0,1.52,24.22,F
+,55,100,165,122,132,0,0,0,1,10,0,metformin,0,0,,0,0,0,0,0,,,1,ARB+B BLOCKER+DIURETIC,15,illiterate,house wife,unemployed,0,1,11.9,0.96,0,24,0,0.82,36.7,F
+23,62,61,162,89,95,1,10,0,0,0,0,,0,0,,0,0,0,0,1,,,0,,0,primary school,worker,retired,3-4/week,1,12,0.77,1,22,0,1.5,23.2,M
+28,72,86,148,110,130,0,0,0,1,2,0,"sitagliptin,metformin",0,0,,0,0,0,1,0,,pte,1,ACE+DIURETIC,10,primary school,house wife,retired,0,0,10.7,0.65,0,22,0,0.58,39.3,F
+29,75,59.5,155,96,89,0,0,0,1,2,0,metformin,1,2,pitavastatin,0,0,1,0,0,,"demans, vasküler stenoz?",1,ACE+DIURETIC,20,primary school,accountant,retired,0,,10.3,0.62,0,23,0,1.24,24.8,F 
+,49,105,160,120,124,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High School,Housewife,Unemployed,0,0,8.6,0.92,0,30,0,1.24,41,F
+27,77,80,171,100,102,0,0,0,1,5,0,sitagliptin/metformin,1,15,atorvastatin,1,15,0,0,0,,,1,ACE+B BLOCKER,6,primary school,taxi driver,retired,1-2/week,0,11.5,1.24,0,36,0,1.03,27.4,M
+30,65,79,148,97,119,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,house wife,retired,0,0,9.2,0.76,0,22,0,1.12,36.1,F
+,56,91,151,100,113,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,Chronic gastritis,1,ARB+B BLOCKER+DIURETIC,3,illiterate,housewife,unemployed,0,0,9.3,0.69,0,24,0,0.7,39.9,F
+28,78,92,167,118,109,1,20,social,0,0,0,,0,0,,0,0,0,0,0,,bph,0,,0,high school,worker,retired,0,0,9,0.81,0,33,0,1.18,33,M
+23,63,99,158,110,130,0,0,0,0,0,0,,1,12,,,,0,0,0,0,,0,,0,Primary school,housewife,retired,0,,15.4,0.99,0,23,1,0.75,39.7,F 
+29,52,92,164,110,127,0,0,0,0,0,0,,0,0,,0,0,0,,0,0,,0,,0,secondary School,retired,housewife,0,,10.3,0.98,0,21,0,1.31,34.2,F
+24,64,76,149,114,124,0,0,0,1,5,0,"metformin,Gliclazide",0,0,,0,0,1,1,0,,,1,ACE+CCB,3,primary school,farmer,retired,0,0,9.8,1.13,0,21,0,0.92,34.2,F
+,45,81,170,107,104,1,3,0,0,0,0,,1,0.6,Atorvastatin,1,0.6,0,0,0,,,1,ACE,0.6,illiterate,Porter,Full-time/part-time work,0,0,9.3,0.86,0,38,0,0.76,28,M
+24,78,72,164,99,103,0,0,0,0,0,0,,1,8,atorvastatin,1,10,0,0,0,,chd,1,ACE,10,primary school,worker,retired,3-4/week,0,9.6,0.8,1,23,0,1.82,26.8,M
+28,48,65,160,90,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,housewife,,0,1,12.5,1.43,0,35,0,1.62,25.4,F
+30,49,79,162,102,105,1,50,Regular,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High school,Secretary,Working,0,0,8.5,1.06,0,30,0,1.27,30.1,F
+,59,108,157,117,128,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,2,university,accountant,full-time/part-time work,0,0,9.1,0.73,0,26,0,0.79,43.8,F
+28,71,84,168,111,120,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,B BLOCKER,,primary school,housewife,unemployed,1-2/week,0,10.8,1.12,0,24,0,1.6,29.8,F
+,70,82,159,108,118,0,0,0,1,,,,0,0,,0,0,0,0,0,0,erozif OA,1,B BLOCKER,,High school,,,0,0,10.5,1.3,0,19,0,0.99,32.4,F
+29,60,83,151,99,116,0,0,0,0,0,0,,1,2,Atorvastatin,0,0,1,0,0,,depresyon,1,B BLOCKER,1,primary school,house wife,retired,0,0,7.8,0.7,0,21,0,0.99,36.2,F 
+,45,85,174,97,107,1,15,0,1,7,0,"Metformin, Gliclazide, dapagliflozin",1,5,"Rosuvastatin, fenofibrate",0,0,0,0,0,,,1,ARB+B BLOCKER+CCB+DIURETIC,10,High school,army officer,retired,0,0,8.6,0.85,0,40,0,1,28.1,M
+21,70,102,158,118,134,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,"gastrit,lomber disk hernisi",1,ARB+DIURETIC,15,illiterate,housewife,retired,0,1,12.6,0.72,1,16,1,0.84,40.9,F
+29,62,54,165,83,90,1,75,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Secondary School,worker,retired,3-4/week,0,10,0.68,0,37,0,1.49,19.8,M
+18,82,62,147,101,105,1,40,0,0,0,0,,0,0,,0,0,0,1,0,1,"svo, depresyon",1,ACE+CCB,6,primary school,housewife,retired,0,1,45,0.33,1,8,1,,28.7,F
+,62,58,148,92,98,0,0,0,0,0,0,,1,5,Rosuvastatin,0,0,1,0,0,,,1,ARB+B BLOCKER+DIURETIC,10,primary School,HOUSE WIFE,UNEMPLOYED,0,1,13.8,1.2,0,19,0,1.66,26.5,F
+21,67,68,157,102,118,0,0,0,1,4,0,Metformin,0,0,,1,4,1,0,0,,,1,ACE,10,primary school,housewife,retired,0,1,15.6,1,1,15,0,1.42,27.6,F
+30,51,83,176,95,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Lab technician ,Working,0,0,7.2,1.1,0,36,0,2.19,26.8,M
+29,76,76,155,105,115,0,0,0,1,10,0,metformin,1,1,,,,0,0,0,1,,1,ACE+DIURETIC,10,Primary school,retired,housewife,1-2/week,1,18.8,0.44,0,26,0,1.28,31.6,F
+,45,60,173,89,97,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,0.5,Illiterate,Porter,Full-time/part-time work,3-4/week,0,8.6,1.02,0,38,0,1.38,20.1,M
+23,74,80,159,106,105,0,0,0,1,5,0,"linagliptin,nateglinide",0,0,,0,0,0,0,0,,"bph,chronic kidney disease",1,CCB,5,primary school,plumber,retired,0,0,9.8,0.99,0,32,0,1.06,31.6,M
+30,49,67,147,96,104,0,0,0,1,0.15,0,"empagliflozin,metformin,Gliclazidee",1,0.15,fenofibrate,0,0,0,0,0,,,1,ACE+DIURETIC,6,primary school,house wife,retired,0,0,6.7,1.07,0,29,0,1.01,31,F
+,59,69,159,95,103,0,0,social,1,15,0,Metformin + Dapaglifozin,1,15,Pravastatin,0,0,0,0,0,,,1,ACE,10,Primary School,Hospital operational assistant,Full-time/part-time work,0,0,7.4,1.33,0,26,0,1.53,27.3,F
+,83,75,175,101,103,1,30,social,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER,0.5,High School,tradesman,Retired,0,1,25.2,0.51,1,28,0,1.48,24.5,M
+30,62,103,154,112,134,1,20,0,1,11,0,"metformin, Gliclazide",0,0,,0,0,1,0,0,,,1,ARB+B BLOCKER+DIURETIC,11,primary school,housewife,retired,0,1,12.5,0.71,0,24,1,1,43.4,F
+29,70,89,149,114,125,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+CCB,5,primary school,housewife,retired,0,0,11.2,0.9,0,23,0,1,40.1,F
+,69,85,165,116,116,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,,Secondary School,,,0,1,13,1.22,0,23,1,0.9,31.2,F
+,45,69,164,98,97,0,0,0,0,0,0,,1,2,"simvastatin, fenofibrate",0,0,0,0,0,,,1,ACE+CCB+DIURETIC,2,High school,farm guard,full-time/part-time work,0,0,5.4,0.98,0,54,0,1.44,25.7,M
+27,64,69,160,94,107,0,0,0,0,0,0,,0,0,,0,0,1,0,0,1,otoimmün hepatit,0,,0,Secondary School,house wife,retired,0,1,13.9,0.68,0,20,0,1.12,27,F
+26,82,69,177,86,94,1,40,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Secondary School,officer,retired,3-4/week,0,11.7,1.15,1,26,0,1.59,22,M
+,58,78,162,108,116,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,4,Primary School,Housewife,Unemployed,0,1,12.7,0.96,0,31,0,1.35,29.7,F
+,64,63,157,89,104,0,0,social,0,0,0,,1,1,Simvastatin,1,1,1,0,0,,,0,,0,University,Teacher,Retired,3-4/week,0,6.1,1.07,0,21,0,1.37,25.6,F
+24,67,67,157,94,108,0,0,0,1,2,0,metformin+pioglitazon,0,0,,0,0,1,0,0,,,0,,0,primary school,housewife,retired,0,1,15.6,0.73,0,19,0,1.17,27.2,F
+,60,70,149,86,100,0,0,social,1,1,0,Metformin,0,0,,0,0,0,0,0,,,0,,0,High school,Housewife,Unemployed,3-4/week,0,9.7,1.46,0,23,0,1.17,31.5,F
+,66,79,146,103,109,0,0,0,0,0,0,,1,7,rosuvastatin,1,5,0,0,0,,Vertigo,1,ARB,5,Illiterate,Housewife,unemployed,0,0,12.1,0.69,1,17,1,0.85,37.1,F
+28,49,78,158,98,115,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE+DIURETIC,0.5,primary school,house wife,retired,1-2/week,0,9.4,0.85,0,24,0,1.19,31.2,F
+,54,69,144,100,113,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+CCB,1,illiterate,maid,full-time/part-time work,0,0,7.6,0.81,0,20,0,0.92,33.3,F
+30,49,58,162,74,99,1,2,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Doctor,Working,0,0,6.5,1.32,0,24,0,1.47,22.1,F
+28,64,59,158,90,105,0,0,0,1,10,0,metformin,0,0,,0,0,0,0,0,,ra?,1,CCB,10,primary school,house wife,retired,0,1,12,0.71,0,19,0,1.35,23.6,F
+30,60,98,163,110,123,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,depresyon,0,,0,primary school,house wife,retired,1-2/week,,9.9,0.73,,30,0,1.22,36.9,F 
+,60,74,155,104,98,0,0,0,0,0,0,,1,6,atorvastatin,0,0,0,0,0,,,1,ACE,1,illiterate,housewife,unemployed,1-2/week,0,9.7,0.95,0,27,0,1.02,30.8,F
+28,50,67,157,86,110,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+B BLOCKER+DIURETIC,2,primary school,house wife,retired,3-4/week,0,7.7,0.97,0,28,0,1.65,27.2,F
+27,72,70,152,99,101,0,0,0,1,15,1,"sitagliptin, metformin, pioglitazon, insulin glarjin",0,0,,0,0,0,0,0,,"svo, depresyon, AF",1,ACE,5,primary school,tailor,retired,3-4/week,0,10.7,0.78,0,21,0,1.38,30.1,F
+,58,50,155,72,92,1,15,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,University,nurse,retired,0,0,9.4,1.57,0,20,0,1.28,20.8,F
+,52,72,160,95,89,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,7,Primary School,house wife,unemployed,0,0,11,0.67,0,20,0,1.6,28.1,F
+,67,92,170,101,115,1,45,0,0,0,0,,0,0,,0,0,0,0,0,,,1,,,secondary school,,,0,0,9.8,1.57,0,49,0,1.32,31.8,M
+,65,85,178,102,116,1,60,0,0,0,0,,1,10,Rosuvastatin,1,3,0,0,0,,Chronic gastritis,1,ACE+CCB,10,Secondary School,visual aid technician in university,retired,0,0,8.5,0.78,0,38,0,0.74,26.8,M
+,58,66,164,87,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,10,High school,Driver,Full-time/part-time work,1-2/week,0,10.1,0.63,0,40,0,1.01,24.5,F
+24,78,60.9,142,90,105,0,0,0,0,0,0,,0,0,,0,0,0,,,0,"Demans, tremor",0,,0,primary school,house wife,Retired,0,,20.1,0.8,,12,1,0.78,30.2,F
+30,55,100,159,107,132,1,30,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE+CCB,5,primary school,house wife,retired,0,0,9.5,0.81,1,17,1,0.97,42.3,F
+20,67,64,158,87,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Illiterate,house wife,retired,3-4/week,0,11.2,0.73,0,26,0,1.42,25.6,F
+30,61,84,150,106,118,0,0,0,0,0,0,,1,7,rosuvastatin,0,0,0,1,0,,,0,,0,primary school,house wife,retired,0,0,10.1,0.94,0,25,0,0.73,37.3,F
+30,64,69,164,90,100,1,60,0,1,10,0,Gliclazide,0,0,,0,0,0,0,1,,,1,ARB+B BLOCKER+DIURETIC,10,high school,accountant,retired,0,1,14.9,0.83,1,27,1,1.12,25.7,M
+,53,70,168,80,106,1,5,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,University,house wife,retired,0,1,14.8,1.2,0,34,0,1.58,24.8,F
+24,71,79,154,107,106,0,0,0,1,30,0,"metformine,glimepiride",1,15,atorvastatin,1,10,1,1,0,,,1,ARB+DIURETIC,15,illiterate,housewife,retired,0,1,13.3,0.82,1,18,1,0.99,33.3,F
+28,55,74,178,103,106,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,worker,,0,0,10,1.24,0,42,0,1.59,23.4,M
+,67,69,146,93,117,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,ARB+DIURETIC,10,Secondary School,care worker,retired,0,0,11.9,1,0,20,0,0.92,32.4,F
+,54,83,170,92,115,1,30,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE+DIURETIC,7,high school,chef,retired,1-2/week,1,11.9,1.3,0,20,0,0.75,28.7,F
+29,62,91,163,100,118,1,40,0,0,0,0,,0,0,,0,0,1,0,0,,,0,,0,primary school,housewife,retired,3-4/week,0,8.9,1.11,0,28,0,1.45,34.3,F
+,56,59,165,73,101,1,36,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,high school,house wife,retired,3-4/week,0,8.9,2,0,25,0,1.65,21.7,F
+28,74,95,177,115,116,1,70,0,0,0,0,,0,0,,1,4,0,0,0,,bph,1,B BLOCKER,4,primary school,farmer,retired,0,0,8.3,1.12,0,32,0,1.28,30.3,M
+27,51,60,163,80,100,0,0,0,0,0,0,,0,0,,,,0,0,0,1,,0,,0,Primary School,retired,housewife,0,0,9.1,0.77,1,16,0,1.31,22.6,F
+25,66,76,176,96,104,1,50,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,artisan,Working,1-2/week,1,13,0.79,1,31,0,1.62,24.5,M
+29,47,85,163,110,116,1,10,0,0,0,0,,0,0,,,,0,0,0,1,,1,ACE+DIURETIC,,High school,,housewife,0,0,8.7,0.99,0,23,0,1.38,32,F
+26,61,53,159,68,96,0,0,0,0,0,0,,0,0,,,,0,,0,1,,0,,0,high school,retired,housewife,0,,10.1,1.14,,18,0,1.35,21,F 
+30,60,114,156,120,135,0,0,0,1,20,1,"Metformin,ınsulın aspart,detemir",1,7,,0,0,0,1,0,,,1,B BLOCKER,6,primary school,housewife,retired,0,1,14,0.58,1,15,1,0.78,46.8,F
+27,73,52,150,74,94,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,high school,bank worker,full-time/part-time work,3-4/week,0,11,1.21,0,25,0,1.17,23.1,F
+29,68,84,167,110,105,1,30,0,1,15,0,Metformin,0,0,,0,0,0,0,0,,,0,,0,Secondary School,Worker,Retired,0,0,6.5,0.98,0,38,0,1.34,30.1,M
+23,72,68,157,82,103,1,2,0,1,15,0,"empagliflozin,linagliptin",0,0,,0,0,0,0,0,,,1,ACE+CCB,15,primary school,house wife,retired,3-4/week,0,7.9,0.91,0,21,0,1.04,27.6,F
+,56,67,172,93,95,1,15,0,1,15,0,vİldagliptin/Metformin/Gliktazid,0,0,,1,2,0,0,0,,,1,ARB+B BLOCKER,2,Primary School,Tradesman,Retired,0,0,9,1.43,1,26,1,1.31,22.7,M
+30,63,59,156,89,98,1,24,social,0,0,0,,1,10,atorvastatin,0,0,0,0,0,,"lichen planus (5 yıl), egzama (5 yıl)",1,B BLOCKER,10,high school,prodüktör,retired,3-4/week,0,11.5,1.46,1,18,0,1.11,24.2,F
+26,65,59,147,97,102,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,0,,0,Illiterate,house wife,retired,0,0,11.2,0.7,0,22,0,1.35,27.3,F
+30,45,74,170,96,103,1,35,0,0,0,0,,1,2,atorvastatin,1,2,0,0,0,,chd,1,ACE,2,primary school,house wife,retired,0,0,8.6,1.02,0,32,0,1.18,25.6,F
+27,63,91,165,108,107,1,2,0,1,5,0,metformin,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,20,primary school,driver,retired,3-4/week,0,11.2,1.02,0,34,0,1.28,33.4,M
+,56,87,155,117,127,0,0,0,0,0,0,,1,10,Simvastatin,1,10,0,0,0,,,1,ACE+B BLOCKER,7,Secondary School,Secretary,Retired,0,0,10.3,0.45,0,27,0,0.52,36.2,F
+27,72,79,161,98,115,0,0,0,1,14,0,metformin,0,0,,0,0,0,0,0,,,1,ALDOSTERON+DIURETIC,14,illiterate,house wife,retired,0,1,13.7,0.63,0,19,0,1.35,30.5,F
+,75,80,168,104,102,1,20,0,0,0,0,,1,20,Rosuvastatin,1,20,0,0,0,,,1,ACE+B BLOCKER+DIURETIC,21,High School,Employer,Retired,0,0,7.7,1.34,0,44,0,1.05,28.3,M
+23,74,71,150,85,95,0,0,0,1,15,0,Metformin,1,,atorvastatin,1,5,0,0,0,,,1,ARB+DIURETIC,20,illiterate,house wife,retired,0,1,15.1,0.69,0,20,1,0.88,31.6,F
+,72,78,152,96,100,0,0,0,1,,,,1,,,0,,0,1,0,1,,1,,,primary school,ev hanımı,retired,0,1,15,0.65,0,21,1,0.95,33.8,F
+27,74,66,145,104,112,0,0,0,0,0,0,,0,0,,0,0,0,1,0,,,1,ARB,20,primary school,housewife,retired,0,0,10.9,0.81,0,21,0,1.09,31.4,F
+29,49,64,164,79,106,0,0,social,0,0,0,,0,0,,0,0,0,,,0,,0,,0,university,nurse,working,3-4/week,,8.6,1.07,,32,0,1.6,23.8,F
+,56,82,168,100,104,1,5,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High School,Officer,full-time work,0,0,7.7,1.28,0,42,0,1.5,29,M
+26,82,60,147,105,105,0,0,0,0,0,0,,0,0,,0,0,0,0,1,1,,1,ACE+DIURETIC,15,primary school,house wife,retired,0,1,13.3,0.5,1,13,1,0.89,27.8,F
+29,49,52,158,71,95,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,0,,0,university,nurse,working,3-4/week,0,8.8,1.16,0,20,0,2.06,20.8,F
+22,54,94,179,108,114,1,20,social,1,6,1,"metformin, vildagliptin, insulin glargin",0,0,,0,0,0,0,0,,,0,,0,high school,driver,retired,1-2/week,1,13.6,0.83,0,42,0,1.68,29.3,M
+25,56,79,153,98,112,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,0.1,illiterate,housewife,retired,3-4/week,1,12.6,0.65,0,26,0,1.3,33.8,F
+27,69,71,154,100,111,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,anksiyete,1,ARB+DIURETIC,3,primary school,housewife,retired,0,0,9,1.08,0,26,0,1.31,29.9,F
+19,53,68,163,97,110,0,0,0,0,0,0,,0,0,,,,0,0,0,0,,0,,0,illiterate,retired,housewife,0,1,14.9,1,0,25,0,1.69,25.6,F
+30,65,81,168,105,95,1,50,0,1,3,0,metformin/vildagliptine,1,2,rosuvastatin,0,0,0,0,0,,,0,,0,University,Teacher,retired,3-4/week,0,8.6,1.22,0,32,0,1.48,28.7,M
+,67,67,160,90,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER,,Primary school,,,0,0,9.5,1.87,1,29,0,1.46,26.2,M
+30,46,97,186,105,115,1,30,0,0,0,0,,1,10,Atorvastatin,1,10,0,,1,,,0,,0,University,officer,Working,1-2/week,,9.2,1.02,,44,0,1.29,28.04,M
+30,68,84,162,114,109,1,60,social,1,14,0,"pioglitazon,Gliclazide",0,0,,1,9,0,0,0,,svo,1,ACE+CCB,15,primary school,worker,retired,1-2/week,0,11.2,0.81,0,34,0,1.19,32,M
+17,62,70,148,95,115,0,0,0,0,0,0,,0,0,,,,0,0,0,0,,1,ACE,10,illiterate,housewife,retired,0,,12.6,0.97,1,15,1,0.83,32,F
+,65,80,163,115,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER+CCB,10,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,15.1,0.99,0,20,0,1.03,30.3,F
+29,66,104,155,127,133,0,0,0,1,10,0,metformin,0,0,,0,0,0,0,0,,,0,,0,primary school,housewife,retired,0,0,9.3,,0,27,0,0.9,43.3,F
+29,57,93,158,100,120,0,0,0,1,10,0,metformin,0,0,,,,1,0,0,0,,0,,0,primary school,retired,housewife,0,0,8.1,1.22,0,27,0,0.97,37.3,F
+21,73,70,156,100,103,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,,0,,0,primary school,housewife,Retired,0,1,12,0.9,0,22,0,1.48,28.8,F
+30,65,82,170,100,110,1,64,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Secondary School,technician,retired,3-4/week,0,7.8,1.47,1,27,1,1.31,28.4,M
+24,54,115,163,132,136,0,0,0,1,5,0," Empagliflozin,Metformin,Linagliptin",1,2,Atorvastatin,0,0,,,,0,,1,,7,primary school,ev hanımı,retired,3-4/week,,13.8,0.94,,29,1,0.96,43.3,F 
+30,69,67,161,83,101,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,"meme ca, fibromiyalji",0,,0,high school,house wife,retired,3-4/week,0,8.4,0.91,0,23,0,1.58,25.9,F
+30,53,102,153,104,131,0,0,0,0,0,0,,0,0,,0,0,1,,,0,,1,,12,primary school,house wife,retired,3-4/week,,10.9,0.84,,22,0,1.18,43.57,F
+30,51,93,172,108,106,0,0,social,0,0,0,,0,0,,0,0,,,0,0,,0,,0,University,endüstri ürünleri tasarım,part-time work,0,,8.6,0.99,,42,0,1.58,31.4,M
+27,66,66,150,94,105,0,0,0,1,30,1,"metformin,dapagliflozin,insulin glarjin",0,0,,0,0,0,0,0,,diyabetik nöropati,1,ARB+DIURETIC,30,illiterate,housewife,retired,3-4/week,0,10.8,1.09,0,20,0,0.65,29.3,F
+,47,69,166,88,108,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,chnp,0,,0,,,,,0,8,1.39,0,28,0,1.58,25,F
+,70,58,151,101,94,0,0,0,1,,0,,0,0,,0,0,1,0,0,,diabetic neuropathy,1,ACE+CCB+DIURETIC,14,illiterate,housewife,unemployed,0,1,13.4,0.69,1,18,1,0.61,25.4,F
+26,69,69.5,152,98,109,0,0,0,0,0,0,,0,0,,0,0,1,,,0,,0,,0,primary school,tailor,Retired,3-4/week,,12,0.95,,22,1,1.17,30.1,M
+30,53,77,170,94,103,1,28,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High school,Cleaning worker,Working,3-4/week,0,8.6,1.3,0,40,0,1.96,26.6,M
+26,76,100,180,119,118,0,0,0,1,5,0,metformin,0,0,,0,0,1,0,0,,,0,,0,Secondary School,farmer,retired,3-4/week,1,15.4,0.59,1,30,0,1.69,30.9,M
+28,67,89,154,115,117,0,0,0,0,0,0,,0,0,,1,10,0,,,0,,1,,25,none,house wife,retired,0,,7.7,0.53,,31,0,0.89,37.53,F
+,77,83,165,102,116,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,LDH,1,ARB+DIURETIC,,Primary school,,,0,1,14.5,0.86,1,18,1,0.78,30.5,F
+,62,83,170,110,105,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+B BLOCKER+DIURETIC,10,Primary School,Officer,retired,0,0,9.1,1.36,0,34,0,1.28,28.7,M
+,61,74,160,92,111,0,0,social,0,0,0,,0,0,,0,0,1,0,0,1,hyperuricemia,1,ACE,5,secondary School,,Retired,0,1,13.5,1.76,1,18,1,0.91,28.9,F
+25,69,76,164,102,111,0,0,0,0,0,0,,1,10,rosuvastatin,1,10,0,0,0,1,,1,B BLOCKER,20,primary school,house wife,retired,1-2/week,1,12.5,0.86,0,29,0,1.05,28.3,F
+,52,75,157,99,111,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER,5,primary school,worker,full-time work,0,0,11.8,1.1,0,42,0,1.26,30.4,M
+29,52,68,170,82,102,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,self-employment,working,3-4/week,0,9,1.43,0,32,0,1.91,23.5,F
+,55,62,155,85,94,0,0,0,1,2,0,"GLICLAZIDE, SITAGLIPTIN",1,2,Atorvastatin,0,0,0,0,0,,,1,ARB,2,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,18.3,1.55,0,19,0,1.27,25.8,F
+,49,47,141,93,82,0,0,0,0,0,0,,0,0,,0,0,0,1,0,,,1,ACE+CCB,1,Primary School,maid,Full-time/part-time work,3-4/week,0,6.5,0.85,1,18,0,1.32,23.6,F
+,66,60,159,80,105,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,"talasemi taşıyıcısı, migren",0,,0,primary School,,,0,0,7.7,0.92,1,12,0,1.65,23.7,F
+,60,72,149,102,114,1,30,0,1,3,0,metformin,0,0,,0,0,0,0,0,,,1,CCB,5,primary school,house wife,unemployed,0,1,15.9,0.82,1,18,0,1.03,32.4,F
+,53,83,165,91,107,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,hyperthyroidi,0,,0,primary school,house wife,retired,0,1,12.6,1.25,0,22,0,1.41,30.5,F
+19,65,52,158,89,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,primary school,housewife,Retired,0,1,12.2,0.57,0,21,0,1.3,20.8,F
+,77,69,164,93,93,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,,,,,0,11.9,1.02,0,35,0,1.01,25.7,M
+,64,82,160,103,116,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,15,primary school,worker,retired,0,1,13.4,0.95,1,21,1,1.03,32,M
+28,63,77,182,90,98,1,30,0,1,5,0,"vildagliptin,metformin,empagliflozin",1,1,pitavastatin,0,0,0,0,0,,,1,CCB,0.1,University,Teacher,retired,3-4/week,0,8.5,1.25,0,40,0,1.42,23.3,M
+24,71,75,154,107,108,0,0,0,1,5,0,metformin,0,0,,0,0,0,0,0,,gut ,1,B BLOCKER,5,primary school,house wife,retired,1-2/week,0,7.8,1.06,1,18,1,0.92,31.6,F
+,50,65,148,98,109,0,0,0,1,5,0,Metformin,0,0,,0,0,0,0,0,,,1,ARB,2,primary school,HOUSE WIFE,UNEMPLOYED,0,1,16,0.89,0,22,0,1.12,29.7,F
+,64,71,152,97,109,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,1,Illiterate,Housewife,Unemployed,0,1,13.6,0.53,1,18,1,0.82,30.7,F
+28,61,110,157,110,130,1,15,0,0,0,0,,0,0,,1,14,0,0,0,,,1,CCB,17,primary school,house wife,retired,0,,14.2,0.58,,32,0,1.13,44.6,F 
+27,64,87,147,120,127,0,0,0,1,10,1,"insulin deglutek+insulin aspart,dapagliflozin,gliklazic",0,0,,0,0,0,1,0,,,1,ARB+DIURETIC,10,primary school,house wife,retired,0,0,11.1,0.67,0,25,0,0.81,40.3,F
+24,56,82,148,103,124,0,0,0,1,5,0,"sitagliptin,Gliclazide,pioglitazon",0,0,,0,0,0,0,0,,,1,ACE+CCB+DIURETIC,10,Illiterate,house wife,retired,0,0,11,0.59,0,19,0,0.92,37.4,F
+29,47,63,165,86,97,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Secondary School,Worker,Working,0,1,13,0.86,0,45,0,1.8,23.1,M
+27,62,79,155,113,119,0,0,0,1,3,0,"vildagliptin, metformin",0,0,,0,0,0,0,0,,,0,,0,primary school,house wife,retired,0,1,14,0.73,0,24,1,0.97,32.9,F
+,66,82,163,113,114,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Secondary School,Administrative Assistent,Retired,0,0,10.5,1.05,0,23,0,1.03,30.9,F
+29,55,85,158,110,121,0,0,0,1,12,0,"vildaglipitin,metformin",0,0,,0,0,0,0,0,,,1,CCB,10,primary school,house wife,retired,0,0,10.8,0.85,0,25,0,0.97,34.1,F
+,45,105,159,130,110,0,0,0,1,0.5,0,Metformin,1,0.5,,0,0,0,1,0,,,1,ARB+DIURETIC,1,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,16.7,1.35,0,20,1,0.83,41.5,F
+,53,80,178,92,100,1,25,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER+ALDOSTERON,4,University,police officer,retired,3-4/week,0,8.7,1.5,0,42,0,1.78,25.3,M
+,58,95,162,92,162,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High school,Housewife,retired,1-2/week,0,11.5,1.3,0,29,0,0.99,36.2,F
+26,56,67,160,85,105,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,house wife,retired,3-4/week,0,7,1.71,0,28,0,1.66,26.2,F
+,63,79,148,108,110,0,0,0,0,0,0,,1,5,"Rosuvastatin, fenofibrate",0,0,0,0,0,,gut ,1,ARB+CCB+DIURETIC,5,Secondary School,Housewife,Unemployed,3-4/week,0,8.8,0.68,0,22,0,0.64,36.1,F
+28,72,73,170,98,100,1,40,0,1,10,0,metformin,1,3,rosuvastatin,1,3,0,0,0,,bph,1,ARB+B BLOCKER+CCB+DIURETIC,10,primary school,driver,retired,0,0,9.4,0.92,1,27,1,1.19,25.3,M
+27,48,75,158,90,111,1,45,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+DIURETIC,2,high school,graphic designer,working,0,0,7.9,1.27,0,27,0,1.51,30,F
+,57,83,172,92,96,0,0,0,1,4,1,insulin,0,0,,0,0,0,0,0,,,0,,0,secondary school,worker,unemployed,0,0,10.7,0.99,0,32,0,1.44,28.1,M
+25,79,109,153,131,146,0,0,0,1,20,1,"insulin aspart,insulin glarjin",1,10,atorvastatin,0,0,0,0,0,,depresyon,1,CCB,20,primary school,house wife,retired,0,1,50,0.35,0,23,1,0.65,56,F
+28,66,75.5,153.5,93,110,1,3,0,0,0,0,,0,0,,0,0,0,0,0,,"opere meme ca(letrozolle takipli), osteoporoz(yeni tanı, kmd değerlendirilmemiş daha)",0,,0,primary school,house wife,retired,3-4/week,,12,0.75,0,19,0,1.36,32,F 
+28,66,78,169,93,109,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,house wife,retired,0,1,13.2,0.74,0,25,1,0.83,27.3,F
+29,58,62,168,86,106,1,30,0,0,0,0,,0,0,,,,1,0,0,1,,1,,2,university,retired,housewife,3-4/week,0,7,1.33,0,24,0,1.29,22,F
+29,60,77,156,95,101,1,20,0,1,20,0,metformin,0,0,,0,0,1,0,0,,,1,ARB+DIURETIC,5,primary school,housewife,retired,0,0,9,1.03,0,24,0,0.89,31.6,F
+27,48,79,158,107,113,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,"dejeneratif disk bozukluğu (10 yıl), FMS (10 yıl), fekal inkontinans (10 yıl)",0,,0,Primary school,ev hanımı,retired,0,0,11.2,1.21,0,19,0,1.47,31.7,F
+,67,85,168,113,118,0,0,0,1,1,0,"Sitagliptin, metformin",1,1,,0,0,0,0,0,,,1,ARB+DIURETIC,1,university,PRIVATE JOB,RETIRED,0,1,12.6,0.81,1,25,1,1.13,30.3,M
+29,52,80,155,94,111,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,DIURETIC,10,primary school,housekeeper,part-time work,0,0,11.9,1.19,0,21,0,1.11,33.3,F
+26,73,87,149,114,129,0,0,0,1,20,0,metformin+vildagliptin,0,0,,0,0,0,1,0,,,1,ARB+CCB+DIURETIC,20,primary school,housewife,retired,0,1,18.1,0.74,0,23,1,0.69,39.2,F
+,63,51,150,81,89,0,0,social,1,2,0,Metformin ,1,11,Atorvastatin,1,1,0,0,0,,,0,,0,Secondary School,Hospital operational assistant,Full-time/part-time work,0,0,7.5,1.07,1,17,0,1.5,22.7,F
+29,61,82,166,109,107,1,80,Regular,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,farmer,retired,0,0,9.5,0.88,0,45,0,1.29,29.8,M
+29,69,67,150,88,109,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+B BLOCKER+CCB,15,high school,officer,retired,0,0,10.5,1.09,0,22,0,0.92,29.8,F
+,55,69,157,78,116,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,breast cancer,0,,0,primary school,house wife,retired,3-4/week,1,13.3,0.99,0,28,0,1.43,28,F
+,45,72,158,94,109,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,,,,,0,7.1,1.55,0,30,0,1.42,28.8,F
+29,69,93,154,120,121,0,0,0,1,0.25,1,"dapaglifozin,insulin",1,0.25,pitavastatin,0,0,0,0,0,,,1,ARB+DIURETIC,25,primary school,housewife,retired,0,0,10.9,0.34,0,25,0,0.63,39.2,F
+,60,85,160,100,110,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,Housewife,Unemployed,0,1,12,1.22,0,19,0,1.02,33.2,F
+,60,82,177,90,105,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Illiterate,worker,Unemployed,3-4/week,0,9.6,1.5,0,41,0,1.53,26.2,M
+26,67,65,156,94,104,0,0,0,1,10,0,metformin,1,10,,,,1,,0,0,,1,B BLOCKER,8,illiterate,retired,housewife,0,,7.5,0.87,,22,0,1.44,26.7,F 
+25,60,62,154,85,95,1,90,social,1,1,0,metformin,0,0,,0,0,1,0,0,,,1,CCB,1,Secondary School,house wife,retired,0,0,7.4,0.84,0,21,0,1.61,26.1,F
+24,52,121,158,124,147,1,10,0,1,1,0,metformin,0,0,,0,0,0,0,0,,lung ca,1,CCB,9,primary school,house wife,retired,0,0,6.1,0.74,0,24,0,0.92,48.5,F
+28,66,62.9,157,,,0,0,0,0,0,0,,0,0,,0,0,,,0,1,,0,,0,secondary school,housewife,Retired,1-2/week,,12,1.2,,20,0,1.35,25.5,F
+29,66,70,161,96,103,1,30,0,1,1,1,"insulin glargine, metformin",0,0,,1,13,0,0,0,,chd,1,ARB,13,high school,employee,retired,0,0,10.8,0.67,0,32,0,1.13,27,M
+30,49,70,174,88,98,1,30,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Technician,Working,0,0,9.1,1.38,0,48,0,1.79,23.1,M
+,54,78,170,100,100,0,0,0,1,3,0,metformin ,0,0,,0,0,0,0,0,,BPH,0,,0,High school,worker,Full-time/part-time work,3-4/week,0,8.5,0.7,0,36,0,1.69,27,M
+27,53,61,159,80,104,0,0,0,0,0,0,,0,0,,,,0,0,0,0,,0,,0,High school,housewife,retired,0,,7.7,1.08,0,22,0,1.56,24.1,F
+30,69,77,158,79,107,0,0,0,0,0,0,,1,6,atorvastatin,1,6,0,1,0,,,1,CCB,10,University,accountant,retired,0,0,8.5,1.03,0,24,0,1.37,30.8,F
+,62,73,142,97,108,0,0,0,0,0,0,,0,0,,1,0.5,0,0,0,,sleeve gastrectomy surgery,1,ARB+CCB,6,primary School,housewife,unemployed,0,0,10.4,0.79,1,17,1,0.51,36.2,F
+30,52,62,165,90,102,1,20,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,primary school,housewife,unemployed,0,,17,0.75,0,20,0,1.4,22.7,F
+30,51,79,178,62,108,1,30,0,0,0,0,,0,0,,0,0,,,,0,,0,,0,primary school,işçi,part-time work,1-2/week,,9.3,1,,31,1,1.34,24.9,M
+23,72,82,148,126,125,0,0,0,1,10,0,nateglinide,0,0,,0,0,0,0,0,,,1,ACE+CCB,4,primary school,house wife,retired,1-2/week,0,10.6,0.66,0,23,0,1.04,37.4,F
+29,67,85,154,115,108,1,40,0,0,0,0,,0,0,,0,0,1,0,0,,,0,,0,primary school,housewife,retired,0,0,10.5,1.11,0,24,0,1.18,35.8,F
+30,75,123.7,152,137,148,0,0,0,1,11,0,"eksenatid, metformin",0,0,,0,0,0,,,0,,1,,15,illiterate,house wife,Retired,0,,17.5,0.68,,19,1,0.62,53.54,F
+27,70,63,158,91,101,0,0,0,1,4,0,metformin,0,0,,0,0,0,0,0,,vertigo,1,CCB,4,primary school,house wife,retired,1-2/week,0,10.8,0.69,1,15,0,1.26,25.2,F
+,55,85,168,96,106,1,40,0,0,0,0,,1,7,"Simvastatin, Fenofibrate",0,0,0,0,0,,,1,ACE,7,illiterate,sheep herder,Full-time/part-time work,3-4/week,0,6.2,0.96,0,43,0,1.5,30.1,M
+26,68,85,147,125,131,0,0,0,0,0,0,,0,0,,0,0,0,1,0,1,,0,,0,illiterate,housewife,retired,0,0,8.9,1,1,18,1,0.96,39.3,F
+28,52,83,158,100,115,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,yaygın anksiyete bozukluğu,1,ACE,2,university,officer,working,3-4/week,0,8.5,0.67,0,30,0,1.35,33.2,F
+18,64,103,155,138,143,1,40,0,1,12,1,"insulin aspart-kristalize insulin aspart,metformin",1,12,atorvastatin,1,1,0,0,0,,,0,,0,Illiterate,house wife,retired,0,1,50,0.39,0,25,1,0.86,42.9,F
+,59,85,150,120,125,0,0,0,1,20,0,"Metformin,Gliclazide",0,0,,0,0,0,0,0,,,1,ACE+CCB,20,Illiterate,Housewife,unemployed,0,1,12,0.67,0,19,1,0.77,37.8,F
+,49,63,162,75,95,1,2.5,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Secondary School,Housewife,Unemployed,3-4/week,0,9.6,1.62,0,37,0,1.79,24,F
+28,69,95,150,117,142,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,depression,1,ACE+DIURETIC,10,primary school,housewife,retired,0,0,11.4,0.8,0,20,1,0.71,42.2,F
+,83,70,170,104,100,0,0,0,0,0,0,,1,,atorvastatin,0,0,0,0,0,,,0,,0,primary School,,,0,0,11.6,1.22,0,38,0,1.1,24.2,M
+,60,93,180,100,103,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,12,Secondary School,Mecanic,Full-time/part-time work,0,0,6.3,1.1,0,50,0,1.54,28.7,M
+,48,64,150,93,101,1,7,0,0,0,0,,0,0,,0,0,0,0,0,0,AS,0,,0,Secondary School,emekli harekelli ofis çalışanı,retired,0,0,11.5,1.13,0,31,0,1.39,28.4,F
+28,71,73.6,155,,,0,0,0,1,40,1,"insulin aspart, insulin aspart protamin, metformin",1,2,Atorvastatin,1,2,0,,,0,,1,,10,primary school,house wife,Retired,0,,19.7,1.12,,16,1,0.54,30.63,F
+,66,83,150,110,120,0,0,social,0,0,0,,0,0,,0,0,1,0,0,,aritmi,1,CCB,2,Primary School,Housewife,Unemployed,0,1,12.6,1.02,0,23,0,1.09,36.9,F
+29,72,71,151,90,111,0,0,0,1,20,0,"Gliclazidee, saksagliptin, empagliflozin",0,0,,0,0,0,0,0,1,aritmi,1,ACE+DIURETIC,20,primary school,house wife,retired,3-4/week,0,6.9,0.83,0,22,0,0.92,31.1,F
+30,56,68,160,86,101,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,housewife,,1-2/week,0,8.7,1.14,0,39,0,1.8,26.6,F
+30,59,77,158,105,120,0,0,0,1,22,1,"metformin,insulin glarjin",0,0,,0,0,0,0,0,,RA,1,ARB+B BLOCKER+DIURETIC,20,University,officer,retired,1-2/week,0,9.7,1.19,0,27,0,0.93,30.8,F
+23,77,77,168,104,103,1,5,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,worker,retired,0,0,10.1,0.71,1,24,1,1.27,25.5,M
+,68,72,160,90,113,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,,,0,1,12.5,1.42,1,18,1,0.92,28.1,F
+,47,62,147,92,98,0,0,0,1,5,0,Metformin,1,3,Simvastatin,0,0,0,0,0,,,1,ACE+DIURETIC,3,illiterate,maid,full-time/part-time work,0,0,5.5,0.91,0,22,0,1.1,28.7,F
+28,74,57,150,90,101,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,0,,0,primary school,secretary,retired,0,0,10.5,0.58,1,17,0,1.25,25.3,F
+,65,70,150,105,114,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+CCB+DIURETIC,12,illiterate,house wife,unemployed,0,1,19.7,0.74,1,18,1,0.94,31.1,F
+30,52,60,155,79,101,0,0,0,0,0,0,,0,0,,0,0,,,0,0,,1,ARB+DIURETIC,5,University,finans,part-time work,3-4/week,,7.2,0.7,,16,0,1.57,25,F
+28,71,70,165,102,110,0,0,0,1,10,0,metformin,1,6,atorvastatin,0,0,1,0,0,1,,1,ARB+CCB,10,primary school,housewife,Retired,3-4/week,0,9.6,1.3,0,23,0,1.49,25.7,F
+,63,64,155,89,105,0,0,Regular,0,0,0,,0,0,,0,0,1,0,0,,"Glaucoma, hiatal hernia",1,ACE,8,Secondary School,Administrative worker,Full-time/part-time work,0,0,10.8,0.96,1,15,0,1.17,26.6,F
+26,59,73,160,90,118,1,40,0,1,4,1,insulin,0,0,,0,0,1,0,0,0,,1,,4,primary school,housewife,Retired,0,1,12,0.78,0,23,0,1.19,28.5,F
+28,52,49,149,76,90,0,0,0,0,0,0,,0,0,,,,0,0,0,1,,0,,0,Primary school,retired,housewife,0,0,7.2,1.44,0,45,0,1.49,22.1,F
+23,61,65,155,90,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,primary school,housewife,Retired,0,0,9.4,1.08,0,22,0,1.38,27.1,F
+,45,83,148,114,118,0,0,0,1,11,1,"GLICLAZIDE, INSULIN",0,0,,0,0,0,0,0,,,1,ARB,9,university,PARAMEDIC,full-time work,0,1,18,0.9,0,19,1,0.9,37.9,F
+,61,65,159,90,109,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,Housewife,Unemployed,1-2/week,1,12,0.97,1,18,0,1.67,25.7,F
+30,65,113,164,106,130,1,5,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,housewife,retired,1-2/week,0,8.7,0.98,0,40,0,1.24,42,F
+26,66,87,151,113,122,0,0,0,1,30,1,insulin glarjin,1,30,,0,0,0,0,0,,kbh,1,ARB+DIURETIC,30,Secondary School,civil servant,retired,0,,12.7,0.38,,21,1,0.72,38.2,F 
+,51,100,178,108,111,1,12.5,Regular,0,0,0,,1,15,Simvastatin,0,0,0,0,0,,,1,ARB+DIURETIC,20,High School,Security guard,Full-time/part-time work,3-4/week,0,7.3,1.43,0,58,0,1.75,31.6,M
+29,53,94,182,107,110,0,0,0,1,1,0,Glifor,0,0,,0,0,0,0,0,,,0,,0,University,Financial advisor,Working,0,0,6.8,1.51,0,50,0,1.71,28.4,M
+26,46,65,150,87,97,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,housewife,,0,0,8.8,1.12,0,34,0,1.4,28.9,F
+,55,79,168,100,105,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,1,Secondary School,GOVT EMPLOYEE,RETIRED,0,1,12.2,0.88,0,36,0,1.43,28,M
+,64,140,158,152,152,0,0,0,0,0,0,,1,6,"Atorvastatin, fenofibrate",0,0,1,0,0,,,1,ARB+CCB+DIURETIC,12,Secondary school,"Ministry of Social affairs, Caregiver for kids",Retired,0,1,14.4,0.64,0,31,0,0.61,56.1,F
+15,71,73,145,94,115,0,0,0,0,0,0,,0,0,,,,0,0,0,1,,1,,1,illiterate,retired,housewife,0,0,12,0.97,1,17,1,0.92,34.7,F
+26,54,53,165,90,98,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,primary school,housewife,Retired,3-4/week,0,7.5,1.19,0,20,0,1.95,19.5,F
+,48,70,151,96,116,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,5,Primary School,housewife,unemployed,1-2/week,0,10.8,0.95,0,19,0,1.03,30.7,F
+,45,55,167,75,95,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,secretary,full-time work,1-2/week,0,7.1,1.12,1,24,0,1.97,19.7,M
+,52,85,172,102,102,1,15,0,1,3,0,glikazid,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,3,primary School,driver,Full-time/part-time work,0,1,12.2,0.86,0,37,1,1.32,28.7,M
+28,75,82,167,107,109,0,0,social,1,3,0,metformin,0,0,,0,0,0,0,0,,bph,1,ARB,10,primary school,worker,retired,1-2/week,0,8.6,1.3,1,23,1,1.31,29.4,M
+29,51,61,177,75,99,1,10,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Secretary,Working,0,0,8.6,1.26,0,24,0,1.53,19.5,F
+25,81,62,154,85,100,0,0,0,1,25,0,metformin,1,25,atorvastatin,0,0,0,,,0,,1,,25,none,house wife,retired,0,,44.8,0.4,,21,0,1.03,26.14,F
+29,54,75,174,93,94,1,20,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,chauffeur,,0,1,12.9,1.36,0,55,0,1.88,24.8,M
+30,73,70,168,87,110,1,40,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,secondary School,police officer,Retired,3-4/week,,7.2,1.12,1,26,1,1.07,24.8,M
+25,76,65.6,163,86,102,0,0,0,0,0,0,,0,0,,0,0,0,,0,1,"demans, inkontinans",0,,0,illiterate,house wife,Retired,0,,29,0.83,,17,0,1.42,24.69,F
+21,83,70,154,99,125,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Illiterate,house wife,retired,0,1,13.8,0.57,1,15,0,1.17,29.5,F
+24,71,75,167,92,116,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,house wife,retired,0,0,9.7,0.65,1,15,0,1.61,26.9,F
+,47,71,155,78,82,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,0.5,illiterate,housewife,unemployed,0,1,12,0.96,0,19,0,1.22,29.6,F
+22,72,72,146,122,119,0,0,0,1,10,0,"piogliktazon,saksagliptin",0,0,,0,0,0,1,0,1,,1,,15,Illiterate,Housewife,retired,3-4/week,1,14,0.7,1,15,1,0.92,33.8,F
+30,73,84,165,110,114,1,15,0,0,0,0,,1,11,atorvastatin,1,16,0,0,0,,"KBH,bph",1,ARB+DIURETIC,16,primary school,repairman,retired,0,0,10.6,1.08,1,30,1,1.04,30.9,M
+,67,76,158,118,122,0,0,0,1,3,0,"METFORMIN, SITAGLIPTIN",0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,27,secondary School,CLERK,RETIRED,0,1,16.4,1.02,0,32,1,1.23,30.4,M
+27,58,82,152,107,119,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,4,primary school,house wife,retired,0,0,10.5,0.54,1,17,1,0.99,35.5,F
+27,57,64,156,106,102,0,0,social,0,0,0,,1,0.5,,0,0,0,0,0,,,0,,0,primary school,house wife,retired,1-2/week,0,10,0.83,0,25,0,1.47,26.3,F
+26,52,82,165,97,110,1,5,0,1,1,0,Metformin,0,0,,0,0,0,0,0,,,1,CCB,1,Primary school,Worker,Working,0,0,9.5,1.3,0,30,0,1.59,30.1,F
+28,71,83,151,113,113,0,0,0,1,20,1,"insulin glargine, insulin lispro,metformin",1,10,,1,20,1,0,0,,aritmi,1,ARB+CCB+DIURETIC,30,primary school,house wife,retired,0,0,10.3,0.74,1,17,1,0.95,36.4,F
+23,73,79,157,100,109,0,0,0,1,1,0,metformin,0,0,,0,0,1,0,0,,,0,,0,primary school,house wife,retired,0,1,16.3,0.75,1,17,1,1,32.1,F
+29,77,74,160,94,101,1,50,0,0,0,0,,0,0,,1,7,0,0,0,1,"chd,postop lung ca",0,,0,university,employee,retired,3-4/week,0,10.4,0.7,0,35,0,1.41,28.9,M
+28,62,88,158,102,110,1,40,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER+DIURETIC,2,Secondary School,housewife,retired,0,0,11.4,1.01,0,27,0,1.01,35.3,F
+30,51,61,150,89,105,,,0,0,0,0,,0,0,,0,0,0,0,0,0,OA,0,,0,primary school,housewife,unemployed,0,,13,1,0,20,1,0.92,27.1,F
+,54,70,156,98,110,1,7.5,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High School,Administrative Assistent,Full-time/part-time work,0,0,5.3,1.32,0,32,0,1.52,28.8,F
+30,47,70,155,95,106,1,10,0,0,0,0,,0,0,,0,0,0,,0,0,,0,,0,housewife,unemployed,Abstinence,0,,10.5,0.9,,16,1,0.97,29.14,F
+30,69,60,168,85,93,1,50,0,1,5,0,linagliptin,0,0,,0,0,0,0,0,,,0,,0,high school,pressman,working,0,0,9.7,1.04,0,37,0,1.12,21.3,M
+,50,65,148,98,102,0,0,0,1,6,1,"GLICLAZIDE, INSULIN",0,0,,0,0,0,0,0,,,1,CCB,6,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,11,0.84,0,20,0,0.88,29.7,F
+,60,76,174,93,97,1,40,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,secondary school,worker,Full-time/part-time work,1-2/week,0,8,1.5,0,43,0,1.91,25.1,M
+,51,81,160,99,119,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+CCB,2,Primary School,cleaning staff,full-time/part-time work,0,0,11.6,0.79,0,32,0,1.1,31.6,F
+,70,68,165,80,105,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,mitral yetmezlik,1,B BLOCKER+CCB,,High school,,,0,1,15.6,1.3,0,26,1,0.88,25,F
+30,60,101,174,121,113,1,25,0,0,0,0,,0,0,,0,0,0,0,0,,bph,1,ARB+DIURETIC,8,high school,worker,retired,0,0,8.5,1.23,0,37,0,1.39,33.4,M
+,59,78,148,100,102,0,0,0,0,0,0,,1,13,"Rosuvastatin, fenofibrate",0,0,1,0,0,,,1,ACE,13,illiterate,housewife,unemployed,0,0,9.1,0.8,0,24,0,0.89,35.6,F
+28,76,71,162,111,109,0,0,0,1,26,0,metformin,0,0,,0,0,0,0,0,0,,1,ACE+B BLOCKER+DIURETIC,23,primary school,housewife,unemployed,0,1,15.1,1.02,1,13,0,1.24,27.1,F
+27,78,75,168,100,108,1,30,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,10,primary school,driver,retired,0,0,8.9,0.62,1,24,1,1.03,26.6,M
+,60,82,155,107,117,1,10,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,illiterate,house wife,retired,1-2/week,0,10.8,1.18,0,25,0,1.08,34.1,F
+30,56,75,155,106,130,1,15,0,1,6,0,diaformin,0,0,,0,0,0,0,0,,,0,,0,Primary school,Caregiver,Working,0,0,7.8,1.36,0,24,0,1.27,31.2,F
+30,51,85,160,118,112,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,ARB+DIURETIC,2,secondary School,worker,full-time work,0,0,11.2,1.32,0,28,0,1.5,33.2,F
+,56,74,174,98,102,1,36,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,5,University,Physiotherapist,Full-time/part-time work,0,0,8.3,1.18,0,38,0,1.57,24.4,M
+20,71,78,152,100,119,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,kolon ca,1,ARB+B BLOCKER+DIURETIC,20,Illiterate,house wife,retired,0,1,13,0.43,1,17,0,1.2,33.8,F
+30,72,91,168,112,108,1,5,0,0,0,0,,1,0.33,atorvastatin,0,0,0,0,0,,,1,ACE+DIURETIC,10,primary school,worker,retired,3-4/week,0,11.7,0.72,1,31,1,1.31,32.2,M
+,55,80,170,101,102,1,6,0,0,0,0,,1,5,Rosuvastatin,1,5,0,0,0,,,1,ACE+CCB,2,University,Engineer,Full-time/part-time work,3-4/week,0,10.4,0.82,0,42,0,1.37,27.7,M
+29,74,52,154,89,98,0,0,0,0,0,0,,0,0,,1,11,0,0,0,,,1,B BLOCKER,11,primary school,Worker,retired,0,0,11.9,0.75,1,18,0,1.18,21.9,F
+,60,80,160,109,105,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+CCB,10,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,17.2,1.15,0,27,0,1.19,31.3,F
+,55,87,162,120,115,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,10,primary School,HOUSE WIFE,UNEMPLOYED,0,1,18.1,1.06,0,20,0,1.08,33.2,F
+26,60,78,157,99,105,0,0,0,1,15,0,Metformin,0,0,,1,6,,,,0,,0,,0,primary school,cleaner,Retired,1-2/week,,11,0.7,,30,0,1.13,31.6,F
+29,54,75,175,100,102,1,52,Regular,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High school,Official,Working,3-4/week,0,7.8,1.4,0,40,0,1.27,24.5,M
+,66,63,160,86,97,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,arnold chiari,0,,0,High School,,,0,0,10.8,1.5,0,20,0,1.11,24.6,F
+,61,75,160,105,116,0,0,0,1,5,0,metformin,0,0,,0,0,0,0,0,,,1,ACE,15,primary school,house wife,unemployed,0,1,14.5,0.74,1,15,1,0.95,29.3,F
+28,83,69,170,98,95,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,vertigo,1,,2,high school,soldier,retired,3-4/week,1,18.5,0.61,1,21,1,1.39,23.9,M
+19,57,82,156,95,110,0,0,0,1,4,0,metformin,0,0,,,,0,0,0,0,,0,,0,illiterate,retired,housewife,0,0,9.3,1.34,0,20,0,1.4,33.7,F
+,58,119,174,127,141,1,100,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,3,Primary School,Secretary,Retired,0,0,8.8,0.67,0,45,0,0.72,39.3,M
+,59,88,165,98,108,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,ARB+DIURETIC,2,secondary school,housewife,unemployed,0,0,10.9,0.97,0,29,0,1.05,32.3,F
+29,64,74,150,112,122,0,0,0,1,15,0,"Gliclazide,metformin,",1,10,atorvastatin,0,0,0,0,0,1,,1,ACE+B BLOCKER+DIURETIC,15,primary school,house wife,retired,0,1,12.1,0.86,0,21,1,0.97,32.9,F
+27,71,63,159,74,102,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,high school,nurse,,1-2/week,0,11,1.01,0,20,0,1.42,24.9,F
+,50,64,150,95,90,0,0,0,1,8,0,GLIMEPIRIDE+ metformin/sitagliptin,1,4,Atorvastatin,1,1,0,0,0,,MI ,1,ARB,4,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,25.9,1.14,0,20,0,1.25,28.4,F
+28,69,64,160,90,109,0,0,0,1,15,0,Metformin,0,0,,1,15,0,,0,1,,0,,0,illiterate,housewife,Retired,0,,10.2,0.61,,18,0,1.01,25,F
+28,62,75,168,94,101,1,30 (ex smoker),social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,secondary School,chef,,1-2/week,0,8.3,1.52,0,43,0,1.56,26.6,M
+28,51,75,165,93,112,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,0,,0,university,radiology technician,working,1-2/week,0,9.2,1.06,0,36,0,1.37,27.5,F
+,52,72,167,94,99,1,5,social,1,3,0,Metformin,0,0,,0,0,0,0,0,,,0,,0,University,Officer,Retired,3-4/week,0,8.1,1.08,0,60,0,1.92,25.8,M
+,52,62,159,96,94,0,0,0,0,0,0,,0,0,,0,0,0,1,0,,,0,,0,,,,,0,9,1.04,0,27,0,1.53,24.5,F
+,54,54,159,72,103,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,12,primary school,housewife,unemployed,0,1,12,1.14,0,22,0,1.12,21.4,F
+22,75,59,152,82,103,0,0,0,0,0,0,,1,10,rosuvastatin,1,2,0,0,0,1,,0,,0,illiterate,house wife,retired,0,1,13.5,0.85,0,22,0,,25.5,F
+25,65,85,155,121,107,0,0,0,1,13,0,"Metformin,gliklazıd",1,25,rosuvastatin,1,6,0,0,0,,dısc hernıa,1,ARB+B BLOCKER+CCB+DIURETIC,25,illiterate,housewife,retired,0,1,14.6,0.81,0,24,1,0.82,35.4,F
+,54,64,159,99,110,1,12,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Secondary School,Housewife,Unemployed,0,0,11,1.64,0,21,0,1.26,25.3,F
+,52,78,161,93,114,0,0,0,0,0,0,,0,0,,0,0,0,1,0,,,0,,0,,,,,0,9,1.34,0,22,0,1.14,30.1,F
+,49,62,160,80,104,0,0,0,0,0,0,,0,0,,0,0,0,1,0,0,RA,0,,0,high school,worker,working,0,0,11.2,1.18,0,20,0,1.21,24.2,F
+27,56,65,150,91,105,0,0,0,1,6,0,"vildagliptin, metformin",1,0.5,atorvastatin,0,0,0,,0,,,1,,4,primary school,worker,retired,3-4/week,,7.7,1.28,,25,0,1.31,28.89,F
+26,71,79,166,101,111,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE,3,high school,imam,retired,3-4/week,0,8.8,1.13,0,35,0,1.27,28.7,M
+24,82,72,170,95,100,0,0,0,1,15,0,,1,20,pitavastatin,1,20,0,0,0,,"parkinson,demans",1,ARB+CCB+DIURETIC,15,Secondary school,worker,retired,0,1,13.5,0.71,1,19,1,1.06,24.9,M
+28,59,61,155,82,99,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,primary school,housewife,Retired,1-2/week,0,7.3,1.15,0,25,0,0.91,25.4,F
+,72,90,155,111,128,0,0,0,1,20,0,Pioglitazon,0,0,,0,0,0,1,0,,,1,ARB+B BLOCKER+DIURETIC,10,Primary School,Draper,Retired,0,1,22,0.5,1,18,0,1.02,37.5,F
+25,55,75,160,90,110,0,0,0,0,0,0,,0,0,,,,0,,0,1,,1,ACE,10,illiterate,housewife,retired,0,,9.8,0.6,0,22,0,1.16,29.3,F 
+,62,74,172,97,98,1,7,0,0,0,0,,0,0,,1,1.5,0,0,0,,,0,,0,Secondary School,Digger operator,Retired,1-2/week,0,7.5,0.88,0,46,0,1.62,25,M
+,66,83,146,117,117,0,0,0,0,0,0,,0,0,,0,0,1,1,0,,,1,ACE,4,Secondary School,social worker,retired,3-4/week,0,9.6,0.72,0,21,0,0.85,38.9,F
+30,65,70,169,58,50,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,technician,retired,1-2/week,0,8.8,0.91,0,38,0,1.4,24.5,M
+,52,77,158,105,112,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Secondary School,worker,Full-time/part-time work,1-2/week,0,11,1.3,0,28,0,1.36,30.8,F
+30,73,82,163,92,114,1,50,0,0,0,0,,0,0,,0,0,0,0,0,,meme ca,1,ACE+B BLOCKER+DIURETIC,10,high school,civil servant,retired,0,0,11.9,0.69,0,24,0,1.06,30.9,F
+,50,89,168,89,117,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,high school,house wife,retired,1-2/week,1,13.1,1.1,0,30,0,1,31.5,F
+,60,60,156,78,108,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,B BLOCKER,7,high school,officer,retired,3-4/week,0,10,1.67,0,28,0,0.95,24.7,F
+29,62,92,171,109,114,1,50,0,1,6,0,"metformin, Gliclazide, sitagliptin",0,0,,0,0,0,0,0,,aritmi,0,,0,Secondary school,chef,working,3-4/week,0,10,1.08,0,43,0,1.13,31.5,M
+23,76,88,155,108,122,0,0,0,1,10,1,İnsülin aspart+aspart protamin,0,0,,0,0,1,1,0,,,1,ARB+DIURETIC,10,illiterate,housewife,retired,0,1,25,0.66,1,17,0,1.07,36.6,F
+28,81,81,152,89,100,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+B BLOCKER+DIURETIC,10,primary school,house wife,retired,0,0,9,0.69,1,15,0,1.75,25.1,F
+,53,73,173,89,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+CCB,4,university,goverment officer,full-time/part-time work,1-2/week,0,11.4,1.17,1,30,0,1.52,24.4,M
+26,57,75,157,100,112,1,2.5,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,high school,housewife,,1-2/week,1,11.9,0.98,0,27,0,0.98,30.4,F
+29,53,86,156,96,116,0,0,0,1,3,0,"piaglitazon,metformin",1,1,atorvastatin,0,0,1,0,0,,,1,ARB+DIURETIC,14,Secondary School,house wife,retired,0,1,13.8,1.17,0,31,0,1.2,35.3,F
+,45,86,152,116,124,0,0,0,0,0,0,,1,7,"Simvastatin, fenofibrate",0,0,0,0,0,,,1,ARB+DIURETIC,4,High school,housewife,unemployed,3-4/week,0,8.8,0.86,0,26,0,0.8,37.2,F
+30,78,79,173,108,103,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,officer,retired,1-2/week,0,8.2,1.05,1,28,0,1.66,26.4,M
+30,61,121,176,123,127,1,25,0,0,0,0,,0,0,,1,25,0,0,0,,,1,ARB+DIURETIC,25,high school,civil servant,retired,0,0,7,1,0,41,0,1.34,39.1,M
+28,73,55.9,151,,,0,0,0,0,0,0,,0,0,,0,0,0,,,0,,0,,0,illiterate,house wife,retired,3-4/week,,14,1.25,,14,0,1.08,24.52,F
+,47,100,170,102,104,0,0,0,1,2,0,"pioglitazon, metformin",0,0,,0,0,0,0,0,0,,1,CCB,1.5,high school,office worker,retired,3-4/week,1,12.1,1.03,0,46,1,1.09,34.6,M
+30,67,67.4,170,93,97,1,75,regular,0,0,0,,0,0,,0,0,0,,,0,aritmi,1,,2,high school,artisan,Retired,0,,12,1.1,,36,0,1.5,23.32,M
+25,71,85,176,110,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary School,Worker,retired,3-4/week,0,11.6,1.23,0,40,0,1.38,27.4,M
+30,65,78,163,86,109,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,migren ,0,,0,primary school,house wife,retired,0,0,8.5,1.03,0,27,0,1.16,29.4,F
+30,48,85,185,94,108,1,10,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,worker,working,1-2/week,1,12.4,0.96,0,44,0,1.73,24.8,M
+,56,95,165,130,90,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER+CCB,2,primary school,housewife,unemployed,0,0,10.4,0.97,0,24,0,1.05,34.9,F
+29,57,65,165,107,87,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,primary school,house wife,retired,0,0,10.2,0.89,0,24,0,1.51,23.9,F
+27,50,84,158,108,122,0,0,0,1,1,0,empagliflozin,1,2,atorvastatin,0,0,0,0,0,,,1,ACE+DIURETIC,4,primary school,house wife,retired,3-4/week,0,9.5,0.99,0,26,0,1.1,33.7,F
+,53,72,160,96,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,,,,,0,8.1,0.94,0,22,0,1.65,28.1,F
+,45,49,154,82,91,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,0.02,Illiterate,Car cleaner,Full-time/part-time work,3-4/week,0,6.5,0.79,0,33,0,1.06,20.7,M
+29,54,107,155,123,128,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,ARB+DIURETIC,9,primary school,house wife,unemployed,0,1,13.1,0.7,0,32,1,0.62,44.5,F
+26,68,81,155,105,118,0,0,0,0,0,0,,1,20,rosuvastatin,0,0,1,1,0,,,1,ACE,2,illiterate,housewife,retired,3-4/week,0,8.1,1.15,0,29,0,1.56,33.7,F
+,65,74,150,98,101,1,1,0,0,0,0,,0,0,,0,,0,0,0,1,RA,1,,,university,bankacı,retired,0,0,11,0.99,0,26,0,1.08,32.9,F 
+,58,74,153,101,107,0,0,social,0,0,0,,0,0,,0,0,0,1,0,,,1,DIURETIC,5,High School,Domestic,Unemployed,0,0,9.6,1.1,0,19,0,1.22,31.6,F
+26,50,110,162,110,125,1,60,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,nurse,working,0,0,10,1.51,0,34,0,1.07,41.9,F
+27,64,67,145,88,112,1,15,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,8,high school,worker,retired,0,0,9.5,0.71,0,20,0,1.35,31.9,F
+20,71,76,153,111,124,0,0,0,1,0.1,0,metformin,1,20,,0,0,0,0,0,,,1,ARB+DIURETIC,20,illiterate,house wife,retired,0,,14.1,0.58,,16,0,1.23,32.5,F 
+30,55,73,158,99,107,0,0,0,1,0.25,0,Piagliktazon,0,0,,0,0,0,0,0,,,1,ARB+CCB+DIURETIC,12,university,Housewife,retired,3-4/week,0,11.3,1.25,0,27,0,1.48,29.2,F
+,46,63,150,86,100,1,10,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,Housewife,Unemployed,0,0,11.2,1.43,0,22,0,1.79,28,F
+,61,98,174,106,129,1,34,social,0,0,0,,0,0,,0,0,1,0,0,,,0,,0,High School,Hospital operational assistant,Full-time/part-time work,1-2/week,0,9.8,1.31,0,35,0,1.22,32.4,F
+28,67,63,150,101,101,0,0,0,1,8,0,sitagliptin ,0,0,,1,11,0,0,0,1,,1,B BLOCKER,8,illiterate,housewife,unemployed,0,0,12,0.88,1,15,1,0.9,28,F
+27,70,79,159,99,117,1,20,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,ARB+B BLOCKER,20,Secondary School,Housewife,retired,0,1,12.6,0.88,0,25,0,1.1,31.2,F
+29,60,64,155,82,98,0,0,0,0,0,0,,0,0,,0,0,0,1,0,1,Astım,0,,0,high school,ev hanımı,retired,0,,10.9,1.83,,31,0,1.1,26.64,F
+30,66,76,164,95,108,0,0,0,1,6,0,metformin,0,0,,0,0,0,0,0,,,1,ACE+CCB,6,high school,police,retired,0,0,9.5,1.13,0,29,0,1.1,28.3,F
+30,73,103,180,119,130,0,0,0,1,20,0,"Sitagliptin, Metformin",,,Atorvastatin,0,0,0,,,0,BPH,1,,20,high school,marketeer,retired,3-4/week,,10,1.61,,20,0,1.82,31.79,M
+26,66,61,157,95,91,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,worker,retired,0,0,8.9,1.04,0,38,0,1.78,24.8,M
+,45,88,163,98,107,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,nurse,full-time work,3-4/week,0,10.3,1.44,0,42,0,1.56,33.1,F
+30,50,66,165,82,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,Skolyoz(3yıl),0,,0,University,işletme,retired,1-2/week,,9.4,0.97,0,30,0,1.23,24,F
+30,57,85,178,103,101,1,10,0,1,5,0,"vildagliptin,metformin",1,3,rosuvastatin,0,0,0,0,0,,bph,1,ARB,1,primary school,worker,retired,3-4/week,0,7.7,1.23,0,34,0,1.21,26.8,M
+28,73,73,155,102,118,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,5,university,teacher,retired,3-4/week,0,10,0.88,0,28,0,1.15,30.4,F 
+,51,79,165,105,103,1,12,0,1,15,0,"Metformin, Gliclazide, dapagliflozin, sitagliptin",0,0,,0,0,0,0,0,,,1,ARB,4,University,Doctor,Full-time/part-time work,3-4/week,0,5.8,0.78,0,40,0,0.85,29,M
+29,51,83,160,100,120,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,secondary school,housewife,Not working,0,,8.6,1.06,0,29,0,1.3,32.4,F
+,58,75,165,102,109,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,7,High School,Nurse,retired,1-2/week,0,9,1,0,29,0,1.27,27.6,F
+,59,77,159,104,104,1,60,0,0,0,0,,1,5,Simvastatin,1,4,0,0,0,,,1,ARB+CCB+DIURETIC,7,Secondary School,Soldier,Retired,3-4/week,0,6.2,0.75,0,42,0,1.21,30.5,M
+,67,90,180,98,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High School,,,0,0,10.4,1.93,0,38,0,1.42,27.8,M
+,57,64,150,89,102,1,10,0,0,0,0,,0,0,,0,,1,0,0,1,,1,ARB,,university,öğretmen,part-time work,0,0,11.1,1.27,0,20,0,1.49,28.4,F 
+29,62,77,150,96,114,0,0,0,0,0,0,,0,0,,0,0,0,,,0,,1,,20,Secondary School,house wife,retired,0,,8,0.77,,23,0,1.2,34.22,F
+21,67,86,154,113,134,0,0,0,1,1,0,piogiltazon,1,1,rosuvastatin,0,0,0,0,0,,,1,ARB+DIURETIC,1,Illiterate,house wife,retired,0,0,11.3,0.72,0,22,0,1.15,36.3,F
+28,60,78,155,90,120,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,primary school,housewife,Retired,1-2/week,0,5.9,0.56,0,19,0,1.06,32.5,F
+,45,54,144,84,90,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High School,Secretary,full-time work,0,0,5.6,1.17,0,22,0,1.35,26,F
+,76,83,178,100,106,0,0,0,1,34,0,Gliclazide,1,34,Atorvastatin,0,0,0,0,0,,,1,ACE+B BLOCKER,34,Secondary School,,Retired,0,1,18.4,1.14,1,28,1,1.15,26.2,M
+28,61,86,173,101,110,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+CCB,5,primary school,worker,retired,0,0,11,1.13,0,36,0,1.61,28.7,M
+30,61,84,149,120,107,0,0,0,1,10,0,Metformin,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,6,primary school,housewife,retired,0,0,12,1.05,1,16,1,0.81,37.8,F
+27,55,93,164,110,125,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,OA,1,ARB,9,primary school,worker,working,0,0,9.5,0.94,0,25,0,1.41,34.6,F
+29,64,66,149,93,104,0,0,0,1,5,0,metformin,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,10,University,Teacher,retired,3-4/week,0,7.4,0.92,0,22,0,1.22,29.7,F
+28,55,66,153,101,94,0,0,0,1,10,0,metformin,0,0,,0,0,1,0,0,,,1,ACE+DIURETIC,2,primary school,house wife,retired,3-4/week,0,7.6,0.64,0,20,0,1.11,28.2,F
+,59,71,164,93,96,1,7,0,1,2,0,"Metformin, Gliclazide",0,0,,0,0,0,1,0,,,1,ACE+DIURETIC,4,Secondary School,national guard officer,retired,3-4/week,0,5.6,0.82,0,42,0,1.64,26.4,M
+,50,71,151,104,96,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,,,,,0,8.2,1.2,1,14,0,1.49,31.1,F
+,70,68,162,95,90,1,20,0,0,0,0,,0,0,,1,18,0,0,0,,,1,ARB+B BLOCKER,18,High School,project manager in transportation,Retired,0,0,4.7,1.44,0,48,0,1.36,25.9,M
+29,67,75,160,90,110,0,0,0,1,10,1,insulin,0,0,,0,0,0,0,0,1,,1,,15,primary school,housewife,Retired,1-2/week,1,12.3,0.95,0,20,1,0.86,29.1,F
+,53,75,165,105,106,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+CCB,5,Secondary School,secretary,retired,0,0,9.7,1,0,29,0,1.3,27.6,F
+,68,64,165,91,99,1,23,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary School,,,0,0,7.6,1.22,1,28,0,1.94,23.5,M
+29,61,75,173,96,105,0,0,0,1,14,0,"sitagliptin, metformin, pioglitazon, nateglinid",0,0,,0,0,0,0,0,,,0,,0,Secondary School,postman,retired,0,0,7.3,1,0,33,0,1.84,25.1,M
+,50,89,163,103,114,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary School,Housewife,Unemployed,0,0,11.2,1.35,0,28,0,1.14,33.5,F
+29,71,84,152,113,117,0,0,0,1,20,1,"metformin,insulin detemir,liraglutid",1,25,rosuvastatin,1,22,0,1,0,,,1,ARB+CCB+DIURETIC,20,illiterate,housewife,retired,3-4/week,0,7.9,1.05,0,20,0,1.02,36.4,F
+25,62,63,160,84,100,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,0,,0,primary school,house wife,retired,3-4/week,0,11.8,1.07,0,22,0,1.5,24.6,F
+28,72,80.2,173,99,104,0,0,0,0,0,0,,0,0,,0,0,,,,0,,1,ARB+CCB,20,University,engineer,Retired,1-2/week,,7,0.66,,37,0,1.55,26.8,M
+,52,103,187,105,113,0,0,regular,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+CCB,10,High school,machine mechanic,full-time work,0,0,8.8,0.58,0,52,0,1.23,29.5,M
+30,64,67,150,85,104,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,ACE,2,illiterate,housewife,unemployed,0,0,11.5,1.17,0,27,0,1,29.8,F
+28,46,64,158,85,107,1,7,0,0,0,0,,0,0,,0,0,0,,,0,,0,,0,university,nurse,working,0,,7.7,1.55,,32,0,1.31,25.64,F
+30,60,50,150,80,90,1,5,0,0,0,0,,0,0,,0,0,0,,0,1,,0,,0,secondary School,retired,housewife,0,,8.4,0.92,0,25,0,1.17,22.2,F
+30,60,54,145,86,106,1,20,0,1,0.1,0,Metformin,1,6,atorvastatin,0,0,0,0,0,,"meme ca, remmission",1,B BLOCKER,6,University,Teacher,retired,0,1,12.1,0.98,0,22,0,1.68,25.7,F
+30,50,78,172,86,112,0,0,0,0,0,0,,0,0,,0,0,,,,0,,0,,0,university,retired,retired,0,,12.9,0.63,,14,1,0.96,26.4,F
+26,69,81,147,105,128,0,0,0,1,32,1,"vildagliptin+metformin,insulin aspart+insulin degludec",1,32,atorvastatin,0,0,0,0,0,,,1,ARB+CCB,32,primary school,housewife,retired,1-2/week,1,14.1,0.77,1,18,1,0.94,37.5,F
+,55,65,160,79,98,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,depression,0,,0,high school,house wife,retired,0,1,12.5,1.25,0,26,0,1.4,25.4,F
+30,66,66,150,85,95,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,,0.1,high school,housewife,Retired,1-2/week,1,17.3,0.72,1,9,0,1.28,29.3,F
+,59,68,158,102,103,0,0,0,1,,0,,1,10,Simvastatin,0,0,0,0,0,,Diabetic neuropathy,1,ACE+DIURETIC,4,Primary School,maid,Full-time/part-time work,0,0,10.3,0.8,0,30,0,1.26,27.2,F
+,64,58,163,97,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,2,university,ADVOCATE,RETIRED,3-4/week,0,11.3,0.83,1,25,0,1.6,21.8,M
+28,74,70,159,95,110,0,0,0,0,0,0,,0,0,,0,0,,,0,1,,0,,0,high school,ebe,retired,0,,19.4,0.69,,21,0,1.04,27.7,F
+30,70,73,161,94,110,0,0,0,0,0,0,,1,,atorvastatin,0,0,0,0,0,1,,1,ACE+B BLOCKER+DIURETIC,2,primary school,housewife,,0,1,11.9,1.2,0,27,0,0.78,28.2,F
+30,45,74,155,100,113,0,0,0,0,0,0,,0,0,,0,0,1,,0,0,,1,,0.25,housewife,unemployed,Abstinence,0,,14.2,1.11,,24,0,1.09,30.8,F
+30,59,57,149,81,96,1,15,0,1,7,0,"Gliclazide, metformin, linagliptin",1,7,fenofibrate,0,0,0,,,0,,1,,7,high school,farmer,retired,0,,13.2,0.75,,27,0,1.05,25.67,F
+28,67,65,156,100,103,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,CCB,2,university,housewife,Not working,3-4/week,,7.3,0.98,0,22,0,1.18,26.7,F 
+22,76,82,144,111,125,0,0,0,0,0,0,,1,6,atorvastatin,0,0,0,0,0,,,1,ACE+DIURETIC,6,illiterate,house wife,retired,0,,12.5,0.63,,15,1,0.77,39.5,F 
+26,65,91,162,98,122,0,0,0,1,20,0,"metformin,empagliflozin,",0,0,,0,0,1,0,0,,,1,B BLOCKER,20,primary school,house wife,retired,0,1,13.5,0.55,0,24,0,1.3,34.7,F
+30,69,63,151,89,100,0,0,0,1,15,1,"empagliflozin,insulin glarjin",1,15,pitavastatin,0,0,1,0,0,,,1,ACE,15,primary school,housewife,retired,1-2/week,0,10.1,0.78,0,20,0,1.24,27.6,F
+28,57,78,163,99,106,1,5,0,0,0,0,,0,0,,0,0,0,0,0,,Vertigo,0,,0,primary school,Housewife,retired,1-2/week,1,12,1.22,0,26,0,1.33,29.3,F
+28,66,72,157,120,118,0,0,0,0,0,0,,0,0,,1,6,1,1,0,,parkinson,1,DIURETIC,12,Secondary School,housewife,retired,0,0,11.4,0.61,0,19,0,1.21,29.2,F
+30,51,92,169,104,110,1,15,Social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+CCB,8,high school,soldier,retired,0,0,7.7,1.05,0,38,0,1.54,32.2,M
+28,46,92,173,107,111,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER,6,university,doctor,full-time work,1-2/week,0,11.4,1.29,0,65,0,1.5,30.7,M
+,55,70,150,110,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+CCB,15,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,19.3,0.95,0,20,0,1.03,31.1,F
+,60,75,160,100,105,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,5,Illiterate,Housewife,Unemployed,3-4/week,0,10,1.05,0,32,0,1.37,29.3,F
+29,51,78,155,100,114,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE,5,primary school,house wife,retired,0,0,10.9,1.02,0,21,0,1.48,32.5,F
+27,45,77,165,104,117,0,0,0,0,0,0,,0,0,,0,0,0,1,0,,,0,,0,primary school,worker,working,0,1,12.5,0.98,0,27,0,1.35,28.3,F
+27,55,64,155,97,101,0,0,0,1,8,0,,0,0,,0,0,0,0,0,0,,0,,0,primary school,housewife,Retired,0,0,8.2,1.33,0,25,0,0.96,26.6,F
+,77,85,158,117,122,1,5,0,0,0,0,,0,0,,1,5,0,0,0,,,1,ARB,13,primary school,house wife,unemployed,0,1,16.1,0.59,1,14,1,0.84,34.1,F
+28,63,86,152,113,125,1,20,0,1,6,0,Vildagliptin/Metformin,0,0,,0,0,0,0,0,,,1,DIURETIC,20,Primary School,Housewife,retired,0,0,9.7,1,0,19,0,1.08,37.4,F
+,68,84,165,95,115,1,12,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,1,Primary School,Housewife,Unemployed,0,1,15.7,1.21,0,34,0,1.57,30.9,F
+,66,55,155,91,98,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,5,Primary school,Housewife,Unemployed,0,1,18,1.2,1,12,1,0.9,22.9,F
+30,48,60,159,78,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,Psoriasis,0,,0,High school,None,Not working,0,0,8.9,1.16,0,27,0,1.59,23.7,F
+,61,80,160,101,110,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Illiterate,Housewife,Unemployed,0,0,11.2,1.25,0,28,0,0.88,31.3,F
+28,63,70,155,102,125,0,0,0,0,0,0,,0,0,,,,1,0,0,0,,0,,0,Primary School,retired,housewife,1-2/week,1,14,0.94,0,19,0,1.11,29.1,F
+30,52,96,175,108,118,1,12,0,1,12,1,"metformin+sitagliptin,empagliflozin, insulin aspart+insulin degludeg",0,0,,1,40,0,0,1,,,1,ARB+B BLOCKER+DIURETIC,12,high school,officer,retired,0,0,8.7,1.22,0,50,0,1.48,31.4,M
+24,55,89,155,95,117,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER+DIURETIC,10,primary school,house wife,retired,0,0,8.4,0.73,0,20,0,1.26,37,F
+30,80,65,161,93,99,0,0,0,1,15,1,"insulin aspart,dapagliflozin,metformin,vildagliptin",1,1,atorvastatin,1,15,0,0,0,,,1,B BLOCKER,,primary school,worker,retired,3-4/week,0,11,0.74,1,17,1,1.1,25.1,M
+29,66,80,156,101,116,0,0,0,1,10,0,"Metformin, Gliclazide",1,6,atorvastatin,0,0,0,0,0,,,1,ACE+CCB+DIURETIC,10,illiterate,housewife,Retired,0,1,13.7,1.07,0,24,1,0.88,32.9,F
+27,63,64,152,88,104,1,10,0,0,0,0,,0,0,,0,0,0,0,0,,"pte,kronik bronşit",0,,0,high school,worker,retired,0,0,9.7,0.67,0,24,0,1.52,27.7,F
+,67,92,164,111,112,1,60,0,0,0,0,,1,9,Simvastatin,1,9,0,0,0,,,1,ACE,15,university,flight engineer,retired,0,0,8.6,0.72,0,44,0,0.85,34.2,M
+,65,75,160,98,108,0,0,0,1,3,0,metformin,0,0,,0,0,0,0,0,0,,1,ARB+DIURETIC,3,illiterate,housewife,unemployed,1-2/week,1,12.1,1,0,24,0,1.03,29.3,F
+28,71,57,154,97,103,1,10,0,1,10,0,metformin ,0,0,,1,5,0,0,0,,RA,1,ACE+DIURETIC,40,primary school,housewife,retired,0,1,15.2,0.7,1,12,1,0.81,24,F
+,64,70,170,96,106,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,venöz yetmezlik,0,,0,University,Republic attorney,Full-time/part-time work,0,0,5.5,1.19,0,31,0,1.39,24.2,F
+,51,60,163,72,102,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,housewife,unemployed,0,0,6.2,1.38,0,28,0,1.1,22.6,F
+27,59,67,163,93,99,1,20,0,1,20,0,,0,0,,0,0,0,0,0,,,1,,20,primary school,worker,working,3-4/week,0,7.5,0.72,1,28,1,1.26,25.2,M
+28,50,78,163,91,112,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,1,primary school,house wife,retired,0,0,7.8,1.09,0,23,0,1.21,29.4,F
+27,73,89,176,99,112,0,0,0,1,6,0,"metformin,sitagliptin",0,0,,0,0,0,0,0,,,1,ACE+CCB+DIURETIC,5,Secondary School,worker,retired,0,0,10.2,0.9,0,34,0,1.62,28.7,M
+24,52,65,174,85,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,secondary school,Soldier,retired,0,0,8.5,1.6,0,37,0,1.76,21.5,M
+,53,60,149,84,104,0,0,0,0,0,0,,1,8,Simvastatin,0,0,0,0,0,,,1,ACE,1,Primary School,Housewife,Full-time/part-time work,0,0,8.6,0.75,0,26,0,1.09,27,F
+28,77,60,148,94,97,0,0,0,1,27,1,"insulin glargine,metformin",1,20,pitavastatin,0,0,0,0,0,,,1,CCB,20,primary school,house wife,retired,0,0,10.3,0.49,1,16,0,1.04,27.4,F
+27,70,101,161,124,123,0,0,social,1,4,0,"metformin, Gliclazide",1,2,,0,0,0,0,0,,,1,ARB+DIURETIC,35,high school,civil servant,retired,0,1,13.4,0.9,1,27,1,0.91,39,M
+30,79,54.5,174,80,87,1,62,social,0,0,0,,0,0,,0,0,,,1,0,,1,ARB,8,University,gazeteci,retired,0,,12.3,0.62,,26,1,1.01,18,M
+29,72,77,147,102,117,0,0,0,0,0,0,,1,3,rosuvastatin,1,6,0,1,0,,"tyroid ca, KBH",1,ARB,20,primary school,housewife,retired,0,0,12,0.9,1,18,1,0.49,35.6,F
+29,67,100,167,119,120,0,0,0,0,0,0,,0,0,,0,0,,,,0,,1,ARB+ALFA BLOCKER,15,University,soldier,Retired,3-4/week,,14.3,0.66,,34,1,1.11,35.9,M
+,69,70,150,80,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER,4,illiterate,housewife,unemployed,0,0,11.9,0.97,0,19,0,1.27,31.1,F
+28,73,75,155,112,120,0,0,0,0,0,0,,0,0,,,,0,0,0,1,,1,,6,illiterate,,housewife,0,1,15,0.72,0,25,0,1.28,31.2,F
+29,64,96,149,108,126,0,0,0,1,7,0,metformin,0,0,,0,0,0,,,0,,1,,7,primary school,house wife,retired,0,,10.7,0.71,,22,0,0.75,43.24,F
+,60,88,157,110,114,0,0,social,1,10,0,Cloridrate Metformine + Liraglutide + Pioglitazone,0,0,,0,0,0,0,0,,FMS,1,ARB+CCB+DIURETIC+ALDOSTERON,10,High School,Hospital operational assistant,Full-time/part-time work,3-4/week,0,9.7,1.22,0,20,0,0.95,35.7,F
+,70,90,160,112,125,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,CCB,8,primary School,housewife,unemployed,1-2/week,1,15.8,1.01,0,19,1,0.88,35.2,F
+27,79,75,161,103,105,1,70,0,0,0,0,,0,0,,1,6,0,1,1,,,1,ARB+DIURETIC,20,primary school,butcher,retired,0,0,9.9,1.08,1,22,1,1.1,28.9,M
+,55,69,155,92,96,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,high school,ev hanımı,retired,0,0,10,1.3,0,22,0,1.24,28.7,F
+29,70,68,160,88,113,0,0,0,1,9,0,"metformin, vildagliptin, glimepirid",1,9,atorvastatin,0,0,0,0,0,,,1,ARB+B BLOCKER+DIURETIC,12,high school,officer,retired,3-4/week,0,9.7,0.99,0,20,0,1.2,26.6,F
+,52,68,161,93,95,0,0,0,1,0.5,0,Metformin,0,0,,0,0,0,0,0,,,1,ACE,20,primary School,maid,full-time/part-time work,0,0,8.5,0.89,0,26,0,0.73,26.2,F
+30,53,69.5,149,92,98,0,0,0,0,0,0,,0,0,,0,0,0,,,0,,1,,9,primary school,chef,working,0,,11.2,0.77,,19,0,1.46,31.3,F
+30,59,65,165,83,101,0,0,0,1,15,0,Gliclazide,0,0,,0,0,1,0,0,,Depression,1,ACE+CCB,10,primary school,housewife,retired,3-4/week,0,9.5,1.18,0,24,0,1.23,23.9,F
+28,59,79,150,102,117,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,0.1,primary school,house wife,retired,0,0,5.9,1.04,0,26,0,1.38,35.1,F
+,70,65,155,103,109,0,0,0,0,0,0,,1,6,Atorvastatin,0,0,0,0,0,,,1,ARB+DIURETIC,10,University,teacher,full-time work,0,0,11,0.86,0,25,0,1.25,27.1,F
+29,61,70,181,90,102,1,80,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,farmer,retired,0,0,6.7,0.98,1,30,0,1.55,21.4,M
+,50,95,175,119,116,1,10,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,1,Primary School,Worker,Full-time/part-time work,0,1,11.9,1.51,0,52,0,1.31,31,M
+30,52,70,157,105,110,1,8,0,0,0,0,,0,0,,0,0,,,,0,Migren,0,,0,primary school,garson,part-time work,0,,9.7,1.29,,34,0,0.98,28.4,F 
+29,63,102,153,114,135,0,0,0,1,10,0,"sitagliptin,metformin,acarbose",1,5,atorvastatin,0,0,0,0,0,,,1,ACE+B BLOCKER+DIURETIC,10,Secondary School,house wife,retired,0,0,9.7,0.82,0,24,0,0.87,43.6,F
+27,64,72,158,92,116,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE,10,primary school,house wife,retired,0,0,9.5,0.87,0,21,0,1.3,28.8,F
+29,53,91,150,113,127,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB,14,primary school,housewife,,0,,19.6,1.11,0,25,0,1.01,40.4,F
+30,62,82,162,104,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,B BLOCKER,15,primary school,house wife,unemployed,0,1,14.1,1.05,0,28,0,1.31,31.3,F
+30,52,67,155,80,100,0,0,0,0,0,0,,0,0,,,,0,,0,1,,0,,0,high school,retired,housewife,0,,7.4,1.35,,25,0,1.05,27.9,F 
+26,75,89,155,107,120,0,0,0,0,0,0,,1,10,atorvastatin,0,0,0,0,0,0,"Chronic venous insufficiency, heart failure",1,ARB+B BLOCKER,10,primary school,house wife,retired,3-4/week,1,12.9,0.94,0,22,1,0.93,37,F 
+26,61,87,153,110,121,0,0,0,0,0,0,,0,0,,0,0,0,1,0,,,0,,0,illiterate,housewife,retired,0,0,10.7,1.16,0,25,0,1.3,37.2,F
+22,71,67,156,101,116,0,0,0,1,20,0,metformin,1,10,atorvastatin,0,0,0,0,0,,,1,ACE+CCB,20,Illiterate,house wife,retired,0,0,11,0.74,1,17,0,1.19,27.5,F
+,55,60,163,76,94,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,doctor,full-time work,1-2/week,0,6.5,1.32,0,28,0,1.34,22.6,F
+27,67,65,167,90,103,1,16,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,officer,retired,3-4/week,0,9.6,0.81,1,28,0,1.46,23.3,M
+28,67,66,150,90,99,0,0,0,1,10,1,"insulin glarjin, insulin aspart, metformin, dapagliflozin",1,5,,0,0,1,,,0,,1,,15,high school,civil servant,retired,0,,9.7,0.69,,20,0,1.04,29.33,F
+27,54,63,151,95,99,0,0,0,1,20,1,"metformin,akarboz,sitagliptin,insulin glarjin",1,0.25,atorvastatin,0,0,0,0,0,,,1,ARB+DIURETIC,4,primary school,house wife,retired,0,0,10.5,0.82,1,16,0,1.43,27.6,F
+29,65,69,150,105,110,0,0,0,0,0,0,,0,0,,,,0,,0,1,,1,ARB,10,Primary school,housewife,retired,0,,14.6,0.53,0,20,0,1.01,30.6,F 
+30,76,52,142,89,94,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,illiterate,housewife,unemployed,3-4/week,0,10,1.13,0,20,0,1.53,25.8,F
+22,69,74,160,90,111,1,30,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,10,Illiterate,house wife,retired,0,0,10.9,0.95,1,18,0,1.24,28.9,F
+30,50,70.5,157,100,112,1,12,0,0,0,0,,0,0,,0,0,1,,,0,,0,,0,University,officer,Working,3-4/week,,13.1,0.61,,25,0,1.18,28.6,F
+30,54,57,160,80,100,1,25,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,primary school,housewife,Retired,1-2/week,0,6.6,1.33,0,23,0,1.49,22.3,F
+28,65,91,145,,,0,0,0,0,0,0,,0,0,,0,0,0,,,0,,0,,0,primary school,cook,Working,0,,11.3,0.96,,24,0,0.79,43.28,F
+29,57,90,178,103,104.5,0,0,0,0,0,0,,1,0.7,,1,0.6,0,,,0,,0,,0,high school,İşçi,retired,3-4/week,,1.1,1.29,,50,0,1.56,28.41,M
+27,64,80,172,94,102,1,20,0,1,25,1,"insulin lispro,ınsulın glarjın",1,4,atorvastatin,1,3,0,0,0,,,1,ARB+CCB,4,high school,tradesman,retired,0,0,10.4,1.03,1,29,0,1.67,27,M
+27,70,64,147,98,113,0,0,0,0,0,0,,1,5,rosuvastatin,0,0,0,1,0,,,1,ACE+DIURETIC,3,primary school,house wife,retired,0,0,10.8,0.69,0,28,0,1.53,29.6,F
+30,52,83,173,95,105,1,4,0,0,0,0,,0,0,,0,0,0,0,0,,huzursuz bacak sendromu,1,ARB+DIURETIC,10,high school,concierge,working,0,0,9.2,0.98,0,45,0,1.76,27.7,M
+28,82,77,145,115,127,0,0,0,0,0,0,,0,0,,1,5,0,0,0,,,1,ACE,20,primary school,house wife,retired,0,0,7.6,0.67,1,16,1,0.81,36.6,F
+30,63,79,171,100,101,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,15,Secondary School,tradesman,working,3-4/week,0,9.2,1.3,0,39,0,1.68,27,M
+,54,78,178,102,104,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,accountant,Full-time/part-time work,3-4/week,0,8.9,0.9,0,47,0,1.95,24.6,M
+,45,132,152,132,150,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,2,University,Lab technician,Full-time/part-time work,0,0,11.3,0.63,0,26,0,0.7,57.1,F
+26,80,85,160,113,105,1,50,0,0,0,0,,0,0,,1,15,0,0,1,,"parkinson,kalp yetmezliği,anksiete boz",1,ACE,15,primary school,construction worker,retired,0,1,14.2,0.5,1,23,1,1.13,33.2,M
+27,69,69,160,103,119,0,0,0,0,0,0,,0,0,,0,0,1,,0,,,0,,0,primary school,ev hanımı,retired,0,,21,1.14,,21,0,1.15,26.95,F
+,65,76,156,118,120,0,0,0,0,0,0,,1,8,Fenofibrate,0,0,1,0,0,,sickle cell anemia,1,ARB+CCB+DIURETIC,9,illiterate,housewife,unemployed,0,0,8.6,0.63,0,28,0,1.06,31.2,F
+,62,110,183,116,108,1,156,0,1,10,0,Metformin,0,0,,0,0,0,0,0,,Morbus Crohn,1,ACE+CCB+DIURETIC,30,University,Hihg school teacher,Full-time/part-time work,0,0,10.4,1.21,0,60,0,1.4,32.9,M
+27,70,78,164,103,105,0,0,0,0,0,0,,1,10,atorvastatin,0,0,0,,,0,,1,,10,primary school,repairman,retired,3-4/week,,9.9,0.7,,42,0,1.1,29,M
+25,71,58,148,95,108,0,0,0,0,0,0,,1,15,rosuvastatin,0,0,0,0,0,,,1,ACE+CCB+DIURETIC,15,primary school,house wife,retired,0,1,19.5,0.36,1,15,1,1,26.5,F
+,63,70,160,93,110,0,0,0,0,0,0,,0,0,,0,,0,0,0,0,,1,ARB+CCB+DIURETIC,,Secondary School,işçi,retired,3-4/week,0,9.5,1.46,0,25,0,1.1,27.3,F 
+,50,68,160,98,108,0,0,0,1,2,0,Metformin ,0,0,,0,0,0,0,0,1,,1,B BLOCKER,2,Secondary School,housewife,unemployed,0,0,9.3,0.76,0,28,0,1.36,26.6,F
+,48,85,150,117,128,0,0,0,1,16,1,insulin,0,0,,0,0,0,0,0,,,1,ARB,1,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,19.8,1.57,0,22,0,1.1,37.8,F
+27,56,56,162,117,118,1,20,0,1,0.5,0,"sitagliptin,metformin",1,0.5,pitavastatin,0,0,0,0,0,,,1,ACE+CCB,1,primary school,driver,working,0,0,10.9,0.67,0,36,0,1.15,35.1,M
+29,65,55,150,99,105,0,0,0,0,0,0,,0,0,,0,0,1,0,0,1,,1,,1,primary school,housewife,Retired,3-4/week,0,10,1.28,0,23,0,1.492,24.4,F
+,54,80,153,115,110,0,0,0,1,18,0,"Sitagliptin, metformin",1,15,,0,0,0,0,0,,,1,ARB+CCB,10,secondary school,HOUSE WIFE,UNEMPLOYED,1-2/week,1,14.2,0.85,0,22,0,1.12,34.4,F
+28,62,98,168,115,109,0,0,0,1,25,1,"insulin lispro, insulın levemir, metformin",0,0,,0,0,0,0,0,,,0,,0,primary school,driver,retired,0,1,13.4,0.71,0,37,0,1.66,34.7,M
+26,64,73,162,94,191,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,ARB+DIURETIC,10,secondary School,Driver,Not working,3-4/week,,12,1.07,0,39,1,1.18,27.8,M
+30,47,70,165,83,115,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,high school,officer,working,0,0,8.8,1.14,0,26,0,1.56,25.7,F
+30,47,61,153,90,99,0,0,0,0,0,0,,0,0,,0,0,0,,0,0,,1,,0,worker ,unemployed,Abstinence,0,,12.9,1.07,,20,0,1.33,26.06,F
+30,66,72,165,101,110,0,0,0,0,0,0,,0,0,,1,25,0,0,0,0,gut,1,ACE,20,high school,retired,unemployed,3-4/week,,8.7,1.1,0,42,0,1.08,26.4,M
+30,52,85,162,95,111,0,0,0,0,0,0,,0,0,,0,0,0,,,0,migren,1,,10,Secondary School,house wife,retired,3-4/week,,10.2,0.8,,27,0,1.28,32.39,F
+26,77,77,165,96,106,1,50,0,1,10,0,"dapagliflozin,Gliclazide,linogliptin,akarboz",1,12,atorvastatin,1,10,1,0,0,,vertebral yetmezlik,0,,0,primary school,worker,retired,3-4/week,1,50,0.55,0,36,0,1.49,28.3,M
+,52,78,159,100,110,0,0,0,1,5,0,"SITAGLIPTIN, METFORMIN",1,2,,0,0,0,0,0,,,1,B BLOCKER,5,university,HOUSE WIFE,UNEMPLOYED,0,1,13.6,0.78,0,20,1,1,30.9,F
+,67,65,160,80,96,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High School,,,0,1,13.9,1.09,1,13,0,1.18,25.4,F
+,57,95,166,110,123,1,2,0,0,0,0,,1,2,atorvastatin,0,0,0,0,0,,BPH,1,ACE,1,primary school,worker,full-time/part-time work,0,1,13.7,0.83,0,34,1,1.16,34.5,M
+,68,75,159,103,117,0,0,0,1,,,,0,0,,0,0,0,1,0,,,1,CCB,,High school,,,0,1,22,0.81,1,9,0,1.27,29.7,F
+29,51,108,155,130,136,0,0,0,1,3,0,metformin,0,0,,0,0,0,0,0,,,1,ARB+CCB+DIURETIC,5,primary school,house wife,retired,3-4/week,0,11,0.76,0,22,0,1.22,45,F
+29,60,85,165,100,110,1,35,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,B BLOCKER,7,primary school,housewife,Retired,0,0,10.6,1.31,0,35,0,1.29,31.2,F
+30,58,100,160,113,120,0,0,0,0,0,0,,0,0,,,,0,0,0,1,,1,,4,Primary School,retired,housewife,0,1,12.1,0.86,1,12,1,0.77,39.1,F
+,75,72,161,113,98,0,0,0,1,2,0,"Metformin, Gliclazide",1,7,Atorvastatin,0,0,0,1,0,,,1,ACE+CCB,20,illiterate,guard i,retired,0,1,13.8,0.82,0,37,1,0.97,27.8,M
+28,67,90,170,105,105,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,6,high school,worker,retired,0,0,10.9,1.15,0,48,0,1.11,31.1,M
+,47,57,163,77,102,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,panic attack disease,1,B BLOCKER,5,University,government official,full-time work,1-2/week,0,9,1,0,24,0,1.81,21.5,F
+,47,76,159,125,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER,5,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,12.7,1.04,0,22,0,1.3,30.1,F
+28,66,58,148,85,96,1,43,0,0,0,0,,0,0,,0,0,0,0,0,,nephrectomy,0,,0,primary school,house wife,retired,3-4/week,0,6.8,0.75,1,14,0,1.45,26.5,F
+30,57,58,154,89,109,0,0,0,0,0,0,,0,0,,0,0,0,,,0,,0,,0,primary school,işçi,part-time work,3-4/week,,10.2,1.31,,22,0,0.83,24.46,F
+28,64,76,165,93,105,1,30,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,worker,retired,3-4/week,0,10.3,0.76,0,32,0,1.78,27.9,M
+,65,66,152,91,100,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary School,Maid,Full-time/part-time work,0,0,7.2,0.88,0,22,0,1.65,28.6,F
+30,53,80,158,95,101,0,0,0,0,0,0,,1,2,,1,4,1,0,0,0,,0,,0,primary school,housewife,Retired,1-2/week,0,7.9,1.17,0,29,0,0.93,32.1,F
+29,71,76,164,99,106,1,5,0,0,0,0,,0,0,,0,0,0,0,0,,BPH,0,,0,university,executive,retired,3-4/week,1,12.2,1.12,1,31,0,1.68,28.3,M
+29,73,81,151,103,117,1,2,0,1,10,0,metformin,1,10,atorvastatin,1,15,0,0,0,,,1,ARB+B BLOCKER+DIURETIC,15,high school,officer,retired,0,0,8.8,0.93,0,22,0,1.09,35.5,F
+,85,68,149,92,110,0,0,0,1,2,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,4,illiterate,Housewife,Unemployed,0,1,12.8,0.77,1,16,0,1.11,30.6,F
+,46,72,162,97,94,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,9,Primary School,maid,Full-time/part-time work,0,0,7.6,0.61,0,32,0,1.14,27.4,M
+,57,72,162,90,109,0,0,0,1,,0,metformin,0,0,,0,0,0,0,0,0,,0,,0,high school,house wife,retired,0,0,6.9,1.42,0,28,0,1.59,27.4,F
+27,61,90,172,105,113,1,30,Social,0,0,0,,0,0,,0,0,1,,0,,"tiroidektomi, hipotiroidi",1,,6,high school,officer,Retired,0,,11.4,1.07,,35,0,1.32,30.42,M
+,45,150,189,130,132,0,0,0,1,11,0,"Metformin, Gliclazide",1,12,Simvastatin,0,0,0,0,0,,sleeve gastrectomy surgery,1,ACE,12,High school,royal guard,Full-time/part-time work,1-2/week,0,5,1.38,0,62,0,1.12,42,M
+,60,76,162,97,113,1,35,0,0,0,0,,0,0,,0,0,1,0,0,0,,0,,0,primary school,house wife,retired,0,1,12.5,1.37,0,25,0,1.42,29,F
+30,58,67,155,100,109,1,37,0,0,0,0,,0,0,,0,0,,,,0,,0,,0,primary school,garson,part-time work,0,,7.8,1.35,,19,0,1.23,27.9,F 
+22,65,86,160,117,130,0,0,0,1,10,0,metformin,0,0,,1,15,0,0,0,0,,1,ACE+CCB+DIURETIC,15,primary school,house wife,retired,1-2/week,1,23.4,0.53,1,18,1,0.96,33.6,F
+26,62,65,155,113,114,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,1,ACE,2,primary school,housewife,Retired,3-4/week,1,19,0.67,0,23,0,1.49,27.1,F
+30,76,64,160,98,99,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,primary school,housewife,Retired,1-2/week,0,11.4,0.9,1,17,0,1.1,25,F
+,64,62,156,98,92,0,0,0,1,,,,1,,atorvastatin,0,0,0,0,0,1,depresyon ,1,ARB+DIURETIC,,university,emekli hemşire,retired,0,,12.5,1.01,0,19,0,1.35,25.5,F 
+25,50,72,162,89,112,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,,0,,0,university,officer,retired,1-2/week,0,8.3,1.05,0,30,0,1.45,27.4,F
+27,72,70,162,94,97,1,60,0,1,11,1,"metformin,insulin ",1,10,fenofibrate,0,0,0,0,0,,BPH,0,,0,illiterate,worker,retired,0,0,7.9,1.27,0,35,0,1.28,26.7,M
+,72,65,175,86,98,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,,,University,,,0,0,10.8,1.2,0,45,0,1.28,21.2,M
+27,53,100,185,111,121,1,5,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+CCB,25,primary school,dyer,working,0,0,10.3,1.03,0,42,0,1.38,29.2,M
+29,66,116,177,132,123,1,40,0,1,7,0,"sitagliptin,metformin",0,0,,1,10,0,0,0,,,1,ARB+DIURETIC,7,primary school,construction worker,Retired,0,0,9.6,1.22,0,39,0,1.27,37,M
+,56,82,168,82,168,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Teacher,full-time work,0,0,5.2,1.3,0,42,0,1.46,29.1,M
+,46,60,159,80,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER,2,High School,government official,full-time work,0,0,10.3,1.2,0,20,0,1.94,23.7,F
+,62,68,169,89,100,1,90,Regular,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,10,University,veterinarian,full-time work,0,0,8.5,0.68,0,28,0,1.32,23.8,F
+,59,74,170,89,110,1,30,0,0,0,0,,0,0,,0,0,0,0,1,0,,1,CCB,3,Illiterate,housewife,unemployed,0,1,18,1.17,0,28,0,1.01,25.6,F
+30,73,60,150,112,115,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,CCB,20,primary school,housewife,Retired,0,1,18.5,0.59,1,14,0,1.17,26.7,F
+,45,76,153,95,105,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,SPINAL STENOSIS,1,ARB+DIURETIC,2,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,24.9,1.63,0,24,0,1,32.5,F
+,82,70,150,109,107,0,0,0,0,0,0,,1,7,Atorvastatin,0,0,0,0,0,,,1,CCB,7,Illiterate,Housewife,Unemployed,3-4/week,1,12.5,0.69,0,22,1,0.81,31.1,F
+29,61,80,159,92,104,1,15,social,0,0,0,,1,5,atorvastatin,1,5,0,0,0,,venöz yetmezlik,0,,0,primary school,house wife,retired,0,0,10.9,0.85,0,22,0,1.12,31.6,F
+,58,75,163,100,118,0,0,0,1,3,0,metformin,0,0,,0,0,0,0,0,,,1,ACE+CCB,2,primary school,house wife,unemployed,0,1,14.3,0.91,0,26,0,1.25,28.2,F
+,58,91,159,110,118,0,0,0,0,0,0,,1,6,Simvastatin,0,0,0,0,0,,Gut,1,ARB+DIURETIC,6,Secondary school,Secretary,Retired,0,0,9.5,0.65,0,37,0,0.73,36,M
+30,45,58,165,76,103,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,FMS,0,,0,high school,serbest m,part-time work,3-4/week,1,13.2,0.89,1,10,0,1.46,21.3,F
+30,72,103,177,118,115,1,25,Social,1,7,0,"metformin,vildagliptin",1,,fenofibrate,1,21,0,0,0,,BPH,1,ARB+B BLOCKER+DIURETIC,10,University,officer,retired,0,0,10.2,0.91,1,28,0,1.55,32.9,M
+13,89,71,156,100,105,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,af,1,ACE+B BLOCKER+DIURETIC,8,primary school,farmer,retired,3-4/week,1,30,0.45,1,25,1,0.9,29.2,M
+,52,95,163,105,120,0,0,0,1,8,0,metformin,0,0,,0,0,0,0,0,,,1,ARB+B BLOCKER+DIURETIC,13,Secondary School,housewife,retired,0,0,11,1.02,0,24,0,0.9,35.8,F
+,45,69,164,93,104,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Telephone operator,Full-time/part-time work,1-2/week,0,5.8,1.4,0,32,0,1.42,25.7,F
+,45,57,153,84,87,1,7.5,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+B BLOCKER,0.5,illiterate,sheep herder/maid,full-time/part-time work,3-4/week,0,5.3,0.92,0,42,0,1.62,24.4,M
+29,45,78,163,88,111,1,13,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,counselor,full-time/part-time work,1-2/week,0,11.7,1.24,0,29,0,1.12,29.4,F
+,56,80,167,92,112,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Primary school,farmer,retired,0,0,10,0.9,0,48,0,1.07,28.7,M
+27,90,72,148,109,119,0,0,0,1,15,1,metformin+vildagliptin+insulin,0,0,,1,3,0,0,0,1,aritmi,1,ARB+B BLOCKER,6,Secondary School,housewife,retired,0,0,11.3,0.63,0,20,0,1.12,32.9,F
+,73,86,155,86,92,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,1,primary School,housewife,unemployed,3-4/week,1,12.1,0.88,0,19,1,0.77,35.8,F
+,54,85,155,115,118,0,0,0,1,,0,Gliclazide,1,,atorvastatin,0,0,0,0,0,0,,0,,0,primary school,worker,retired,1-2/week,0,9.6,1.17,0,30,0,1.35,35.4,F
+,45,76,156,105,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER+CCB,20,high school,TEACHER,full-time work,0,1,13.4,1.39,0,22,0,1.2,31.2,F
+,54,85,160,103,119,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,High School,Administrative Assistent,Full-time/part-time work,0,0,6.7,1.24,0,26,0,1.18,33.2,F
+,55,70,155,90,102,0,0,0,1,9,0,"SITAGLIPTIN, METFORMIN",1,1,Atorvastatin,0,0,0,0,0,,,1,ARB,9,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,14,1.17,0,22,0,1.3,29.1,F
+,75,95,175,112,111,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high School,,,0,0,10.6,1.71,0,48,0,1.25,31,M
+29,57,84,162,108,120,0,0,0,1,10,0,"pioglitazon,metformin",0,0,,0,0,1,0,0,,,1,ACE+DIURETIC,10,primary school,house wife,retired,0,0,10.2,0.76,0,22,0,1.13,32,F
+,57,81,160,93,103,1,35,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Secondary School,farmer,full-time/part-time work,3-4/week,1,14,0.87,0,47,0,1.55,31.6,M
+30,71,68,153,106,101,0,0,0,0,0,0,,0,0,,0,0,1,1,0,1,,0,,0,illiterate,house wife,retired,0,0,10.3,0.98,0,23,0,1.06,29.1,F
+26,57,94.5,166,117,107,1,10,0,1,12,0,metformin,1,15,atorvastatin,1,15,0,0,0,,,1,ACE,15,Secondary School,manifacturer,working,3-4/week,,8.4,0.88,0,40,0,1.33,34.3,M
+,80,74,161,107,104,0,0,0,0,0,0,,1,10,Simvastatin,0,0,0,0,0,,"hyperuricemia, albinism",1,ACE,3,illiterate,guard ,retired,0,0,8.4,0.94,1,29,1,0.92,28.6,M
+17,78,55,155,80,93,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,mide ca,1,ACE+B BLOCKER+CCB,15,primary school,house wife,retired,0,1,50,0.25,1,10,1,0.68,22.9,F
+29,71,69,162,97,98,0,0,0,1,20,1,"inzülin aspart,metformin",0,0,,1,9,0,0,0,,,1,ACE+CCB,20,High school,,retired,1-2/week,0,9.1,1.13,0,33,0,1.27,26.3,M
+25,62,100,174,117,119,1,10,0,0,0,0,,1,13,atorvastatin,1,13,0,0,0,,,1,ACE,13,high school,shopkeeper,retired,0,0,11.5,0.79,0,32,0,1.21,33,M
+30,45,98,182,109,113,1,27,Social,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,0.5,university,worker,working,0,0,9.7,1.13,0,42,0,1.53,29.6,M
+,78,95,165,120,119,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,Illiterate,Housewife,Unemployed,0,1,46.1,0.34,1,18,1,0.9,34.9,F
+29,49,75,170,90,105,1,10,Social,0,0,0,,1,5,atorvastatin,0,0,1,0,0,,,1,CCB,2,University,Doctor,Working,0,0,9.2,1.43,0,36,0,1.38,26,F
+25,65,88,158,112,138,1,2,0,1,6,0,"pioglitazon,metformin,empagliflozin,akarboz",0,0,,0,0,1,0,0,,,0,,0,primary school,house wife,retired,0,1,14.4,0.52,1,17,1,1,35.3,F
+,69,75,155,103,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,ARB+DIURETIC,0.5,primary school,housewife,unemployed,3-4/week,0,11.9,0.96,0,27,0,1.16,31.2,F
+,67,50,157,74,89,1,,0,0,0,0,,0,0,,0,0,0,0,0,1,,1,B BLOCKER+CCB,,Primary school,,,0,1,19,0.86,1,13,1,0.99,20.3,F
+30,68,61,158,82,104,1,20,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,secondary school,worker,retired,3-4/week,0,9,0.69,0,24,0,1.34,24.4,F
+,52,70,168,75,98,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,University,sekreter,part-time work,1-2/week,0,9.3,1.14,0,29,0,1.08,24.8,F
+30,69,67,174,81,102,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,engineer,retired,0,0,10.1,0.83,0,33,0,1.85,22.1,M
+,62,79,175,100,112,1,20,social,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,3,Secondary School,Worker,Full-time/part-time work,0,0,11,0.95,0,42,0,1.96,25.8,M
+27,81,77,144,100,121,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,aritmi,0,,0,Illiterate,house wife,retired,0,1,13.4,0.75,1,12,1,0.86,37.1,F
+,51,94,171,105,110,0,0,0,1,5,0,"SITAGLIPTIN, METFORMIN",1,5,,0,0,0,0,0,,,1,ARB,3,university,VETERAN,full-time work,1-2/week,0,10,0.87,0,40,0,1.16,32.2,M
+25,62,75,157,119,125,0,0,0,0,0,0,,0,0,,0,0,1,,0,,"tiroidektomi, hipotiroidi",0,,0,primary school,housewife,Retired,0,,14,0.79,,41,0,1.3,30.43,F
+30,71,56,149,79,102,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,housewife,retired,0,0,9.8,0.97,1,16,0,1.37,25.2,F
+28,46,65,150,84,94,1,20,social,0,0,0,,0,0,,0,0,0,0,0,,Depression ,0,,0,University,Nurse,Working,0,0,7.5,1.15,0,20,0,1.55,28.9,F
+28,66,78,151,104,118,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,mitral stenoz,0,,0,primary school,housewife,Retired,1-2/week,1,13.1,0.88,0,24,0,1.12,34.2,F
+,55,63,151,83,88,0,0,0,0,0,0,,1,1,simvastatin,0,0,0,0,0,,,1,ACE+B BLOCKER+DIURETIC,1,primary School,maid,full-time/part-time work,0,0,6.9,0.86,0,20,0,1.06,27.6,F
+,66,67,150,100,105,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,10,primary school,HOUSE WIFE,UNEMPLOYED,0,1,15.8,0.98,1,18,0,1.44,29.8,F
+28,79,68,156,90,109,0,0,0,0,0,0,,0,0,,,,1,0,0,0,,1,ACE,10,Primary school,retired,housewife,1-2/week,1,16.8,0.53,0,22,0,1.18,27.9,F
+29,46,95,155,114,117,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,primary school,worker,,0,1,11.9,1.05,0,26,0,0.87,39.5,F
+,70,82,164,108,115,0,0,0,0,0,0,,0,0,,0,0,0,1,0,,,1,,,Primary school,,,0,1,14.9,0.88,0,24,1,0.69,30.5,F
+27,60,91,167,113,108,1,30,0,1,5,1,"insulin glarjin,insulin aspart",0,0,,1,2,0,0,0,,,1,ARB+DIURETIC,5,primary school,worker,working,0,0,11.9,0.74,0,40,0,1.25,32.6,M
+,72,63,169,87,93,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+B BLOCKER,9,Primary School,National guard,Retired,0,1,12.6,0.64,1,28,1,0.95,22.1,M
+,60,75,158,106,112,0,0,0,1,,0,Gliclazide ,1,,rosuvastatin,0,,0,0,0,1,PTE,1,ACE+CCB,,primary school,ev hanımı,retired,0,1,14.2,0.9,0,25,0,1.69,30,F 
+,67,83,160,104,103,1,100,0,1,15,0,Metformin,1,12,Rosuvastatin,1,12,0,0,0,,,1,B BLOCKER+CCB,12,High school,Administrative employee,retired,0,1,14.7,0.62,1,18,1,0.96,32.4,M
+28,81,96,167,121,116,1,55,0,0,0,0,,0,0,,1,10,0,0,0,1,,0,,0,high school,security guard,retired,0,1,21.7,0.36,1,27,1,1.37,34.4,M
+,65,53,153,105,100,1,EX SMOKER 3YEARS/ UNLIMITED,0,0,0,0,,0,0,,0,0,0,0,0,,,1,B BLOCKER,3,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,16.4,1.07,0,19,0,1.26,22.6,F
+29,67,107,181,120,120,1,35,social,1,1,1,"sitagliptin,lantus",0,0,,0,0,0,0,0,,BPH,0,,0,Secondary School,Oto mechanic,Retired,0,1,17.2,1.22,0,33,1,1.32,32.7,M
+29,71,84,176,104,103,0,0,0,0,0,0,,0,0,,1,6,0,0,0,,kbh,1,ACE+DIURETIC,15,primary school,worker,retired,0,0,9.5,1.01,0,42,0,1,27.1,M
+24,52,95,160,110,129,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,tiroid ca,0,,0,primary school,house wife,retired,0,0,11.3,0.84,0,30,0,1.03,37.1,F
+30,46,59,159,76,101,0,0,social,0,0,0,,0,0,,0,0,1,0,0,,,1,B BLOCKER,2,high school,medical secretary,working,0,0,11,1.5,0,20,0,1.24,23.3,F
+29,59,87,170,98,119,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,secretary,,0,0,10.3,1.09,0,30,0,1.38,30.1,F
+30,45,70,166,91,97,1,30,0,0,0,0,,1,8,atorvastatin,1,8,0,0,0,,,1,B BLOCKER,8,Secondary School,car fixer,working,3-4/week,0,10.3,1.02,0,37,0,2.02,25.4,M
+,69,68,164,83,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,secondary School,,,0,0,10.8,1.39,0,25,0,1.45,25.3,F
+29,52,96,167,120,124,0,0,0,1,2,0,"sitagliptin,metformin",1,,Atorvastatin,0,0,0,0,0,,,1,ARB+CCB,2,university,Official,working,0,0,8.3,1.17,0,40,0,1.19,34.4,M
+30,47,88,161,101,120,1,20,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,University,Secretary,Working,0,0,7.6,1.2,0,38,0,1.07,33.9,F
+28,69,76,148,104,115,0,0,0,1,1,0,"metformin,Gliclazide",1,4,rosuvastatin,0,0,1,0,0,1,,1,B BLOCKER,4,illiterate,housewife,retired,0,0,11.9,0.62,0,27,0,0.77,34.7,F
+,72,69,145,111,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,tremor,0,,0,,,,,1,11,0.68,0,24,0,1.11,32.8,F
+28,62,88,156,116,117,0,0,0,0,0,0,,1,,,1,,0,1,0,,,0,,0,primary school,house wife,,0,0,10,1.17,0,22,0,1.62,36.2,F
+,48,72,156,103,90,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ARB+B BLOCKER,2,University,Teaching assistant,Full-time/part-time work,0,0,9.4,0.71,0,32,0,0.87,29.6,F
+16,65,103,146,134,143,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,0.65,primary school,housewife,retired,1-2/week,0,8.7,0.82,0,26,0,0.71,48.3,F
+19,58,69,164,106,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,illiterate,housewife,,0,,18.2,0.85,0,19,0,1.21,25.7,F
+26,55,68,164,88,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,,0,,0,primary school,housewife,Retired,1-2/week,0,7.8,1.31,0,25,0,1.23,25.3,F
+28,68,88,171,103,107,1,30,0,0,0,0,,0,0,,1,8,0,0,0,,chd,1,ACE,35,high school,imam,retired,3-4/week,0,6,0.86,0,40,0,1.71,30.1,M
+,49,68,155,94,105,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,0,,0,High school,ev hanımı,retired,0,1,12.4,1.2,0,28,0,1.53,28.3,F
+25,64,82,151,103,110,0,0,0,1,15,1,"Linagliptin,insulin glarjin,insulin glulizin",0,0,,0,0,0,0,0,,,1,CCB,2,primary school,housewife,Not working,0,,10.1,0.98,0,21,0,0.81,36,F
+27,66,80,163,98,108,0,0,social,0,0,0,,0,0,,0,0,0,,,0,,1,,13,University,lawyer,Retired,1-2/week,,11.7,1.45,,30,1,1.2,30.11,M
+,64,80,160,108,112,1,80,social,1,8,0,Metformin,0,0,,0,0,0,0,0,,,1,CCB,8,Primary School,Housewife,Unemployed,1-2/week,0,8.6,1.44,0,24,0,1.39,31.3,F
+29,45,69,170,84,101,0,0,0,0,0,0,,0,0,,0,0,,0,0,0,migren,0,,0,high school,gayrimenkul danışmanı,retired,1-2/week,,10.5,1.09,,16,0,1.38,23.9,F
+27,60,56,160,78,100,0,0,0,0,0,0,,0,0,,,,0,,0,1,,0,,0,Primary school,housewife,retired,1-2/week,,6.8,1.05,0,26,0,1.4,21.1,F 
+,64,62,164,77,99,1,30,social,0,0,0,,0,0,,0,,1,0,0,1,,1,ACE,,high school,satış temsilcisi,retired,1-2/week,0,2.2,1.5,0,20,0,1.2,23.1,F 
+27,61,81,170,102,104,1,40,0,1,10,0,"empagliflozin,metformin,Gliclazide,vildagliptin,pioglitazon",0,0,,0,0,0,0,0,,,1,ACE+B BLOCKER+CCB+DIURETIC,10,primary school,worker,retired,3-4/week,0,10.1,0.83,1,31,1,1.2,28,M
+,45,90,163,109,129,0,0,0,0,0,0,,0,0,,0,0,0,1,0,,,1,CCB,2,high school,worker,full-time/part-time work,0,1,11.6,0.83,0,24,0,0.73,33.9,F
+29,60,109,178,125,117,1,40,0,1,15,1,"insulin glarjin,metformin",0,0,,0,0,0,0,0,,,0,,0,primary school,worker,retired,0,1,15.7,0.65,0,34,1,0.97,34.4,M
+30,50,78,172,100,98,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,4,high school,driver,working,0,0,7.9,0.98,0,33,0,1.67,26.4,M
+24,46,56,152,80,94,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+DIURETIC,5,primary school,hairdresser,working,0,0,5.5,0.9,0,24,0,1.93,24.2,F
+27,72,61,146,108,101,0,0,0,0,0,0,,0,0,,1,4,0,0,0,,karotid arter stenozu - 4 yıl,1,CCB,1,Primary School,ev hanımı,retired,0,1,14.3,0.88,0,19,1,0.73,28.6,F
+30,46,83,177,102,108,1,25,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,high school,officer,working,0,0,7.1,1.2,0,50,0,2.02,26.5,M
+,60,63,164,95,98,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,HBV,1,ARB+DIURETIC,10,high school,soldier,retired,3-4/week,0,11.4,1.46,0,40,0,1.19,23.4,M
+29,45,53,150,77,90,0,0,social,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,university,nurse,working,3-4/week,0,5.2,1.15,0,22,0,1.63,23.6,F
+,49,49,146,86,98,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE,2,Illiterate,maid,Full-time/part-time work,0,0,5.7,0.95,0,20,0,1.71,23,F
+30,63,83,168,104,105,1,10,0,0,0,0,,0,0,,0,0,0,0,0,,,1,ACE+CCB+DIURETIC,15,University,civil servant,retired,3-4/week,0,9,0.66,0,37,0,1.67,29.4,M
+,71,63,159,97,106,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,AF,0,,0,High School,,,0,1,13.5,1.42,0,23,0,1.11,24.9,F
+28,56,67,150,94,103,0,0,0,1,2,0,metformin,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,12,Illiterate,house wife,retired,0,0,9.1,1.07,0,22,0,0.88,29.8,F
+25,65,90,177,106,112,1,15,0,1,20,1,"metformin, insulin glargin",0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,30,primary school,officer,retired,1-2/week,1,12.6,0.85,0,38,0,1.69,28.7,M
+24,59,87,158,117,130,1,20,0,1,10,0,metformin,1,15,fenofibrate,0,0,0,1,0,0,,0,,0,primary school,house wife,retired,0,1,21.1,0.92,1,16,0,1.07,34.9,F
+27,70,62,156,96,101,0,0,0,1,30,0,"vildagliptin, metformin",1,6,fenofibrate,0,0,0,0,0,1,,1,,10,Illiterate,house wife,retired,0,1,16.8,0.7,1,17,1,0.7,25.5,F
+,76,76,150,94,114,0,0,0,0,0,0,,1,15,Atorvastatin,0,0,0,0,0,1,"Prediabetes, hyperparathyroidism",1,ARB+B BLOCKER+DIURETIC,10,Secondary School,,Retired,0,1,19.1,0.6,1,16,1,0.92,33.8,F
+,47,72,162,99,100,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,0,,0,,,,,0,7.3,1.59,0,25,0,1.47,27.4,F
+,62,100,156,110,125,0,0,0,0,0,0,,1,7,Atorvastatin,0,0,0,0,0,,,1,ACE,18,Primary School,Housewife,Unemployed,0,1,15.3,0.53,0,26,1,0.69,41.1,F
+23,59,73,158,96,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,Kr. HBV,0,,0,primary school,Housewife,retired,0,0,9,1.23,0,24,0,1.1,29.2,F
+,61,67,167,90,110,0,0,0,1,14,0,Metformin,0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,15,illiterate,housewife,unemployed,0,1,14.2,1.1,1,18,0,1.1,24,F
+,62,62,163,81,101,0,0,social,1,2,0,Metformin,0,0,,0,0,0,0,0,,,1,ARB,11,High School,Housewife,Unemployed,0,1,15.3,0.96,0,22,0,2.33,23.3,F
+,56,67,159,115,120,0,0,0,0,0,0,,1,5,atorvastatin,0,0,0,1,0,,IHD,1,ARB,12,Illiterate,HOUSE WIFE,UNEMPLOYED,0,1,15.1,1.16,1,18,0,1.75,26.5,F
+28,67,97,176,112,117,1,20,0,0,0,0,,0,0,,1,2,0,1,0,,lumbal herni,0,,0,Secondary School,worker,retired,1-2/week,0,8.2,1.13,0,42,0,1.35,31.3,M
+,48,96,152,123,132,0,0,0,1,4,0,Metformin,0,0,,0,0,0,0,0,,,1,ACE,5,Primary school,Housewife,Unemployed,0,1,15.5,1,0,26,1,0.72,41.6,F
+29,60,73,157,105,102,1,30,0,0,0,0,,1,7,rosuvastatin,1,7,0,1,0,,"chd, arritmia",0,,0,primary school,cleaner,retired,3-4/week,1,12.7,0.6,0,36,0,1.95,29.6,M
+28,74,99,151,116,127,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,OA,1,ACE+DIURETIC,15,illiterate,house wife,retired,0,,13.8,0.47,0,24,1,0.82,43.4,F 
+,55,51,148,85,93,0,0,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ARB+CCB,2,High school,Beautician,retired,3-4/week,0,8.6,0.67,1,18,0,1.35,23.3,F
+27,65,68,162,90,104,1,50,social,0,0,0,,0,0,,0,0,1,0,0,,breast ca,0,,0,primary school,housewife,retired,0,0,9,0.85,0,21,0,1.14,25.9,F
+,49,95,147,105,117,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,,1,ACE+DIURETIC,3,primary school,housewife,unemployed,0,0,11.6,0.88,0,38,0,0.84,44,F
+16,67,58,155,93,97,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,,4,illiterate,tradesman,retired,0,0,8.7,0.91,1,23,0,1.61,24.1,M
+28,51,61,154,81,99,1,30,0,0,0,0,,0,0,,0,0,1,0,0,1,,1,B BLOCKER,5,Secondary School,house wife,retired,0,0,8.6,0.93,0,22,0,1.2,25.7,F
+29,56,70,164,84,110,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,,1,CCB,0.5,primary school,house wife,retired,0,0,7.4,1.2,0,28,0,1.73,26,F
+,71,82,144,114,115,0,0,0,0,0,0,,1,13,"Atorvastatin, fenofibrate",0,0,0,0,0,,,1,ACE+B BLOCKER+DIURETIC,17,Illiterate,Housewife,Unemployed,0,0,10.9,0.5,1,18,1,0.68,39.5,F
+20,78,72,161,91,158,0,0,0,1,10,0,,0,0,,0,0,0,1,0,,,0,,0,Illiterate,housewife,Not working,3-4/week,,19.4,1.05,1,18,0,1.07,27.8,F
+30,63,107,180,119,122,1,40,0,0,0,0,,,,,0,0,1,1,0,,,1,ARB+DIURETIC,0.5,university,teacher,retired,3-4/week,1,13,1.09,0,38,1,1.37,33,M
+30,58,78,147,106,121,0,0,0,1,6,0,metformin,0,0,,0,0,0,0,0,,,1,ARB+B BLOCKER+CCB+DIURETIC,20,primary school,housewife,retired,1-2/week,0,9.2,0.97,0,21,0,,36.1,F
+29,53,75,168,89,109,0,0,0,0,0,0,,0,0,,0,0,0,0,0,,CDH,0,,0,University,Teacher,Retired,1-2/week,0,6.8,1.33,0,30,0,1.27,26.6,F
+,47,100,159,103,136,1,2,0,0,0,0,,0,0,,0,0,1,0,0,0,,0,,0,primary school,house wife,retired,0,0,10.5,0.9,0,27,0,1.09,39.6,F
+30,67,62,150,94,104,0,0,0,0,0,0,,1,3,atorvastatin,0,0,0,0,0,,anksiyete,1,B BLOCKER,30,high school,tailor,retired,3-4/week,0,8.9,1.23,0,27,0,,27.6,F
+27,66,76,170,103,103,1,70,0,1,8,1,"insulin glarjin,insulin aspart",0,0,,0,0,0,0,0,,"bph,hbv",0,,0,primary school,marketer,retired,0,0,9.5,1.08,0,40,0,1.57,26.3,M
+27,61,61,149,94,110,0,0,0,1,8,1,"insulin glargine,sitagliptin,metformin",0,0,,0,0,0,0,0,,,1,ARB+DIURETIC,26,primary school,house wife,retired,1-2/week,0,7.7,0.85,0,22,0,0.87,27.5,F
+17,87,54,148,93,98,0,0,0,0,0,0,,0,0,,1,18,0,1,0,1,"kby, hasta sinüs sendromu, kalp yetmezliği, astım, alzheimer",1,ARB,40,primary school,house wife,retired,3-4/week,,15.2,0.49,,17,0,1.41,24.7,F 
+30,73,80,162,103,107,1,50,0,1,22,0,metformin,0,0,,0,0,0,0,0,,prostat ca,1,ARB+DIURETIC,22,high school,soldier,retired,0,0,8.7,0.92,1,30,1,1.31,30.5,M
+25,61,87,158,107,128,1,45,0,0,0,0,,0,0,,0,0,1,0,0,,,1,ACE+B BLOCKER+CCB+DIURETIC,10,high school,house wife,retired,3-4/week,0,9.4,0.8,0,23,0,1.15,34.9,F
+29,66,70,166,96,101,1,46,social,0,0,0,,0,0,,0,0,0,0,0,,aritmi,1,ACE+B BLOCKER,1,primary school,painter,retired,0,0,8.3,1.22,1,29,1,1.15,25.4,M
+24,65,70,158,89,108,0,0,0,1,2,0,metformin,1,2,atorvastatin,0,0,0,0,0,0,,1,ACE,15,high school,officer,retired,0,0,10.1,1.06,0,26,0,1.02,28,F
+30,63,86,160,112,126,1,30,0,1,10,0," Pioglitazon, Empagliflozin",0,0,,0,0,1,,,0,,0,,0,University,Teacher,Retired,1-2/week,,4.8,0.88,,24,0,0.93,33.6,F
